@@ -1,5 +1,6 @@
 baseURL: "https://chuichuifeng-carbon.github.io/automotive-carbon-fiber-guide/"
 languageCode: "en-us"
+theme: "PaperMod"
 title: "Automotive Carbon Fiber Guide | CHUICHUIFENG Carbon Fiber"
 
 enableRobotsTXT: true
