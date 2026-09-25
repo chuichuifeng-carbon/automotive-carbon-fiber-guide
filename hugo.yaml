@@ -62,22 +62,32 @@ menu:
       url: /posts/
       weight: 10
 
+    - identifier: products
+      name: Products
+      url: /products/
+      weight: 20
+
     - identifier: sourcing
       name: Sourcing
       url: /sourcing/
-      weight: 20
+      weight: 30
 
     - identifier: oem
       name: OEM / ODM
       url: /oem/
-      weight: 30
+      weight: 40
 
     - identifier: about
       name: About
       url: /about/
-      weight: 40
+      weight: 50
+
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 60
 
     - identifier: website
       name: Our Factory
       url: https://www.ccfrp.com/
-      weight: 50
+      weight: 70
