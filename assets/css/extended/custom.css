@@ -1,0 +1,280 @@
+/* =========================================
+   CHUICHUIFENG Carbon Fiber
+   Automotive B2B Visual System
+   ========================================= */
+
+:root {
+  --theme: #f5f5f3;
+  --entry: #ffffff;
+  --primary: #111111;
+  --secondary: #666666;
+  --tertiary: #d8d8d5;
+  --content: #202020;
+  --code-block-bg: #171717;
+  --code-bg: #eeeeeb;
+  --border: #deded9;
+  --accent: #111111;
+  --brand-gray: #777777;
+}
+
+body {
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+  letter-spacing: -0.01em;
+}
+
+/* ---------- Header ---------- */
+
+.nav {
+  max-width: 1240px;
+  height: 72px;
+}
+
+.logo a {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+#menu a {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* ---------- Main Layout ---------- */
+
+.main {
+  max-width: 1180px;
+}
+
+.first-entry {
+  margin-top: 24px;
+}
+
+/* ---------- Home / Hero ---------- */
+
+.profile {
+  min-height: 520px;
+  padding: 80px 30px 70px;
+  border-radius: 18px;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255,255,255,0.98),
+      rgba(235,235,232,0.94)
+    );
+  border: 1px solid var(--border);
+  box-shadow: 0 18px 50px rgba(0,0,0,0.06);
+}
+
+.profile .profile_inner {
+  max-width: 900px;
+}
+
+.profile h1 {
+  font-size: clamp(42px, 6vw, 76px);
+  line-height: 0.98;
+  letter-spacing: -0.055em;
+  font-weight: 850;
+  margin-bottom: 24px;
+}
+
+.profile .profile_inner > span {
+  max-width: 760px;
+  margin: 0 auto 32px;
+  font-size: 18px;
+  line-height: 1.65;
+  color: #555;
+}
+
+.profile .buttons {
+  gap: 14px;
+}
+
+.profile .button {
+  min-width: 190px;
+  padding: 13px 22px;
+  border-radius: 7px;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    background 0.2s ease;
+}
+
+.profile .button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+}
+
+/* ---------- Content Pages ---------- */
+
+.post-single {
+  max-width: 900px;
+}
+
+.post-title {
+  font-size: clamp(36px, 5vw, 58px);
+  line-height: 1.05;
+  letter-spacing: -0.045em;
+}
+
+.post-content {
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+.post-content h2 {
+  margin-top: 55px;
+  margin-bottom: 18px;
+  font-size: 30px;
+  letter-spacing: -0.035em;
+}
+
+.post-content h3 {
+  margin-top: 38px;
+  font-size: 22px;
+  letter-spacing: -0.025em;
+}
+
+.post-content a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* ---------- Entry Cards ---------- */
+
+.post-entry {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--entry);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.035);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.post-entry:hover {
+  transform: translateY(-3px);
+  border-color: #bdbdb8;
+  box-shadow: 0 14px 35px rgba(0,0,0,0.08);
+}
+
+.entry-header h2 {
+  font-size: 25px;
+  letter-spacing: -0.03em;
+}
+
+/* ---------- Buttons ---------- */
+
+.button {
+  border-radius: 7px;
+  font-weight: 700;
+}
+
+.button:hover {
+  transform: translateY(-1px);
+}
+
+/* ---------- Tables ---------- */
+
+.post-content table {
+  display: table;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin: 28px 0;
+}
+
+.post-content th {
+  background: #171717;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.post-content th,
+.post-content td {
+  padding: 13px 15px;
+  border: 1px solid #d9d9d5;
+}
+
+/* ---------- Code / Quote ---------- */
+
+.post-content blockquote {
+  border-inline-start: 4px solid #222;
+  background: #eeeeeb;
+  border-radius: 0 8px 8px 0;
+  padding: 16px 20px;
+}
+
+.post-content pre {
+  border-radius: 10px;
+}
+
+/* ---------- Images ---------- */
+
+.post-content img {
+  border-radius: 10px;
+}
+
+/* ---------- Footer ---------- */
+
+.footer {
+  max-width: 1180px;
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 768px) {
+
+  .nav {
+    height: 62px;
+  }
+
+  .profile {
+    min-height: auto;
+    padding: 60px 20px;
+    border-radius: 12px;
+  }
+
+  .profile h1 {
+    font-size: 42px;
+  }
+
+  .profile .profile_inner > span {
+    font-size: 16px;
+  }
+
+  .profile .buttons {
+    flex-direction: column;
+  }
+
+  .profile .button {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .post-title {
+    font-size: 36px;
+  }
+
+  .post-content {
+    font-size: 16px;
+  }
+
+  .post-content h2 {
+    font-size: 27px;
+  }
+}
