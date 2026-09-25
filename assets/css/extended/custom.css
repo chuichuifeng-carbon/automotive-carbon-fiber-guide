@@ -1,20 +1,32 @@
 /* =========================================
    CHUICHUIFENG Carbon Fiber
-   Automotive B2B Visual System
+   Final Automotive B2B Visual System
    ========================================= */
 
 :root {
-  --theme: #f5f5f3;
+  --theme: #f4f4f2;
   --entry: #ffffff;
   --primary: #111111;
   --secondary: #666666;
-  --tertiary: #d8d8d5;
+  --tertiary: #d8d8d4;
   --content: #202020;
-  --code-block-bg: #171717;
+  --code-block-bg: #151515;
   --code-bg: #eeeeeb;
   --border: #deded9;
-  --accent: #111111;
-  --brand-gray: #777777;
+
+  --ccf-black: #111111;
+  --ccf-dark: #1a1a1a;
+  --ccf-gray: #666666;
+  --ccf-light: #f4f4f2;
+  --ccf-border: #deded9;
+}
+
+/* =========================================
+   Global
+   ========================================= */
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
@@ -27,19 +39,23 @@ body {
     Helvetica,
     Arial,
     sans-serif;
+
   letter-spacing: -0.01em;
+  background: var(--theme);
 }
 
-/* ---------- Header ---------- */
+.main {
+  max-width: 1180px;
+}
 
 .nav {
   max-width: 1240px;
-  height: 72px;
+  min-height: 72px;
 }
 
 .logo a {
   font-weight: 800;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.035em;
 }
 
 #menu a {
@@ -48,49 +64,104 @@ body {
   letter-spacing: 0.01em;
 }
 
-/* ---------- Main Layout ---------- */
-
-.main {
-  max-width: 1180px;
-}
-
-.first-entry {
-  margin-top: 24px;
-}
-
-/* ---------- Home / Hero ---------- */
+/* =========================================
+   Homepage Hero
+   ========================================= */
 
 .profile {
-  min-height: 520px;
-  padding: 80px 30px 70px;
+  position: relative;
+  isolation: isolate;
+  min-height: 540px;
+  padding: 90px 35px 80px;
+
+  overflow: hidden;
+
+  border: 1px solid var(--ccf-border);
   border-radius: 18px;
+
   background:
     linear-gradient(
       135deg,
-      rgba(255,255,255,0.98),
-      rgba(235,235,232,0.94)
+      rgba(255,255,255,0.98) 0%,
+      rgba(245,245,242,0.96) 48%,
+      rgba(225,225,221,0.95) 100%
     );
-  border: 1px solid var(--border);
-  box-shadow: 0 18px 50px rgba(0,0,0,0.06);
+
+  box-shadow:
+    0 20px 60px rgba(0,0,0,0.07);
+}
+
+/* Carbon-fiber inspired texture */
+
+.profile::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  z-index: -1;
+
+  opacity: 0.055;
+
+  background:
+    repeating-linear-gradient(
+      45deg,
+      #000 0,
+      #000 1px,
+      transparent 1px,
+      transparent 7px
+    ),
+    repeating-linear-gradient(
+      -45deg,
+      #000 0,
+      #000 1px,
+      transparent 1px,
+      transparent 7px
+    );
+
+  pointer-events: none;
+}
+
+/* Large subtle technical shape */
+
+.profile::after {
+  content: "";
+  position: absolute;
+
+  width: 520px;
+  height: 520px;
+
+  right: -220px;
+  bottom: -280px;
+
+  border-radius: 50%;
+
+  background: rgba(0,0,0,0.035);
+
+  pointer-events: none;
 }
 
 .profile .profile_inner {
+  position: relative;
+  z-index: 2;
   max-width: 900px;
 }
 
 .profile h1 {
-  font-size: clamp(42px, 6vw, 76px);
+  font-size: clamp(44px, 6vw, 78px);
   line-height: 0.98;
-  letter-spacing: -0.055em;
+  letter-spacing: -0.06em;
   font-weight: 850;
-  margin-bottom: 24px;
+
+  margin-bottom: 26px;
 }
 
 .profile .profile_inner > span {
-  max-width: 760px;
-  margin: 0 auto 32px;
+  max-width: 790px;
+  margin: 0 auto 34px;
+
   font-size: 18px;
   line-height: 1.65;
+
   color: #555;
 }
 
@@ -99,12 +170,17 @@ body {
 }
 
 .profile .button {
-  min-width: 190px;
-  padding: 13px 22px;
+  min-width: 195px;
+
+  padding: 14px 24px;
+
   border-radius: 7px;
+
   font-size: 14px;
   font-weight: 700;
+
   letter-spacing: 0.01em;
+
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease,
@@ -112,52 +188,41 @@ body {
 }
 
 .profile .button:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+  transform: translateY(-3px);
+
+  box-shadow:
+    0 12px 28px rgba(0,0,0,0.13);
 }
 
-/* ---------- Content Pages ---------- */
+/* =========================================
+   Section / Page Titles
+   ========================================= */
 
-.post-single {
-  max-width: 900px;
-}
-
-.post-title {
-  font-size: clamp(36px, 5vw, 58px);
+.page-header h1 {
+  font-size: clamp(38px, 5vw, 58px);
+  letter-spacing: -0.05em;
   line-height: 1.05;
-  letter-spacing: -0.045em;
 }
 
-.post-content {
-  font-size: 17px;
-  line-height: 1.8;
+.page-header {
+  margin-bottom: 30px;
 }
 
-.post-content h2 {
-  margin-top: 55px;
-  margin-bottom: 18px;
-  font-size: 30px;
-  letter-spacing: -0.035em;
-}
-
-.post-content h3 {
-  margin-top: 38px;
-  font-size: 22px;
-  letter-spacing: -0.025em;
-}
-
-.post-content a {
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
-}
-
-/* ---------- Entry Cards ---------- */
+/* =========================================
+   Article Cards
+   ========================================= */
 
 .post-entry {
-  border: 1px solid var(--border);
+  position: relative;
+
+  border: 1px solid var(--ccf-border);
   border-radius: 12px;
+
   background: var(--entry);
-  box-shadow: 0 8px 25px rgba(0,0,0,0.035);
+
+  box-shadow:
+    0 7px 24px rgba(0,0,0,0.035);
+
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease,
@@ -165,17 +230,194 @@ body {
 }
 
 .post-entry:hover {
-  transform: translateY(-3px);
-  border-color: #bdbdb8;
-  box-shadow: 0 14px 35px rgba(0,0,0,0.08);
+  transform: translateY(-4px);
+
+  border-color: #bcbcb7;
+
+  box-shadow:
+    0 16px 38px rgba(0,0,0,0.09);
 }
 
 .entry-header h2 {
   font-size: 25px;
+  line-height: 1.2;
+  letter-spacing: -0.035em;
+}
+
+.entry-content {
+  color: #666;
+  line-height: 1.65;
+}
+
+.entry-footer {
+  margin-top: 20px;
+}
+
+/* =========================================
+   Single Article
+   ========================================= */
+
+.post-single {
+  max-width: 900px;
+}
+
+.post-title {
+  font-size: clamp(38px, 5vw, 60px);
+  line-height: 1.04;
+  letter-spacing: -0.055em;
+}
+
+.post-content {
+  font-size: 17px;
+  line-height: 1.82;
+}
+
+.post-content h2 {
+  margin-top: 58px;
+  margin-bottom: 20px;
+
+  font-size: 30px;
+  line-height: 1.2;
+
+  letter-spacing: -0.04em;
+}
+
+.post-content h3 {
+  margin-top: 40px;
+  margin-bottom: 14px;
+
+  font-size: 22px;
+  line-height: 1.3;
+
   letter-spacing: -0.03em;
 }
 
-/* ---------- Buttons ---------- */
+.post-content h4 {
+  margin-top: 30px;
+  font-size: 18px;
+}
+
+.post-content p {
+  margin-bottom: 22px;
+}
+
+.post-content strong {
+  color: #111;
+}
+
+.post-content a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* =========================================
+   Breadcrumb
+   ========================================= */
+
+.breadcrumbs {
+  margin-bottom: 25px;
+  font-size: 13px;
+}
+
+/* =========================================
+   Tables
+   ========================================= */
+
+.post-content table {
+  width: 100%;
+  margin: 30px 0;
+
+  border-collapse: collapse;
+
+  font-size: 15px;
+}
+
+.post-content th {
+  background: #171717;
+  color: #ffffff;
+
+  font-weight: 700;
+}
+
+.post-content th,
+.post-content td {
+  padding: 13px 15px;
+
+  border: 1px solid #d9d9d5;
+
+  vertical-align: top;
+}
+
+.post-content tr:nth-child(even) td {
+  background: #f8f8f6;
+}
+
+/* =========================================
+   Blockquotes
+   ========================================= */
+
+.post-content blockquote {
+  margin: 30px 0;
+
+  border-inline-start: 4px solid #222;
+
+  background: #eeeeeb;
+
+  border-radius: 0 8px 8px 0;
+
+  padding: 17px 22px;
+
+  color: #444;
+}
+
+/* =========================================
+   Lists
+   ========================================= */
+
+.post-content ul,
+.post-content ol {
+  margin-top: 18px;
+  margin-bottom: 24px;
+}
+
+.post-content li {
+  margin-bottom: 8px;
+}
+
+/* =========================================
+   Code
+   ========================================= */
+
+.post-content pre {
+  border-radius: 10px;
+}
+
+.post-content code {
+  border-radius: 5px;
+}
+
+/* =========================================
+   Images
+   ========================================= */
+
+.post-content img {
+  border-radius: 10px;
+
+  box-shadow:
+    0 8px 25px rgba(0,0,0,0.07);
+}
+
+/* =========================================
+   CTA Links
+   ========================================= */
+
+.post-content a[href*="ccfrp.com"] {
+  font-weight: 700;
+}
+
+/* =========================================
+   Buttons
+   ========================================= */
 
 .button {
   border-radius: 7px;
@@ -186,75 +428,45 @@ body {
   transform: translateY(-1px);
 }
 
-/* ---------- Tables ---------- */
-
-.post-content table {
-  display: table;
-  width: 100%;
-  overflow-x: auto;
-  border-collapse: collapse;
-  margin: 28px 0;
-}
-
-.post-content th {
-  background: #171717;
-  color: #ffffff;
-  font-weight: 700;
-}
-
-.post-content th,
-.post-content td {
-  padding: 13px 15px;
-  border: 1px solid #d9d9d5;
-}
-
-/* ---------- Code / Quote ---------- */
-
-.post-content blockquote {
-  border-inline-start: 4px solid #222;
-  background: #eeeeeb;
-  border-radius: 0 8px 8px 0;
-  padding: 16px 20px;
-}
-
-.post-content pre {
-  border-radius: 10px;
-}
-
-/* ---------- Images ---------- */
-
-.post-content img {
-  border-radius: 10px;
-}
-
-/* ---------- Footer ---------- */
+/* =========================================
+   Footer
+   ========================================= */
 
 .footer {
   max-width: 1180px;
+
   padding-top: 45px;
   padding-bottom: 45px;
+
+  color: #777;
 }
 
-/* ---------- Mobile ---------- */
+/* =========================================
+   Mobile
+   ========================================= */
 
 @media (max-width: 768px) {
 
   .nav {
-    height: 62px;
+    min-height: 62px;
   }
 
   .profile {
     min-height: auto;
-    padding: 60px 20px;
+
+    padding: 62px 20px;
+
     border-radius: 12px;
   }
 
   .profile h1 {
     font-size: 42px;
+    letter-spacing: -0.05em;
   }
 
   .profile .profile_inner > span {
     font-size: 16px;
+    line-height: 1.6;
   }
 
   .profile .buttons {
@@ -272,9 +484,24 @@ body {
 
   .post-content {
     font-size: 16px;
+    line-height: 1.75;
   }
 
   .post-content h2 {
+    margin-top: 44px;
     font-size: 27px;
+  }
+
+  .post-content h3 {
+    font-size: 21px;
+  }
+
+  .post-content table {
+    font-size: 14px;
+  }
+
+  .post-content th,
+  .post-content td {
+    padding: 10px 11px;
   }
 }

@@ -1,17 +1,33 @@
 baseURL: "https://chuichuifeng-carbon.github.io/automotive-carbon-fiber-guide/"
-languageCode: "en-us"
-theme: "PaperMod"
 title: "Automotive Carbon Fiber Guide | CHUICHUIFENG Carbon Fiber"
+
+theme: "PaperMod"
 
 enableRobotsTXT: true
 
 pagination:
   pagerSize: 10
 
+defaultContentLanguage: en
+
+languages:
+  en:
+    languageName: "English"
+    languageCode: "en-us"
+    weight: 1
+
 params:
   env: production
+
   author: "CHUICHUIFENG Carbon Fiber"
+
   description: "Automotive carbon fiber guides, sourcing insights, OEM/ODM resources, and manufacturing knowledge for global automotive brands."
+
+  label:
+    text: "CHUICHUIFENG Carbon Fiber"
+
+  assets:
+    favicon: "/favicon.svg"
 
   defaultTheme: light
   disableThemeToggle: true
@@ -32,13 +48,55 @@ params:
 
   profileMode:
     enabled: true
+
     title: "Automotive Carbon Fiber Guide"
+
     subtitle: "Manufacturing insights, fitment guides, sourcing resources, and OEM/ODM knowledge for global automotive brands, distributors, e-commerce sellers, and performance shops."
+
     buttons:
       - name: "Explore Guides"
         url: "/posts/"
+
       - name: "Work With Our Factory"
         url: "https://www.ccfrp.com/"
+
+menu:
+  main:
+
+    - identifier: guides
+      name: "Guides"
+      url: "/posts/"
+      weight: 10
+
+    - identifier: products
+      name: "Products"
+      url: "/products/"
+      weight: 20
+
+    - identifier: sourcing
+      name: "Sourcing"
+      url: "/sourcing/"
+      weight: 30
+
+    - identifier: oem
+      name: "OEM / ODM"
+      url: "/oem/"
+      weight: 40
+
+    - identifier: about
+      name: "About"
+      url: "/about/"
+      weight: 50
+
+    - identifier: contact
+      name: "Contact"
+      url: "/contact/"
+      weight: 60
+
+    - identifier: website
+      name: "Our Factory"
+      url: "https://www.ccfrp.com/"
+      weight: 70
 
 markup:
   goldmark:
@@ -54,40 +112,3 @@ outputs:
 caches:
   images:
     dir: ":cacheDir/images"
-
-menu:
-  main:
-    - identifier: guides
-      name: Guides
-      url: /posts/
-      weight: 10
-
-    - identifier: products
-      name: Products
-      url: /products/
-      weight: 20
-
-    - identifier: sourcing
-      name: Sourcing
-      url: /sourcing/
-      weight: 30
-
-    - identifier: oem
-      name: OEM / ODM
-      url: /oem/
-      weight: 40
-
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 50
-
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 60
-
-    - identifier: website
-      name: Our Factory
-      url: https://www.ccfrp.com/
-      weight: 70
