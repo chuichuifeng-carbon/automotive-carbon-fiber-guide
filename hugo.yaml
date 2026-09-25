@@ -65,7 +65,7 @@ menu:
 
     - identifier: guides
       name: "Guides"
-      url: "/posts/"
+      url: "posts/"
       weight: 10
 
     - identifier: products
