@@ -1,0 +1,21 @@
+baseURL: "https://chuichuifeng-carbon.github.io/automotive-carbon-fiber-guide/"
+languageCode: "en-us"
+title: "Automotive Carbon Fiber Guide | CHUICHUIFENG Carbon Fiber"
+
+enableRobotsTXT: true
+
+pagination:
+  pagerSize: 10
+
+params:
+  author: "CHUICHUIFENG Carbon Fiber"
+  description: "Automotive carbon fiber guides, sourcing insights, OEM/ODM resources, and manufacturing knowledge for global automotive brands."
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+caches:
+  images:
+    dir: ":cacheDir/images"
