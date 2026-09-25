@@ -1,5 +1,6 @@
 baseURL: "https://chuichuifeng-carbon.github.io/automotive-carbon-fiber-guide/"
 languageCode: "en-us"
+theme: "PaperMod"
 title: "Automotive Carbon Fiber Guide | CHUICHUIFENG Carbon Fiber"
 
 enableRobotsTXT: true
@@ -26,7 +27,18 @@ params:
   homeInfoParams:
     Title: "Automotive Carbon Fiber Guide"
     Content: >
-      Manufacturing insights, fitment guides, sourcing resources, and OEM/ODM knowledge for automotive brands, distributors, e-commerce sellers, and performance shops.
+      Practical guides for sourcing, manufacturing, fitment, OEM/ODM,
+      wholesale, and automotive carbon fiber business development.
+
+  profileMode:
+    enabled: true
+    title: "Automotive Carbon Fiber Guide"
+    subtitle: "Manufacturing insights, fitment guides, sourcing resources, and OEM/ODM knowledge for global automotive brands, distributors, e-commerce sellers, and performance shops."
+    buttons:
+      - name: "Explore Guides"
+        url: "/posts/"
+      - name: "Work With Our Factory"
+        url: "https://www.ccfrp.com/"
 
 markup:
   goldmark:
@@ -42,3 +54,30 @@ outputs:
 caches:
   images:
     dir: ":cacheDir/images"
+
+menu:
+  main:
+    - identifier: guides
+      name: Guides
+      url: /posts/
+      weight: 10
+
+    - identifier: sourcing
+      name: Sourcing
+      url: /sourcing/
+      weight: 20
+
+    - identifier: oem
+      name: OEM / ODM
+      url: /oem/
+      weight: 30
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+
+    - identifier: website
+      name: Our Factory
+      url: https://www.ccfrp.com/
+      weight: 50
