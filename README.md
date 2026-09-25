@@ -223,4 +223,15 @@ Automotive Carbon Fiber Manufacturing
 ### For Business Inquiries
 
 **Wholesale / Distribution**
-Te
+Tell us what products and vehicles you are looking for.
+
+**Private Label**
+Tell us about your brand and product requirements.
+
+**OEM / ODM**
+Send us your product idea, drawing, reference, or development requirements.
+
+**E-Commerce Sourcing**
+Tell us what you are selling and what kind of supplier you are looking for.
+
+**We are ready to talk business.**
