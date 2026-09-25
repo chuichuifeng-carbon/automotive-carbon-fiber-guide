@@ -1,10 +1,11 @@
-/* =========================================
+/* =========================================================
    CHUICHUIFENG Carbon Fiber
-   Final Automotive B2B Visual System
-   ========================================= */
+   Premium Automotive B2B Visual System
+   Final Version
+   ========================================================= */
 
 :root {
-  --theme: #f4f4f2;
+  --theme: #f5f5f3;
   --entry: #ffffff;
   --primary: #111111;
   --secondary: #666666;
@@ -15,15 +16,21 @@
   --border: #deded9;
 
   --ccf-black: #111111;
-  --ccf-dark: #1a1a1a;
+  --ccf-dark: #181818;
   --ccf-gray: #666666;
-  --ccf-light: #f4f4f2;
-  --ccf-border: #deded9;
+  --ccf-light: #f5f5f3;
+  --ccf-border: #ddddda;
+
+  /* Premium CTA green */
+  --ccf-green: #1f8f5f;
+  --ccf-green-dark: #176b47;
+  --ccf-green-light: #e8f5ee;
 }
 
-/* =========================================
-   Global
-   ========================================= */
+
+/* =========================================================
+   GLOBAL
+   ========================================================= */
 
 html {
   scroll-behavior: smooth;
@@ -64,41 +71,49 @@ body {
   letter-spacing: 0.01em;
 }
 
-/* =========================================
-   Homepage Hero
-   ========================================= */
+#menu a:hover {
+  color: var(--ccf-green);
+}
+
+
+/* =========================================================
+   HOMEPAGE HERO
+   ========================================================= */
 
 .profile {
   position: relative;
   isolation: isolate;
-  min-height: 540px;
-  padding: 90px 35px 80px;
+
+  min-height: 550px;
+  padding: 95px 35px 85px;
 
   overflow: hidden;
 
   border: 1px solid var(--ccf-border);
-  border-radius: 18px;
+  border-radius: 20px;
 
   background:
     linear-gradient(
       135deg,
-      rgba(255,255,255,0.98) 0%,
-      rgba(245,245,242,0.96) 48%,
-      rgba(225,225,221,0.95) 100%
+      rgba(255, 255, 255, 0.99) 0%,
+      rgba(246, 246, 243, 0.98) 48%,
+      rgba(226, 226, 222, 0.96) 100%
     );
 
   box-shadow:
-    0 20px 60px rgba(0,0,0,0.07);
+    0 24px 70px rgba(0, 0, 0, 0.075);
 }
 
-/* Carbon-fiber inspired texture */
+
+/* Carbon fiber texture */
 
 .profile::before {
   content: "";
+
   position: absolute;
   inset: 0;
 
-  z-index: -1;
+  z-index: -2;
 
   opacity: 0.055;
 
@@ -108,56 +123,74 @@ body {
       #000 0,
       #000 1px,
       transparent 1px,
-      transparent 7px
+      transparent 8px
     ),
     repeating-linear-gradient(
       -45deg,
       #000 0,
       #000 1px,
       transparent 1px,
-      transparent 7px
+      transparent 8px
     );
 
   pointer-events: none;
 }
 
-/* Large subtle technical shape */
+
+/* Technical background shape */
 
 .profile::after {
   content: "";
+
   position: absolute;
 
-  width: 520px;
-  height: 520px;
+  width: 620px;
+  height: 620px;
 
-  right: -220px;
-  bottom: -280px;
+  right: -280px;
+  bottom: -330px;
 
   border-radius: 50%;
 
-  background: rgba(0,0,0,0.035);
+  background:
+    radial-gradient(
+      circle,
+      rgba(31, 143, 95, 0.08) 0%,
+      rgba(31, 143, 95, 0.035) 38%,
+      transparent 70%
+    );
 
   pointer-events: none;
 }
 
+
 .profile .profile_inner {
   position: relative;
   z-index: 2;
-  max-width: 900px;
+
+  max-width: 920px;
 }
+
+
+/* Hero title */
 
 .profile h1 {
+  margin-bottom: 26px;
+
   font-size: clamp(44px, 6vw, 78px);
   line-height: 0.98;
+
   letter-spacing: -0.06em;
   font-weight: 850;
-
-  margin-bottom: 26px;
 }
+
+
+/* Hero subtitle */
 
 .profile .profile_inner > span {
   max-width: 790px;
-  margin: 0 auto 34px;
+
+  margin: 0 auto 36px;
 
   font-size: 18px;
   line-height: 1.65;
@@ -165,87 +198,135 @@ body {
   color: #555;
 }
 
+
+/* =========================================================
+   HERO BUTTONS
+   ========================================================= */
+
 .profile .buttons {
   gap: 14px;
 }
 
+
+/* All hero buttons */
+
 .profile .button {
   min-width: 195px;
 
-  padding: 14px 24px;
+  padding: 14px 25px;
 
   border-radius: 7px;
 
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 750;
 
   letter-spacing: 0.01em;
 
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease,
-    background 0.2s ease;
+    background 0.2s ease,
+    border-color 0.2s ease;
 }
 
-.profile .button:hover {
+
+/* Explore Guides */
+
+.profile .button:first-child {
+  background: #111111;
+  color: #ffffff;
+  border: 1px solid #111111;
+}
+
+.profile .button:first-child:hover {
+  background: #2a2a2a;
+
   transform: translateY(-3px);
 
   box-shadow:
-    0 12px 28px rgba(0,0,0,0.13);
+    0 12px 28px rgba(0, 0, 0, 0.18);
 }
 
-/* =========================================
-   Section / Page Titles
-   ========================================= */
 
-.page-header h1 {
-  font-size: clamp(38px, 5vw, 58px);
-  letter-spacing: -0.05em;
-  line-height: 1.05;
+/* Work With Our Factory */
+
+.profile .button:last-child {
+  background: var(--ccf-green);
+  color: #ffffff;
+
+  border: 1px solid var(--ccf-green);
+
+  box-shadow:
+    0 8px 20px rgba(31, 143, 95, 0.18);
 }
+
+.profile .button:last-child:hover {
+  background: var(--ccf-green-dark);
+  border-color: var(--ccf-green-dark);
+
+  transform: translateY(-3px);
+
+  box-shadow:
+    0 14px 30px rgba(31, 143, 95, 0.28);
+}
+
+
+/* =========================================================
+   PAGE HEADERS
+   ========================================================= */
 
 .page-header {
   margin-bottom: 30px;
 }
 
-/* =========================================
-   Article Cards
-   ========================================= */
+.page-header h1 {
+  font-size: clamp(38px, 5vw, 58px);
+  line-height: 1.05;
+
+  letter-spacing: -0.05em;
+}
+
+
+/* =========================================================
+   ARTICLE CARDS
+   ========================================================= */
 
 .post-entry {
   position: relative;
 
   border: 1px solid var(--ccf-border);
-  border-radius: 12px;
+  border-radius: 13px;
 
   background: var(--entry);
 
   box-shadow:
-    0 7px 24px rgba(0,0,0,0.035);
+    0 7px 24px rgba(0, 0, 0, 0.035);
 
   transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease,
-    border-color 0.2s ease;
+    transform 0.22s ease,
+    box-shadow 0.22s ease,
+    border-color 0.22s ease;
 }
 
 .post-entry:hover {
   transform: translateY(-4px);
 
-  border-color: #bcbcb7;
+  border-color: #bdbdb8;
 
   box-shadow:
-    0 16px 38px rgba(0,0,0,0.09);
+    0 17px 40px rgba(0, 0, 0, 0.09);
 }
 
 .entry-header h2 {
   font-size: 25px;
   line-height: 1.2;
+
   letter-spacing: -0.035em;
 }
 
 .entry-content {
   color: #666;
+
   line-height: 1.65;
 }
 
@@ -253,9 +334,10 @@ body {
   margin-top: 20px;
 }
 
-/* =========================================
-   Single Article
-   ========================================= */
+
+/* =========================================================
+   SINGLE ARTICLE
+   ========================================================= */
 
 .post-single {
   max-width: 900px;
@@ -264,6 +346,7 @@ body {
 .post-title {
   font-size: clamp(38px, 5vw, 60px);
   line-height: 1.04;
+
   letter-spacing: -0.055em;
 }
 
@@ -294,6 +377,7 @@ body {
 
 .post-content h4 {
   margin-top: 30px;
+
   font-size: 18px;
 }
 
@@ -302,7 +386,7 @@ body {
 }
 
 .post-content strong {
-  color: #111;
+  color: #111111;
 }
 
 .post-content a {
@@ -310,21 +394,29 @@ body {
   text-underline-offset: 3px;
 }
 
-/* =========================================
-   Breadcrumb
-   ========================================= */
+.post-content a:hover {
+  color: var(--ccf-green);
+}
+
+
+/* =========================================================
+   BREADCRUMBS
+   ========================================================= */
 
 .breadcrumbs {
   margin-bottom: 25px;
+
   font-size: 13px;
 }
 
-/* =========================================
-   Tables
-   ========================================= */
+
+/* =========================================================
+   TABLES
+   ========================================================= */
 
 .post-content table {
   width: 100%;
+
   margin: 30px 0;
 
   border-collapse: collapse;
@@ -352,16 +444,17 @@ body {
   background: #f8f8f6;
 }
 
-/* =========================================
-   Blockquotes
-   ========================================= */
+
+/* =========================================================
+   BLOCKQUOTES
+   ========================================================= */
 
 .post-content blockquote {
   margin: 30px 0;
 
-  border-inline-start: 4px solid #222;
+  border-inline-start: 4px solid var(--ccf-green);
 
-  background: #eeeeeb;
+  background: var(--ccf-green-light);
 
   border-radius: 0 8px 8px 0;
 
@@ -370,9 +463,10 @@ body {
   color: #444;
 }
 
-/* =========================================
-   Lists
-   ========================================= */
+
+/* =========================================================
+   LISTS
+   ========================================================= */
 
 .post-content ul,
 .post-content ol {
@@ -384,9 +478,10 @@ body {
   margin-bottom: 8px;
 }
 
-/* =========================================
-   Code
-   ========================================= */
+
+/* =========================================================
+   CODE
+   ========================================================= */
 
 .post-content pre {
   border-radius: 10px;
@@ -396,41 +491,52 @@ body {
   border-radius: 5px;
 }
 
-/* =========================================
-   Images
-   ========================================= */
+
+/* =========================================================
+   IMAGES
+   ========================================================= */
 
 .post-content img {
   border-radius: 10px;
 
   box-shadow:
-    0 8px 25px rgba(0,0,0,0.07);
+    0 8px 25px rgba(0, 0, 0, 0.07);
 }
 
-/* =========================================
-   CTA Links
-   ========================================= */
+
+/* =========================================================
+   BUSINESS CTA LINKS
+   ========================================================= */
 
 .post-content a[href*="ccfrp.com"] {
   font-weight: 700;
+  color: var(--ccf-green);
 }
 
-/* =========================================
-   Buttons
-   ========================================= */
+.post-content a[href*="ccfrp.com"]:hover {
+  color: var(--ccf-green-dark);
+}
+
+
+/* =========================================================
+   GENERAL BUTTONS
+   ========================================================= */
 
 .button {
   border-radius: 7px;
+
   font-weight: 700;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    background 0.2s ease;
 }
 
-.button:hover {
-  transform: translateY(-1px);
-}
 
-/* =========================================
-   Footer
-   ========================================= */
+/* =========================================================
+   FOOTER
+   ========================================================= */
 
 .footer {
   max-width: 1180px;
@@ -441,9 +547,10 @@ body {
   color: #777;
 }
 
-/* =========================================
-   Mobile
-   ========================================= */
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
 
 @media (max-width: 768px) {
 
@@ -456,11 +563,12 @@ body {
 
     padding: 62px 20px;
 
-    border-radius: 12px;
+    border-radius: 13px;
   }
 
   .profile h1 {
     font-size: 42px;
+
     letter-spacing: -0.05em;
   }
 
@@ -489,6 +597,7 @@ body {
 
   .post-content h2 {
     margin-top: 44px;
+
     font-size: 27px;
   }
 
