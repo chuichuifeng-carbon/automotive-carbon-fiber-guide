@@ -54,3 +54,30 @@ outputs:
 caches:
   images:
     dir: ":cacheDir/images"
+
+menu:
+  main:
+    - identifier: guides
+      name: Guides
+      url: /posts/
+      weight: 10
+
+    - identifier: sourcing
+      name: Sourcing
+      url: /sourcing/
+      weight: 20
+
+    - identifier: oem
+      name: OEM / ODM
+      url: /oem/
+      weight: 30
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+
+    - identifier: website
+      name: Our Factory
+      url: https://www.ccfrp.com/
+      weight: 50
