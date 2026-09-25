@@ -8,13 +8,36 @@ pagination:
   pagerSize: 10
 
 params:
+  env: production
   author: "CHUICHUIFENG Carbon Fiber"
   description: "Automotive carbon fiber guides, sourcing insights, OEM/ODM resources, and manufacturing knowledge for global automotive brands."
+
+  defaultTheme: light
+  disableThemeToggle: true
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: true
+
+  homeInfoParams:
+    Title: "Automotive Carbon Fiber Guide"
+    Content: >
+      Manufacturing insights, fitment guides, sourcing resources, and OEM/ODM knowledge for automotive brands, distributors, e-commerce sellers, and performance shops.
 
 markup:
   goldmark:
     renderer:
       unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 caches:
   images:
