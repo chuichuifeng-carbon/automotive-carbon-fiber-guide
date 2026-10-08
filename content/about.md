@@ -1,11 +1,10 @@
 ---
-
 title: "About CHUICHUIFENG Carbon Fiber"
 description: "Learn about CHUICHUIFENG Carbon Fiber and our focus on automotive carbon fiber manufacturing, wholesale, OEM, ODM, private label, and global aftermarket sourcing."
 keywords: ["CHUICHUIFENG Carbon Fiber", "automotive carbon fiber manufacturer", "carbon fiber factory", "carbon fiber supplier", "automotive aftermarket manufacturer"]
 date: 2026-09-25
 draft: false
-------------
+---
 
 # About CHUICHUIFENG Carbon Fiber
 

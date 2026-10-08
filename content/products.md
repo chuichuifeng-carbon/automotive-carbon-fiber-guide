@@ -1,11 +1,10 @@
 ---
-
 title: "Automotive Carbon Fiber Products"
 description: "Explore automotive carbon fiber products for distributors, wholesalers, performance shops, e-commerce sellers, and aftermarket brands."
 keywords: ["automotive carbon fiber parts", "carbon fiber car parts", "carbon fiber exterior parts", "automotive carbon fiber products", "carbon fiber aftermarket parts", "carbon fiber parts supplier"]
 date: 2026-09-25
 draft: false
-------------
+---
 
 # Automotive Carbon Fiber Products
 

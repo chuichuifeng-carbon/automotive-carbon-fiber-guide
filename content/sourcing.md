@@ -1,11 +1,10 @@
 ---
-
 title: "Automotive Carbon Fiber Sourcing"
 description: "Automotive carbon fiber sourcing for distributors, wholesalers, e-commerce sellers, performance shops, and aftermarket brands. Wholesale, private label, OEM and ODM manufacturing support."
 keywords: ["automotive carbon fiber sourcing", "carbon fiber supplier", "carbon fiber wholesale", "automotive parts sourcing", "carbon fiber parts supplier", "private label carbon fiber"]
 date: 2026-09-25
 draft: false
-------------
+---
 
 # Automotive Carbon Fiber Sourcing
 
