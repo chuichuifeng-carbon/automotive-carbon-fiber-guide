@@ -5,7 +5,7 @@ keywords: ["carbon fiber MOQ", "minimum order quantity carbon fiber", "carbon fi
 date: 2026-10-09
 draft: false
 cover:
-  image: "/images/posts/carbon-fiber-moq-cover.jpg"
+  image: "/automotive-carbon-fiber-guide/images/posts/carbon-fiber-moq-cover.jpg"
   alt: "Glossy carbon fiber car spoiler close-up showing weave pattern and clear coat"
 ---
 
@@ -32,7 +32,7 @@ Before diving into numbers, it helps to understand why MOQs for carbon fiber par
 This is not to say low MOQs are impossible. It is to say you should understand the factory's economics before you try to negotiate them down.
 
 <figure class="page-hero">
-  <img src="/images/posts/carbon-fiber-engine-intake.jpg" alt="High-performance car engine with carbon fiber air intake component" width="1200" height="800" loading="lazy" />
+  <img src="/automotive-carbon-fiber-guide/images/posts/carbon-fiber-engine-intake.jpg" alt="High-performance car engine with carbon fiber air intake component" width="1200" height="800" loading="lazy" />
   <figcaption>Structural carbon fiber components like this engine intake typically have low MOQs (3–10 pcs) because the factory amortizes high mold cost over fewer, higher-value pieces.</figcaption>
 </figure>
 

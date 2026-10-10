@@ -5,7 +5,7 @@ keywords: ["dry carbon vs wet carbon", "dry carbon fiber", "wet carbon fiber", "
 date: 2026-10-10
 draft: false
 cover:
-  image: "/images/posts/dry-carbon-prepreg-cover.jpg"
+  image: "/automotive-carbon-fiber-guide/images/posts/dry-carbon-prepreg-cover.jpg"
   alt: "Carbon fiber prepreg sheets and autoclave manufacturing scene"
 ---
 
@@ -120,7 +120,7 @@ The right choice depends on what the part is, who is buying it, and what they wi
 A common mistake: specifying dry carbon for every part because you heard it is "better." That overbuilds most street-driven applications and kills your margin. A mirror cap in wet carbon at $85 and dry carbon at $135 — both look identical — means the wet one sells 3× faster on Amazon.
 
 <figure class="page-hero">
-  <img src="/images/posts/carbon-fiber-gear-shift.jpg" alt="Carbon fiber interior trim — a carbon-wrapped gear shift lever" width="1200" height="800" loading="lazy" />
+  <img src="/automotive-carbon-fiber-guide/images/posts/carbon-fiber-gear-shift.jpg" alt="Carbon fiber interior trim — a carbon-wrapped gear shift lever" width="1200" height="800" loading="lazy" />
   <figcaption>Interior carbon fiber trim like this gear shift is almost always wet carbon — hidden from UV, hand-fitted, and weight savings does not matter. Wet carbon at a lower price point is the correct choice here.</figcaption>
 </figure>
 

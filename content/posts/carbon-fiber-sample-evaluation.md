@@ -5,7 +5,7 @@ keywords: ["carbon fiber sample inspection", "carbon fiber sample quality check"
 date: 2026-10-08
 draft: false
 cover:
-  image: "/images/posts/carbon-fiber-sample-cover.jpg"
+  image: "/automotive-carbon-fiber-guide/images/posts/carbon-fiber-sample-cover.jpg"
   alt: "Glossy carbon fiber sample with 3K twill weave under quality control inspection lighting"
 ---
 
@@ -84,7 +84,7 @@ A practical field test: weigh the sample. Carbon fiber reinforced polymer has a 
 **Pass criterion:** Supplier's written specification matches what the sample actually is. No undisclosed material substitution.
 
 <figure class="page-hero">
-  <img src="/images/posts/carbon-fiber-weave-closeup.jpg" alt="Macro close-up of carbon fiber weave pattern with glossy clear coat edge" width="1200" height="800" loading="lazy" />
+  <img src="/automotive-carbon-fiber-guide/images/posts/carbon-fiber-weave-closeup.jpg" alt="Macro close-up of carbon fiber weave pattern with glossy clear coat edge" width="1200" height="800" loading="lazy" />
   <figcaption>Glossy 3K twill weave close-up: the diagonal pattern and clear coat edge are exactly what you should verify on every sample before bulk approval.</figcaption>
 </figure>
 
