@@ -83,8 +83,8 @@ A practical field test: weigh the sample. Carbon fiber reinforced polymer has a 
 
 **Pass criterion:** Supplier's written specification matches what the sample actually is. No undisclosed material substitution.
 
-<figure class="page-hero">
-  <img src="/automotive-carbon-fiber-guide/images/posts/carbon-fiber-weave-closeup.jpg" alt="Macro close-up of carbon fiber weave pattern with glossy clear coat edge" width="1200" height="800" loading="lazy" />
+<figure class="post-inline-figure">
+  <img src="/automotive-carbon-fiber-guide/images/posts/carbon-fiber-weave-closeup.jpg" alt="Macro close-up of carbon fiber weave pattern with glossy clear coat edge" loading="lazy" />
   <figcaption>Glossy 3K twill weave close-up: the diagonal pattern and clear coat edge are exactly what you should verify on every sample before bulk approval.</figcaption>
 </figure>
 
