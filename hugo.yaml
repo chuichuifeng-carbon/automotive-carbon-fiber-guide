@@ -4,6 +4,7 @@ title: "Automotive Carbon Fiber Guide | CHUICHUIFENG Carbon Fiber"
 theme: "PaperMod"
 
 enableRobotsTXT: true
+buildFuture: true
 
 pagination:
   pagerSize: 10

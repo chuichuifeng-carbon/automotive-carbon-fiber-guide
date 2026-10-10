@@ -4,6 +4,9 @@ description: "A practical B2B checklist for inspecting carbon fiber samples befo
 keywords: ["carbon fiber sample inspection", "carbon fiber sample quality check", "evaluating carbon fiber samples", "B2B carbon fiber QC", "carbon fiber sample evaluation", "carbon fiber bulk order inspection", "carbon fiber quality control checklist"]
 date: 2026-10-08
 draft: false
+cover:
+  image: "/images/posts/carbon-fiber-sample-cover.jpg"
+  alt: "Glossy carbon fiber sample with 3K twill weave under quality control inspection lighting"
 ---
 
 # How to Evaluate a Carbon Fiber Sample Before Bulk Order
@@ -79,6 +82,11 @@ Ask the supplier in writing to confirm:
 A practical field test: weigh the sample. Carbon fiber reinforced polymer has a density around 1.5–1.6 g/cm³, roughly one-fifth of steel. A part that feels unexpectedly heavy may contain fiberglass or metal reinforcement that was not disclosed — which is not necessarily a problem, but it changes the value equation and must be priced accordingly.
 
 **Pass criterion:** Supplier's written specification matches what the sample actually is. No undisclosed material substitution.
+
+<figure class="page-hero">
+  <img src="/images/posts/carbon-fiber-weave-closeup.jpg" alt="Macro close-up of carbon fiber weave pattern with glossy clear coat edge" width="1200" height="800" loading="lazy" />
+  <figcaption>Glossy 3K twill weave close-up: the diagonal pattern and clear coat edge are exactly what you should verify on every sample before bulk approval.</figcaption>
+</figure>
 
 ### Step 3 — Dimensional and Fitment Check
 

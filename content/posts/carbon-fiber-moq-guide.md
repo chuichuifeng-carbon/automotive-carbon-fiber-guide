@@ -4,6 +4,9 @@ description: "Realistic MOQ ranges for automotive carbon fiber parts by product 
 keywords: ["carbon fiber MOQ", "minimum order quantity carbon fiber", "carbon fiber wholesale MOQ", "automotive carbon fiber MOQ", "carbon fiber parts minimum order", "MOQ carbon fiber China"]
 date: 2026-10-09
 draft: false
+cover:
+  image: "/images/posts/carbon-fiber-moq-cover.jpg"
+  alt: "Glossy carbon fiber car spoiler close-up showing weave pattern and clear coat"
 ---
 
 # What MOQ to Expect When Sourcing Carbon Fiber Parts
@@ -27,6 +30,11 @@ Before diving into numbers, it helps to understand why MOQs for carbon fiber par
 3. **Quality consistency** — Carbon fiber lay-up must be consistent within a batch. Running 2–3 pieces of a new part risks setup variance that produces scrap. Factories prefer to dial in the process on a larger run.
 
 This is not to say low MOQs are impossible. It is to say you should understand the factory's economics before you try to negotiate them down.
+
+<figure class="page-hero">
+  <img src="/images/posts/carbon-fiber-engine-intake.jpg" alt="High-performance car engine with carbon fiber air intake component" width="1200" height="800" loading="lazy" />
+  <figcaption>Structural carbon fiber components like this engine intake typically have low MOQs (3–10 pcs) because the factory amortizes high mold cost over fewer, higher-value pieces.</figcaption>
+</figure>
 
 ## Realistic MOQ Ranges by Product Type
 
