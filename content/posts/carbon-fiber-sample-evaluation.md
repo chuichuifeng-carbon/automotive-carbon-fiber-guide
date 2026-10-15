@@ -79,7 +79,7 @@ Ask the supplier in writing to confirm:
 - **Resin system** — epoxy (premium, UV-stable with proper clear coat) vs polyester (cheaper, more brittle, yellows faster).
 - **Core or backing** — whether the part has a core (Nomex honeycomb, foam, or fiberglass backing) that affects stiffness and weight.
 
-A practical field test: weigh the sample. Carbon fiber reinforced polymer has a density around 1.5–1.6 g/cm³, roughly one-fifth of steel. A part that feels unexpectedly heavy may contain fiberglass or metal reinforcement that was not disclosed — which is not necessarily a problem, but it changes the value equation and must be priced accordingly.
+A practical field test: weigh the sample. Carbon fiber reinforced polymer has a density around 1.5–1.6 g/cm³, roughly one-fifth of steel. A part that feels unexpectedly heavy may contain fiberglass or metal reinforcement that was not disclosed — which is not necessarily a problem, but it changes the value equation and must be priced accordingly. For a deeper comparison of construction types and how to spot an undisclosed backing layer, see the ccfrp.com guide on [comparing full-carbon and fiberglass-backed automotive parts](https://ccfrp.com/full-carbon-vs-fiberglass-backed-carbon-parts/).
 
 **Pass criterion:** Supplier's written specification matches what the sample actually is. No undisclosed material substitution.
 
@@ -100,7 +100,7 @@ If possible, test-fit the sample on the actual target vehicle (or an OEM equival
 - **Surface mating** — where the carbon part meets the body, the flange should sit flush without rocking.
 - **Left/right symmetry** — for mirror-image pairs, place the pair back-to-back and compare.
 
-If you cannot physically test-fit, request the supplier's measurement report against the OEM reference part, and at minimum verify the sample's overall dimensions with calipers against the drawing.
+If you cannot physically test-fit, request the supplier's measurement report against the OEM reference part, and at minimum verify the sample's overall dimensions with calipers against the drawing. If the sample is a first article from a new custom mold, use ccfrp.com's [prototype sign-off checklist](https://ccfrp.com/carbon-fiber-prototype-approval-checklist/) to record accepted features, open issues, and exactly which next stage is authorized before production starts.
 
 **Pass criterion:** Sample mounts to the target vehicle without modification, or all dimensions fall within the agreed tolerance band.
 
@@ -116,6 +116,8 @@ Inspect and test:
 - **Adhesion test** — a light X-cut tape test (ASTM D3359) on a non-visible area tells you whether the clear coat is bonded to the carbon substrate. Peeling clear coat is a bulk-order fail.
 - **Solvent resistance** — a quick wipe with IPA or mild solvent should not dull or soften the surface. Softening indicates under-cured coating.
 
+If the supplier provides a weathering or UV test report with the sample, make sure you understand what it actually covers — ccfrp.com explains [how to read UV and clear-coat test reports](https://ccfrp.com/carbon-fiber-uv-resistance-test-report/) and avoid turning laboratory exposure hours into unsupported outdoor-life promises.
+
 **Pass criterion:** UV-stable automotive clear coat of correct thickness, gloss, and adhesion.
 
 ### Step 5 — Flexural and Structural Test
@@ -125,7 +127,7 @@ You do not need a laboratory to learn a lot about a carbon fiber sample's struct
 - **Flex test** — apply firm hand pressure to the center of the part (for a panel or trim piece). It should feel stiff with minimal deflection and no creaking. Excessive flex or creaking indicates insufficient carbon plies or a weak core bond.
 - **Tap test** — lightly tap the surface with a coin or small metal object. A well-cured, well-bonded carbon part produces a sharp, high-frequency ring. A dull thud indicates delamination, voids, or a poor core bond — all of which will worsen under vibration and thermal cycling in real-world use.
 
-For structural parts ( spoilers, diffusers that see aerodynamic load, steering wheels, structural trim), request the supplier's flexural modulus and tensile strength data. Carbon fiber reinforced polymer typically achieves tensile strength in the range of 3000–7000 MPa for the fiber itself, with composite laminate strength depending on lay-up orientation and resin system. A supplier that cannot provide any mechanical data for a structural part is a risk.
+For structural parts ( spoilers, diffusers that see aerodynamic load, steering wheels, structural trim), request the supplier's flexural modulus and tensile strength data. Carbon fiber reinforced polymer typically achieves tensile strength in the range of 3000–7000 MPa for the fiber itself, with composite laminate strength depending on lay-up orientation and resin system. A supplier that cannot provide any mechanical data for a structural part is a risk. If you plan to advertise weight savings based on the sample, build an evidence record first — ccfrp.com's guide on [verifying carbon fiber weight-saving claims](https://ccfrp.com/carbon-fiber-hood-weight-comparison/) shows how to use equivalent configurations and recorded measurements.
 
 **Pass criterion:** Stiff, no creaking, sharp tap response, and mechanical data available for structural parts.
 
@@ -202,7 +204,7 @@ Most disputes over sample quality come from mismatched expectations between dry 
 | Typical price tier | Premium | Budget to mid-range |
 | Realistic sample expectation | Showroom-quality surface, very stiff, light | Acceptable surface, heavier, more flexible |
 
-A wet-carbon sample evaluated to dry-carbon expectations will always look deficient. The evaluation must be against the construction the supplier promised and the price tier you are paying for. If you ordered dry carbon and the sample presents wet-carbon characteristics (heavy, resin-rich, more pinholes), that is a material substitution and a bulk-order fail.
+A wet-carbon sample evaluated to dry-carbon expectations will always look deficient. The evaluation must be against the construction the supplier promised and the price tier you are paying for. If you ordered dry carbon and the sample presents wet-carbon characteristics (heavy, resin-rich, more pinholes), that is a material substitution and a bulk-order fail. For a worked example of comparing material and package quotes side by side before approving a sample, see ccfrp.com's [Golf GTI Clubsport carbon fiber kit comparison](https://ccfrp.com/golf-gti-clubsport-carbon-fiber-kits-how-to-compare-material-and-package-quotes/).
 
 ## Red Flags That Should Stop a Bulk Order
 

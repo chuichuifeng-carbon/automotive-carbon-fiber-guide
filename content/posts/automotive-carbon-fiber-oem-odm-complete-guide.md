@@ -200,6 +200,8 @@ If no CAD data is available, ask the manufacturer whether they can support the r
 
 Do not assume that every carbon fiber factory provides the same engineering or scanning capabilities.
 
+If you are providing 3D scan data for the RFQ, give the receiving engineer a clear handover: object identity, file inventory, coverage, processing history, and the intended deliverable. ccfrp.com's guide on [preparing 3D scan data for a carbon fiber parts RFQ](https://ccfrp.com/3d-scan-data-carbon-fiber-parts-manufacturing/) lists what to include.
+
 ### Step 3: Review Engineering Requirements
 
 Automotive carbon fiber parts are not simply cosmetic objects.
@@ -237,6 +239,8 @@ Depending on the project, evaluation may include:
 
 Sample approval should happen before large-scale production.
 
+Approve the prototype against an identified revision and an explicit review scope. Record accepted features, open issues, and exactly which next stage is authorized. ccfrp.com's [prototype approval sign-off checklist](https://ccfrp.com/carbon-fiber-prototype-approval-checklist/) covers the full sign-off scope.
+
 ### Step 5: Fitment Verification
 
 Fitment is one of the most important parts of an automotive aftermarket project.
@@ -253,6 +257,8 @@ Important questions include:
 - Does the product consistently reproduce the approved dimensions?
 
 Fitment requirements should be documented as clearly as possible.
+
+If the fitment verification involves a test-fit on an actual vehicle, run it as a controlled session with defined questions, owner agreement, suitable personnel, useful photographs, and clear stop and release conditions. ccfrp.com's guide on [planning a test-fit vehicle session](https://ccfrp.com/carbon-fiber-prototype-test-fit-vehicle/) gives the preparation checklist.
 
 ### Step 6: Production
 
@@ -302,6 +308,8 @@ Consider:
 
 For international B2B customers, packaging is part of the product supply chain, not an afterthought.
 
+For private-label OEM projects, packaging approval is a separate step from product approval. Separate branding location, artwork revision, and packaging content from the engineering sign-off. ccfrp.com's [branding and packaging approval checklist](https://ccfrp.com/private-label-carbon-fiber-packaging-approval/) keeps these steps from being conflated.
+
 ## What Should You Ask an OEM Carbon Fiber Manufacturer?
 
 Before starting a project, ask specific questions.
@@ -332,6 +340,8 @@ Depending on the project, this may involve questions about:
 Avoid choosing a supplier based only on terms such as "premium carbon fiber."
 
 Ask for specific technical information relevant to your product.
+
+A "carbon fiber" part can be full-carbon construction or a carbon top sheet over a different backing, and the two are not interchangeable in price, weight, or repeat-order consistency. Before finalizing the material spec, confirm the actual construction — ccfrp.com's [full-carbon vs fiberglass-backed parts guide](https://ccfrp.com/full-carbon-vs-fiberglass-backed-carbon-parts/) explains how to compare construction by product reference.
 
 ### Fitment
 

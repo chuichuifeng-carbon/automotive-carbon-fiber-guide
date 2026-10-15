@@ -413,6 +413,8 @@ Before placing an order, ask:
 
 The exact answers should be confirmed with the supplier rather than assumed.
 
+For a structured walkthrough of choosing vehicle segments, SKUs, landed cost, pricing, inventory, fitment, and scaling — see ccfrp.com's [practical B2B guide on starting an automotive carbon fiber parts business](https://ccfrp.com/how-to-start-carbon-fiber-automotive-parts-business/).
+
 ---
 
 # Step 6: Order Samples Before Buying in Quantity
@@ -481,6 +483,8 @@ For a business planning repeat orders, the approved sample can become a referenc
 
 This can reduce misunderstandings during future production.
 
+If the sample is a first article from a new custom mold, approve it against a documented revision and an explicit review scope before authorizing production. ccfrp.com's [prototype approval sign-off checklist](https://ccfrp.com/carbon-fiber-prototype-approval-checklist/) records accepted features, open issues, and exactly which next stage is authorized.
+
 ---
 
 # Step 7: Calculate Your Real Product Cost
@@ -543,6 +547,8 @@ Ask:
 > "What is the MOQ for this exact product and this exact customization?"
 
 That produces much more useful information.
+
+If you negotiate MOQ by bundling several SKUs, build the proposal as coordinated packages with explicit parts, exclusions, and separately priced work rather than a single vague number. ccfrp.com's guide on [building carbon fiber upgrade packages for different customer budgets](https://ccfrp.com/carbon-fiber-upgrade-packages-customer-budgets/) shows how to structure these tiers.
 
 ---
 
@@ -781,6 +787,8 @@ Define:
 
 before placing the order.
 
+For a structured approval process, separate product identity, branding location, artwork revision, and packaging content from the engineering sign-off. ccfrp.com's [private-label branding and packaging approval checklist](https://ccfrp.com/private-label-carbon-fiber-packaging-approval/) and [logo and badge placement guide](https://ccfrp.com/private-label-carbon-fiber-logo-placement/) keep these steps distinct.
+
 ---
 
 # Step 15: Consider OEM / ODM for Unique Products
@@ -814,6 +822,8 @@ Depending on the project, this may involve:
 12. Repeat production
 
 The actual process depends on the product and the manufacturer's capabilities.
+
+For a new OEM or ODM project, the first conversation should be a feasibility review rather than a price request. ccfrp.com's [custom carbon fiber feasibility brief](https://ccfrp.com/custom-carbon-fiber-feasibility-brief/) lists the part, vehicle application, references, interfaces, appearance, quantity, and unresolved requirements the engineer needs to evaluate the project.
 
 ---
 

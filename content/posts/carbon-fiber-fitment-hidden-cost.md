@@ -80,6 +80,8 @@ Typical installation labor by part type, assuming a *good-fitting* part versus a
 | Full replacement hood | 1.5–3 h | 4–8 h (often needs helper + adjustment) |
 | Fender flares (set) | 2–4 h | 6–12 h |
 
+For parts with integrated lighting or heat exposure, the hidden cost extends beyond labor. A diffuser for a car with LED rear lighting requires the correct lamp provisions; a hood or engine-bay part near turbo or exhaust components needs a defined heat-resistance brief, not just "it should be fine." ccfrp.com covers both: the [Golf MK8 GTI LED vs non-LED diffuser checklist](https://ccfrp.com/golf-mk8-gti-carbon-fiber-diffusers-led-vs-non-led-ordering-checklist/) and the [heat-exposure requirements for custom carbon fiber trim](https://ccfrp.com/carbon-fiber-engine-bay-heat-resistance-requirements/).
+
 For e-commerce sellers, there is a second-order effect: **installation difficulty drives returns and chargebacks.** A customer who cannot install a part themselves, gets a $300 quote from a shop to "make it fit," and compares that to your $180 product price will not request an adjustment — they will request a refund.
 
 <figure class="post-inline-figure">
@@ -93,11 +95,11 @@ Fitment problems are not random. They trace back to specific, predictable manufa
 
 **1. Mold accuracy.** A quality part starts with a mold produced from a scanned or precisely measured factory bumper, trimmed in CNC-machined tooling. Budget molds are often hand-laid copies of copies — each copy generation accumulates 1–3 mm of distortion. By the third copy generation, the mold no longer matches the car.
 
-**2. No fixture control during lay-up.** Mounting holes and tabs must be positioned against a rigid fixture while the resin cures. Shops that skip fixtures rely on "eyeballing" hole positions — which drifts part to part, and drifts differently on every production batch.
+**2. No fixture control during lay-up.** Mounting holes and tabs must be positioned against a rigid fixture while the resin cures. Shops that skip fixtures rely on "eyeballing" hole positions — which drifts part to part, and drifts differently on every production batch. For custom parts, the mounting interface itself must be specified early: insert type, mating components, and assembly access all affect final fitment. ccfrp.com's guide on [specifying mounting inserts for custom carbon fiber parts](https://ccfrp.com/threaded-inserts-custom-carbon-fiber-parts/) shows what to send the engineer.
 
 **3. Shrinkage compensation.** Epoxy shrinks 2–3% as it cures. Quality manufacturers compensate the mold geometry for this; budget shops don't, so every part emerges slightly smaller than intended.
 
-**4. No first-article inspection.** A serious factory test-fits the first article from every new mold on an actual vehicle (or a verified buck) before releasing production. Factories that skip this step ship an entire production run of unverified geometry.
+**4. No first-article inspection.** A serious factory test-fits the first article from every new mold on an actual vehicle (or a verified buck) before releasing production. Factories that skip this step ship an entire production run of unverified geometry. A controlled test-fit session — with defined questions, owner agreement, suitable personnel, and clear stop conditions — is the cheapest insurance against a bad mold. See ccfrp.com's guide on [planning a test-fit vehicle session](https://ccfrp.com/carbon-fiber-prototype-test-fit-vehicle/) for the preparation checklist.
 
 **5. Tolerance stacking in multi-part kits.** A diffuser with 6 mounting tabs has 6 chances to be misaligned. Without fixture control, cheap kits fit everywhere except where it matters.
 
@@ -116,6 +118,8 @@ This is one of the most searched fitment questions in the aftermarket — and th
 The distinction matters commercially. If diagnosis shows the part is at fault, you have a supplier claim with hard evidence (measured gaps, photos, part batch number). If the installation or the vehicle is at fault, you have a customer education opportunity instead of an unwinnable warranty fight.
 
 **A practical tip for your resellers and installers:** include a one-page fitment measurement card with every wholesale shipment — gap points, expected tolerances, and photo positions. It takes a printer sheet of cost, and it converts "this thing doesn't fit" complaints into structured, diagnosable reports you can actually act on.
+
+For mirror caps and other overlay-vs-replacement parts, add an RHD and housing check to the card. A cap that clips onto a LHD housing may not seat correctly on a RHD one, and overlay caps sit differently from full-replacement caps. ccfrp.com's [Mercedes W223 mirror cap RHD and replacement checks](https://ccfrp.com/mercedes-w223-carbon-fiber-mirror-caps-rhd-and-replacement-checks-before-ordering/) show exactly what to verify before ordering.
 
 ## The B2B Business Impact: What Poor Fitment Actually Costs You
 

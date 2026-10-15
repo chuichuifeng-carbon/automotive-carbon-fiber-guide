@@ -297,6 +297,8 @@ Then clarify whether the MOQ applies:
 
 This can make supplier comparisons much more accurate.
 
+When you combine multiple SKUs to meet a lower per-SKU MOQ, build the proposal as coordinated packages with explicit parts, exclusions, and separately priced work. ccfrp.com's guide on [building carbon fiber upgrade packages for different customer budgets](https://ccfrp.com/carbon-fiber-upgrade-packages-customer-budgets/) shows how to structure focused, coordinated, and expanded tiers.
+
 ---
 
 # Wholesale Pricing: What Should Buyers Compare?
@@ -420,6 +422,8 @@ Check:
 
 A sample is also an opportunity to evaluate how the supplier communicates and responds to technical questions.
 
+If the sample is a first article from a new custom mold, approve it against a documented revision and an explicit review scope before authorizing production. ccfrp.com's [prototype approval sign-off checklist](https://ccfrp.com/carbon-fiber-prototype-approval-checklist/) records accepted features, open issues, and exactly which next stage is authorized.
+
 ---
 
 # Build a Wholesale Product Catalog
@@ -448,6 +452,8 @@ For each SKU, consider including:
 The exact information depends on the product.
 
 The more accurate the catalog is, the easier it becomes for dealers and e-commerce customers to make purchasing decisions.
+
+For vehicle-specific SKUs, build each catalog entry as a clear customer order rather than a vague product name — separate front lip, skirts, rear lip, and spoiler with explicit vehicle versions. ccfrp.com's [Porsche Taycan parts order guide](https://ccfrp.com/how-to-build-a-porsche-taycan-carbon-fiber-parts-order-for-a-customer-car/) shows how to structure a shortlist for the actual vehicle.
 
 ---
 
@@ -614,6 +620,8 @@ Before starting, clarify:
 
 Private label should be treated as a supply-chain project rather than simply adding a logo.
 
+For a structured approval process, separate product identity, branding location, artwork revision, and packaging content from the engineering sign-off. ccfrp.com's [private-label branding and packaging approval checklist](https://ccfrp.com/private-label-carbon-fiber-packaging-approval/) and [logo and badge placement guide](https://ccfrp.com/private-label-carbon-fiber-logo-placement/) keep these steps distinct.
+
 ---
 
 # OEM and ODM for Wholesale Brands
@@ -644,6 +652,8 @@ Depending on the project, development may include:
 11. Packaging
 
 The exact process depends on the product and manufacturing capabilities.
+
+If you are starting a custom OEM or ODM project, the first step is a feasibility review rather than a price request. ccfrp.com's [custom carbon fiber feasibility brief](https://ccfrp.com/custom-carbon-fiber-feasibility-brief/) identifies the part, vehicle application, references, critical interfaces, desired appearance, expected quantity, and unresolved requirements the engineer needs to evaluate the project.
 
 ---
 

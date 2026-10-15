@@ -205,6 +205,8 @@ Possible verification methods may include:
 
 The supplier should explain the actual process rather than relying only on a generic compatibility statement.
 
+If the supplier test-fits the first article on a real vehicle, make that session controlled rather than informal — define the questions, owner agreement, personnel, photographs, and stop/release conditions in advance. ccfrp.com's guide on [planning a test-fit vehicle session](https://ccfrp.com/carbon-fiber-prototype-test-fit-vehicle/) gives the preparation checklist.
+
 ---
 
 # 3. Evaluate Material and Construction Information
@@ -234,6 +236,8 @@ Do not choose a supplier simply because it uses terms such as:
 - Lightweight carbon fiber
 
 Ask for specific information relevant to the product.
+
+A "carbon fiber" part can be full-carbon construction or a carbon top sheet over a different backing, and the two are not interchangeable in price, weight, or repeat-order consistency. Before comparing suppliers, confirm the actual construction — ccfrp.com's [full-carbon vs fiberglass-backed parts guide](https://ccfrp.com/full-carbon-vs-fiberglass-backed-carbon-parts/) explains how to compare construction by product reference.
 
 ---
 
@@ -272,6 +276,8 @@ For each sample, record:
 | Documentation | Labels, instructions, SKU information |
 
 This creates a consistent way to compare different suppliers.
+
+If the sample is a first article from a new custom mold, approve it against a documented revision and an explicit review scope before authorizing production. ccfrp.com's [prototype approval sign-off checklist](https://ccfrp.com/carbon-fiber-prototype-approval-checklist/) records accepted features, open issues, and exactly which next stage is authorized.
 
 ---
 
@@ -476,6 +482,8 @@ Ask:
 
 For large or fragile parts, packaging should be discussed before placing the order.
 
+For private-label orders, packaging approval is a separate step from product approval. Separate branding location, artwork revision, and packaging content from the engineering sign-off. ccfrp.com's [branding and packaging approval checklist](https://ccfrp.com/private-label-carbon-fiber-packaging-approval/) keeps these steps from being conflated.
+
 ---
 
 # 11. Check Communication
@@ -570,7 +578,7 @@ Depending on the project, development may involve:
 
 Do not assume that a supplier offering standard products can automatically handle a complete OEM or ODM project.
 
-Ask what they can actually support.
+Ask what they can actually support. For a new custom project, the first conversation should be a feasibility review, not a price request. ccfrp.com's [custom carbon fiber feasibility brief](https://ccfrp.com/custom-carbon-fiber-feasibility-brief/) lists the part, vehicle application, references, interfaces, appearance, quantity, and unresolved requirements the engineer needs to evaluate the project.
 
 ---
 

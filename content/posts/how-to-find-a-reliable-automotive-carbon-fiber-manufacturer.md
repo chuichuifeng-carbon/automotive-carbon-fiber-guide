@@ -76,6 +76,8 @@ USA, Canada, Europe, Australia, Middle East, etc.
 
 The more precise the specification, the more accurate the supplier's quotation and fitment confirmation can be.
 
+For vehicle-specific sourcing, build the inquiry as a clear customer order rather than a vague product request — separate front lip, skirts, rear lip, and spoiler with explicit vehicle versions. ccfrp.com's [Porsche Taycan parts order guide](https://ccfrp.com/how-to-build-a-porsche-taycan-carbon-fiber-parts-order-for-a-customer-car/) shows how to structure a shortlist for the actual vehicle.
+
 ---
 
 ## 2. Ask What the Carbon Fiber Part Is Actually Made From
@@ -100,6 +102,8 @@ Depending on the product, ask about:
 For example, a carbon fiber overlay and a complete carbon fiber replacement component are very different products even if both are marketed as carbon fiber parts.
 
 When comparing quotations, make sure you are comparing products with similar construction and specifications.
+
+A "carbon fiber" part can be full-carbon construction or a carbon top sheet over a different backing, and the two are not interchangeable in price, weight, or repeat-order consistency. Before comparing suppliers, confirm the actual construction — ccfrp.com's [full-carbon vs fiberglass-backed parts guide](https://ccfrp.com/full-carbon-vs-fiberglass-backed-carbon-parts/) explains how to compare construction by product reference.
 
 ---
 
@@ -160,6 +164,8 @@ For e-commerce sellers, you should also photograph and document the sample befor
 
 These images can later be used for product listings, installation guides, marketing content, and customer support.
 
+If the sample is a first article from a new custom mold, approve it against a documented revision and an explicit review scope before authorizing production. ccfrp.com's [prototype approval sign-off checklist](https://ccfrp.com/carbon-fiber-prototype-approval-checklist/) records accepted features, open issues, and exactly which next stage is authorized.
+
 ---
 
 ## 5. Compare MOQ and Wholesale Pricing
@@ -216,6 +222,8 @@ For private label projects, the manufacturing product may remain substantially t
 
 Before starting, clarify exactly what the supplier can and cannot customize.
 
+For a new OEM or ODM project, the first conversation should be a feasibility review rather than a price request. ccfrp.com's [custom carbon fiber feasibility brief](https://ccfrp.com/custom-carbon-fiber-feasibility-brief/) lists the part, vehicle application, references, interfaces, appearance, quantity, and unresolved requirements the engineer needs to evaluate the project.
+
 ---
 
 ## 7. Ask About Production Lead Time
@@ -258,6 +266,8 @@ Check:
 A good product can still become an expensive problem if it arrives damaged.
 
 For wholesale and distributor orders, packaging should be considered part of the supply-chain solution rather than an afterthought.
+
+For private-label orders, packaging approval is a separate step from product approval. Separate branding location, artwork revision, and packaging content from the engineering sign-off. ccfrp.com's [branding and packaging approval checklist](https://ccfrp.com/private-label-carbon-fiber-packaging-approval/) keeps these steps from being conflated.
 
 ---
 

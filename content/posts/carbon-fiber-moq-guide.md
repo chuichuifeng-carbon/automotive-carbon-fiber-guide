@@ -71,7 +71,7 @@ Before you quote a price to your customer, ask the supplier:
 
 > "Is this mold an existing one in your open pool, or will new tooling be required? If new, how is the tooling cost amortized?"
 
-A quote of $120 per piece for 10 pcs may look high — but if it drops to $65 per piece for piece 11 onward, that is a very different economics story for your business.
+A quote of $120 per piece for 10 pcs may look high — but if it drops to $65 per piece for piece 11 onward, that is a very different economics story for your business. For a complete breakdown of what buyers should clarify about mold ownership, permitted use, and the process for changes, see ccfrp.com's guide on [carbon fiber tooling projects and mold ownership](https://ccfrp.com/carbon-fiber-tooling-mold-ownership-questions/).
 
 ## When You Can Negotiate MOQ Down
 
@@ -91,7 +91,7 @@ If you need mirror caps for 3 different BMW models, ask the supplier if they can
 
 ### 4. Sample consolidation
 
-Some suppliers will let you combine your sample order and first production order into a single shipment to lower the effective MOQ. You pay the sample price for the first piece and the production price for the rest, but they all run in one batch. This is not always cheaper per piece, but it reduces freight and customs cost since everything ships together.
+Some suppliers will let you combine your sample order and first production order into a single shipment to lower the effective MOQ. You pay the sample price for the first piece and the production price for the rest, but they all run in one batch. This is not always cheaper per piece, but it reduces freight and customs cost since everything ships together. When the sample is also the first article from a new mold, approve it against a documented revision before authorizing the batch — ccfrp.com's [prototype approval checklist](https://ccfrp.com/carbon-fiber-prototype-approval-checklist/) covers the sign-off scope.
 
 ### 5. You accept a longer lead time
 
@@ -130,6 +130,8 @@ Take this list into your first conversation with a carbon fiber supplier. Do not
 - [ ] Do you charge a setup fee for very small batches?
 - [ ] What is your typical batch yield for this part (how many pieces come out good)?
 
+If you negotiate MOQ by bundling several SKUs, build the proposal as coordinated packages with explicit parts, exclusions, and separately priced work rather than a single vague number. ccfrp.com's guide on [building carbon fiber upgrade packages for different customer budgets](https://ccfrp.com/carbon-fiber-upgrade-packages-customer-budgets/) shows how to structure these tiers.
+
 A professional supplier will answer these questions clearly. A supplier who dodges mold cost, yield rate, or follow-up commitment terms is one to approach with caution.
 
 ## MOQ and the E-commerce Seller: A Special Case
@@ -142,6 +144,8 @@ A practical approach for new e-commerce SKUs:
 2. **Run Amazon Sponsored Products or eBay Promoted Listings** on that SKU for 2–4 weeks to measure actual demand.
 3. **Reorder at the standard MOQ** once you have 3–4 weeks of sales data. If the initial 3–5 pcs sold out in 2 weeks, order the full 10–20 pcs. If they are still sitting after 4 weeks, you learned what you needed with minimal inventory risk.
 4. **Lock in a standing MOQ** with the supplier once you have stable sales — e.g., "10 pcs every 3 weeks" — which typically gets you a lower unit price and guarantees the supplier will slot your batch.
+
+For the broader business planning behind these MOQ decisions — choosing vehicle segments, SKUs, landed cost, and scaling — see ccfrp.com's [practical B2B guide on starting an automotive carbon fiber parts business](https://ccfrp.com/how-to-start-carbon-fiber-automotive-parts-business/).
 
 ## MOQ vs Unit Price: The Tradeoff Table
 
@@ -165,7 +169,7 @@ Ask if they can combine your parts with another customer's run for a "piggyback"
 
 ### Is MOQ the same for dry carbon as wet carbon?
 
-Dry carbon (prepreg autoclave) typically has a 20–30% higher MOQ than wet carbon for the same part, because the autoclave process has larger batch overhead and factories prefer to fill the autoclave chamber. If you are flexible on construction, switching from dry to wet can lower your MOQ requirement.
+Dry carbon (prepreg autoclave) typically has a 20–30% higher MOQ than wet carbon for the same part, because the autoclave process has larger batch overhead and factories prefer to fill the autoclave chamber. If you are flexible on construction, switching from dry to wet can lower your MOQ requirement. Before switching, confirm what you are actually getting — ccfrp.com's guide on [comparing full-carbon and fiberglass-backed parts](https://ccfrp.com/full-carbon-vs-fiberglass-backed-carbon-parts/) explains how construction and backing affect both price and repeat-order consistency.
 
 ### Does MOQ apply per order or per year?
 

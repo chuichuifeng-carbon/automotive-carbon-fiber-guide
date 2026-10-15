@@ -64,6 +64,8 @@ Fitment problems trace directly to mold accuracy. A mold produced from a 3D scan
 
 > "All our molds are produced from 3D scans of OEM vehicles. We use a 5-axis CNC to machine the mold tooling to ±0.05 mm precision, then verify every mold with a CMM before first article. Our molds are first-generation only — we never copy copies."
 
+Before funding any new mold, clarify who owns the tooling, what the cost scope covers, and how changes are handled — these terms decide whether you can move production later and what a revision costs. ccfrp.com's [carbon fiber tooling and mold ownership questions](https://ccfrp.com/carbon-fiber-tooling-mold-ownership-questions/) list exactly what to pin down.
+
 ### Red flags
 
 > "Our molds are hand-made by experienced workers" (no CNC, no scan data)
@@ -90,6 +92,8 @@ This single question eliminates the largest single risk in carbon fiber procurem
 
 > "Every new mold gets a first article test-fit on a vehicle in our verification bay. We measure gaps at 12 points with a feeler gauge, check every mounting hole against factory points, and photograph the fitment from 4 angles. If any gap exceeds 2 mm, we rework the mold before producing the batch."
 
+A first-article fitment session is too important to leave to a verbal summary. Define the questions, owner agreement, personnel, photographs, and stop/release conditions in advance. ccfrp.com's guide on [planning a test-fit vehicle session](https://ccfrp.com/carbon-fiber-prototype-test-fit-vehicle/) gives the preparation checklist.
+
 ### Red flags
 
 > "We don't have a vehicle for testing — you can test the sample on your car" (no verification)
@@ -113,6 +117,8 @@ In-process QC and pre-shipment inspection are two different things. A factory th
 ### Good answer
 
 > "Our in-process QC uses AQL 2.5 at both lay-up and post-finish stages. We allow third-party SGS/TÜV inspection before shipment — we will reserve the production line on the inspection day and the inspector will have full access. The inspection fee is typically $250–$400 which we can split 50/50 or include in the unit price if you prefer."
+
+If the sample is also a first article from a new mold, approve it against a documented revision and an explicit review scope before authorizing production. ccfrp.com's [prototype approval sign-off checklist](https://ccfrp.com/carbon-fiber-prototype-approval-checklist/) records accepted features, open issues, and exactly which next stage is authorized.
 
 ### Red flags
 
@@ -184,6 +190,8 @@ The fix is straightforward: desiccant packs inside every carton plus a moisture 
 ### Script
 
 > We're concerned about clear coat fogging during sea transit. Can you describe your packaging and moisture protection? And do you provide a warranty against clear coat damage during shipping?
+
+For private-label orders, packaging approval is a separate step from product approval — separate branding location, artwork revision, and packaging content from the engineering sign-off. ccfrp.com's [branding and packaging approval checklist](https://ccfrp.com/private-label-carbon-fiber-packaging-approval/) and [logo and badge placement guide](https://ccfrp.com/private-label-carbon-fiber-logo-placement/) keep these steps from being conflated.
 
 ---
 

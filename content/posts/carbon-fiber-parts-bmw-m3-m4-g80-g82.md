@@ -85,7 +85,7 @@ G80/G82 buyers are style-conscious and will pay for visible quality, but the tie
 | Pre-preg dry carbon | Autoclave-cured pre-preg | Premium street, show, and track customers | Best stiffness-to-weight, sharpest weave control, highest price |
 | Forged / forged-look composite | Chopped fiber compression molding, or a cosmetic imitation | Aggressive interior/exterior styling | Verify whether it is real forged composite or merely a printed/overlaid look |
 
-Two claims to police in your own listings: **"carbon fiber" overlays are not structural carbon parts**, and **cosmetic engine covers add no horsepower**. Accurate descriptions prevent the exact reviews that hurt automotive listings. The manufacturing differences, including autoclave pressure and resin content, are explained in our [dry vs wet carbon guide](/automotive-carbon-fiber-guide/posts/dry-vs-wet-carbon-fiber/).
+Two claims to police in your own listings: **"carbon fiber" overlays are not structural carbon parts**, and **cosmetic engine covers add no horsepower**. Accurate descriptions prevent the exact reviews that hurt automotive listings. The manufacturing differences, including autoclave pressure and resin content, are explained in our [dry vs wet carbon guide](/automotive-carbon-fiber-guide/posts/dry-vs-wet-carbon-fiber/). For choosing between forged and woven finishes for a G80/G82 product range, see ccfrp.com's [forged vs woven carbon guide](https://ccfrp.com/forged-vs-woven-carbon-fiber-car-parts/).
 
 ## Realistic Weight Savings (Don't Repeat the Fake Numbers)
 
@@ -102,7 +102,7 @@ Marketing listings routinely claim "saves 20 kg" on a lip spoiler. That is physi
 | Trunk lid (full replacement) | ~3–8 kg |
 | Full exterior package | Roughly 8–20 kg only if several large panels are replaced |
 
-Use ranges, not precise claims, unless your supplier provides actual weighed-before-and-after data for the exact SKU. B2B credibility is built on numbers that survive a customer putting the part on a scale.
+Use ranges, not precise claims, unless your supplier provides actual weighed-before-and-after data for the exact SKU. B2B credibility is built on numbers that survive a customer putting the part on a scale. To build an evidence record for weight-saving claims on G80/G82 parts, use equivalent configurations, recorded measurements, and clearly stated exclusions — ccfrp.com's [weight-saving claims verification guide](https://ccfrp.com/carbon-fiber-hood-weight-comparison/) shows the method.
 
 ## Quality Tiers and Margin Strategy for Resellers
 
@@ -131,10 +131,19 @@ Before accepting a G80/G82 purchase order, get written answers:
 - [ ] Blind-spot sensor housing retained on mirror caps
 - [ ] No interference with airbag, lane-assist, or emergency-system components for interior/steering parts
 
+**Heat exposure (S58 engine bay parts)**
+- [ ] Operating temperatures and nearby heat sources identified
+- [ ] Required outcome (continuous exposure, intermittent, cosmetic only) documented
+- [ ] Validation approach agreed with the supplier
+
+For engine-bay and under-hood carbon parts on the S58, do not rely on a generic "heat resistant" claim. Describe heat sources, operating conditions, and required outcomes so the engineering team can review the assembly and its validation needs. ccfrp.com's guide on [specifying heat-exposure requirements for custom carbon fiber trim](https://ccfrp.com/carbon-fiber-engine-bay-heat-resistance-requirements/) shows what to send.
+
 **Mounting and hardware**
 - [ ] Mounting tabs match factory points without re-drilling
 - [ ] All required hardware (bolts, clips, brackets, splitter rods) included and listed
 - [ ] Jack-point and brake-cooling clearance verified
+
+For custom or new-tooling G80/G82 parts, specify the mounting inserts early — insert type, mating components, and assembly access affect both fitment and installation labor. ccfrp.com's [mounting inserts specification guide](https://ccfrp.com/threaded-inserts-custom-carbon-fiber-parts/) covers the inputs engineers need.
 
 **Verification evidence**
 - [ ] Test-fit photos on the exact pre-LCI or LCI vehicle
@@ -175,7 +184,7 @@ Yes for underbody parts. The xDrive hardware changes packaging near the rear dif
 
 ### How can I tell genuine pre-preg dry carbon from wet carbon when sourcing?
 
-Ask for process evidence: pre-preg parts are autoclave-cured and suppliers should be able to show the autoclave, pre-preg material source, and tighter dimensional results. Visually, high-quality pre-preg has low resin content and a crisp, consistent weave; wet-lay parts often show more resin depth and print-through. Our [sample evaluation guide](/automotive-carbon-fiber-guide/posts/carbon-fiber-sample-evaluation/) gives the physical checks.
+Ask for process evidence: pre-preg parts are autoclave-cured and suppliers should be able to show the autoclave, pre-preg material source, and tighter dimensional results. Visually, high-quality pre-preg has low resin content and a crisp, consistent weave; wet-lay parts often show more resin depth and print-through. Our [sample evaluation guide](/automotive-carbon-fiber-guide/posts/carbon-fiber-sample-evaluation/) gives the physical checks. Also confirm whether the part is full-carbon construction or a carbon top sheet over a different backing — ccfrp.com's [full-carbon vs fiberglass-backed comparison](https://ccfrp.com/full-carbon-vs-fiberglass-backed-carbon-parts/) explains how to verify construction by product reference.
 
 ### Should I list parts as fitting CS and CSL special editions?
 

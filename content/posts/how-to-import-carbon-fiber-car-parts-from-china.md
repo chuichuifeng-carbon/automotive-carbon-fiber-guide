@@ -54,7 +54,7 @@ After sending the RFQ, you will receive dozens of replies. Filter rapidly with t
 2. **Quotation spread > 3× for the same part** (someone quotes $85, someone else $260) → the lowest is direct factory with zero guarantees, the highest is a trading middleman markup
 3. **MOQ far above industry norms** (standard parts 5–20 pcs, custom CNC 10–50 pcs) → possible new factory with limited capacity, or artificial threshold to push volume
 
-Target **5–8 initial contacts**, narrow to 2–3 for sampling. Our [supplier question checklist](/automotive-carbon-fiber-guide/posts/questions-to-ask-carbon-fiber-supplier) covers this stage in greater detail.
+Target **5–8 initial contacts**, narrow to 2–3 for sampling. Our [supplier question checklist](/automotive-carbon-fiber-guide/posts/questions-to-ask-carbon-fiber-supplier/) covers this stage in greater detail. If any of those suppliers produce custom or private-label parts, send them a feasibility brief rather than a price-only inquiry — ccfrp.com's [custom carbon fiber feasibility brief](https://ccfrp.com/custom-carbon-fiber-feasibility-brief/) lists the part, vehicle application, references, interfaces, appearance, quantity, and unresolved requirements an engineer needs.
 
 ## Step 2: Sample Request & Inspection (7–14 Days)
 
@@ -63,6 +63,8 @@ Target **5–8 initial contacts**, narrow to 2–3 for sampling. Our [supplier q
 - **Who pays for sample shipping?** Standard practice: buyer pays sample fee + international courier (DHL/FedEx, typically $40–$120). Do not accept "free sample, freight collect" — collect freight is usually 2–3× prepaid and customs brokerage becomes your problem.
 - **Sample customs risk:** If the declared value exceeds $150 (US) or €45 (EU), your sample may incur duties. Ask the supplier to mark the invoice "Sample for testing, commercial value $X" (usually $10–$30) to avoid surprise taxation.
 - **Three critical checks on arrival:** 1) Fitment (install on actual vehicle), 2) surface finish (clear coat uniformity, weave alignment), 3) packaging integrity (simulate long-haul handling). If any fail, change supplier immediately — do not assume "bulk production will be better."
+
+For custom-tooled parts, treat the sample as a prototype sign-off gate, not just a quality check. Record the revision, accepted features, and open issues in writing before authorizing production. ccfrp.com's [prototype approval checklist](https://ccfrp.com/carbon-fiber-prototype-approval-checklist/) gives the exact sign-off scope.
 
 ## Step 3: Confirm Specifications & MOQ (1–2 Days)
 
@@ -86,6 +88,8 @@ Now negotiate. Carbon fiber part prices break down into five cost drivers:
 |---|---|---|
 | CFRP raw material | 25–35% | 3K carbon tow + epoxy resin; raw material prices fluctuate on commodity markets |
 | Mold amortization | 10–20% | New molds run $3,000–$15,000, amortized over forecast production volume |
+
+Before the price negotiation, clarify who owns the mold and what changes are permitted — this determines whether you can move production later and what a revision actually costs. ccfrp.com's [tooling and mold ownership questions](https://ccfrp.com/carbon-fiber-tooling-mold-ownership-questions/) cover the assets, cost scope, ownership, storage, and change process to pin down.
 | Manufacturing labor | 20–30% | Hand lay-up + autoclave cure + post-processing |
 | Overhead & margin | 15–25% | Factory operating costs + reasonable profit |
 | Certification & testing | 2–5% | CE / RoHS / SGS documentation |
@@ -142,7 +146,7 @@ After inspection passes, the supplier prepares the full clearance package. **Acc
 | Material declaration / CE/RoHS | Carbon fiber authenticity + compliance | Missing or expired → EU/US customs hold |
 | SGS/TÜV report | Quality verification | Missing → US FDA or EU REACH inspection probability rises |
 
-**Request scanned copies of every document 1 day before shipment and verify character by character:** product name, quantity, weight, value, HS Code, consignee name. Correct any error before the box leaves the factory.
+**Request scanned copies of every document 1 day before shipment and verify character by character:** product name, quantity, weight, value, HS Code, consignee name. Correct any error before the box leaves the factory. If the order carries private-label branding or packaging, verify those separately from the customs documents — ccfrp.com's [branding and packaging approval checklist](https://ccfrp.com/private-label-carbon-fiber-packaging-approval/) separates product identity, branding location, artwork revision, and packaging content so nothing ships unapproved.
 
 <figure class="post-inline-figure">
   <img src="/automotive-carbon-fiber-guide/images/posts/carbon-fiber-customs-docs.jpg" alt="Customs documentation — commercial invoice, packing list, and bill of lading for import clearance" loading="lazy" />
@@ -239,6 +243,8 @@ Continuing the 100 pcs rear spoiler example into the US:
 
 The supplier quoted $85 FOB. Your real landed cost is $112.76 — **32.7% higher than the quote**. This is why so many sellers discover they cannot make money — they priced against FOB and missed the entire downstream cost stack.
 
+When you scale beyond a single SKU, build the landed cost as coordinated packages with explicit parts and exclusions rather than pricing each piece in isolation. ccfrp.com's guide on [building carbon fiber upgrade packages for different customer budgets](https://ccfrp.com/carbon-fiber-upgrade-packages-customer-budgets/) shows how to structure focused, coordinated, and expanded proposals with separately priced project work.
+
 ## Common Import Pitfalls Quick Reference
 
 | Pitfall | Consequence | How to avoid |
@@ -256,11 +262,11 @@ The supplier quoted $85 FOB. Your real landed cost is $112.76 — **32.7% higher
 
 ### What quantity should I order for my first import?
 
-Start with **20–50 pcs**. Below 20 pcs the LCL freight share becomes uneconomical (per-unit cost can double). Above 50 pcs capital commitment gets heavy. This range also sits comfortably above most factory MOQs (standard parts 5–20 pcs) so you can negotiate volume pricing. Our [MOQ guide](/automotive-carbon-fiber-guide/posts/carbon-fiber-moq-guide) covers quantity planning in detail.
+Start with **20–50 pcs**. Below 20 pcs the LCL freight share becomes uneconomical (per-unit cost can double). Above 50 pcs capital commitment gets heavy. This range also sits comfortably above most factory MOQs (standard parts 5–20 pcs) so you can negotiate volume pricing. Our [MOQ guide](/automotive-carbon-fiber-guide/posts/carbon-fiber-moq-guide/) covers quantity planning in detail.
 
 ### What certifications do I need to import carbon fiber parts?
 
-Minimum: **CE / RoHS compliance declaration** (EU) and **FDA Not Applicable letter** (US). If your product includes electronics (electric spoilers), you also need E-Mark. Factories can produce these documents — usually free or $50–$200 administrative fee. Our [certification deep-dive](/automotive-carbon-fiber-guide/posts/carbon-fiber-auto-parts-certifications) covers every market's requirements.
+Minimum: **CE / RoHS compliance declaration** (EU) and **FDA Not Applicable letter** (US). If your product includes electronics (electric spoilers), you also need E-Mark. Factories can produce these documents — usually free or $50–$200 administrative fee. A dedicated certification deep-dive (covering every market's requirements) is coming in a later article.
 
 ### What if customs randomly inspects my shipment?
 

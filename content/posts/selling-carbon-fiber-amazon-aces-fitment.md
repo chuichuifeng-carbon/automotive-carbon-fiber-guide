@@ -68,6 +68,8 @@ Carbon fiber is uniquely punishing on Amazon fitment because the parts are expen
 | Duplicate fitment apps | Same vehicle listed twice in ACES | Conflicting display | Catalog quality flag |
 | Brand ID mismatch | ACES brand ID does not match Amazon Brand Registry | Entire file rejected | No fitment goes live |
 
+Before you ever reach ACES, the supplier's fitment matrix must be correct. A matrix built as a clear customer order — separating front, side, and rear pieces with explicit vehicle versions — is far easier to translate into VCdb applications than a vague "fits 2021+" claim. ccfrp.com's [Porsche Taycan parts order guide](https://ccfrp.com/how-to-build-a-porsche-taycan-carbon-fiber-parts-order-for-a-customer-car/) shows how to build a shortlist with separated lip, skirts, rear lip, and spoiler for the actual vehicle.
+
 ## Building a Correct ACES Record: A Worked Example
 
 Here is how a carbon fiber front lip for the BMW G80 M3 should be structured. We use the G80 platform because it is the highest-volume carbon fiber listing on Amazon Motors and the one where fitment errors are most visible.
@@ -119,7 +121,7 @@ Amazon's automotive category uses **PIES (Product Information Exchange Standard)
 | `DigitalAssets` | Image URLs, image type | Primary image + fitment photos |
 | `Packaging` | Carton dimensions, UPC on package | FBA inbound planning |
 
-The most common PIES failure for carbon fiber sellers: **incorrect `Attributes` weight and dimensions**. A carbon fiber hood shipped in a box labeled 5 kg but actually weighing 11 kg triggers Amazon FBA measurement discrepancies and may charge you for oversize shipping. Weigh the packed part, not the bare part, and use a calibrated scale.
+The most common PIES failure for carbon fiber sellers: **incorrect `Attributes` weight and dimensions**. A carbon fiber hood shipped in a box labeled 5 kg but actually weighing 11 kg triggers Amazon FBA measurement discrepancies and may charge you for oversize shipping. Weigh the packed part, not the bare part, and use a calibrated scale. If your listing makes weight-saving claims, those must be backed by measured before/after data — ccfrp.com's [weight-saving claims verification guide](https://ccfrp.com/carbon-fiber-hood-weight-comparison/) shows how to build that evidence record without over-claiming.
 
 ## Account Health: How Fitment Errors Become Account Problems
 
@@ -170,14 +172,14 @@ Before you submit an ACES file for a carbon fiber SKU:
 
 Most fitment errors originate at the supplier because the seller copies the supplier's "fits M3/M4 2021+" language into an ACES record without verification. To prevent this:
 
-1. **Request a written fitment matrix per SKU.** Ask the supplier for a table listing every vehicle the part is confirmed to fit, with body style, generation, drivetrain, and any exclusions. Our [supplier question checklist](/automotive-carbon-fiber-guide/posts/questions-to-ask-carbon-fiber-supplier/) gives you the exact script.
+1. **Request a written fitment matrix per SKU.** Ask the supplier for a table listing every vehicle the part is confirmed to fit, with body style, generation, drivetrain, and any exclusions. Our [supplier question checklist](/automotive-carbon-fiber-guide/posts/questions-to-ask-carbon-fiber-supplier/) gives you the exact script. For custom or new-tooled SKUs, the matrix starts with a feasibility brief — ccfrp.com's [custom carbon fiber feasibility brief](https://ccfrp.com/custom-carbon-fiber-feasibility-brief/) lists the part, vehicle, references, interfaces, and quantity the engineer needs before any fitment can be confirmed.
 2. **Cross-reference against OEM parts catalogs.** The factory BMW parts catalog and realOEM.com give you the authoritative fitment for OEM parts; a carbon fiber aftermarket part that claims to replace an OEM part should match the OEM fitment unless the supplier documents a deliberate difference.
-3. **Test-fit on the actual vehicle.** The [sample evaluation guide](/automotive-carbon-fiber-guide/posts/carbon-fiber-sample-evaluation/) covers the physical checks. A supplier who test-fits on a real car and sends photos is one you can trust with ACES data.
+3. **Test-fit on the actual vehicle.** The [sample evaluation guide](/automotive-carbon-fiber-guide/posts/carbon-fiber-sample-evaluation/) covers the physical checks. A supplier who test-fits on a real car and sends photos is one you can trust with ACES data. For parts with lighting or sensor provisions — such as a diffuser for a car with LED rear lamps — the test-fit must confirm the correct lamp and exhaust configuration. ccfrp.com's [Golf MK8 GTI LED vs non-LED diffuser checklist](https://ccfrp.com/golf-mk8-gti-carbon-fiber-diffusers-led-vs-non-led-ordering-checklist/) shows the bumper, exhaust openings, and lamp contents to check before quoting.
 4. **Never extrapolate.** If the supplier confirms 2021–2024 pre-LCI only, do not add 2025 to your ACES record because "it probably fits." It probably does not, and the LCI bumper contour change is the most common fitment break on this platform.
 
 ## eBay's Fitment Standard: A Parallel System
 
-If you sell the same carbon fiber parts on eBay, note that eBay uses a different but parallel system: **eBay Parts Compatibility (Fitment)**. eBay accepts up to 1,000 fitment combinations per listing (3,000 for some categories) and participates in the **eBay Assured Fit** program, which refunds buyers if a part does not fit the selected garage vehicle. The data model is similar (year/make/model/submodel/engine + qualifiers) but the upload format differs. A separate guide covers [eBay Motors fitment in depth](/automotive-carbon-fiber-guide/posts/ebay-motors-carbon-fiber-fitment/).
+If you sell the same carbon fiber parts on eBay, note that eBay uses a different but parallel system: **eBay Parts Compatibility (Fitment)**. eBay accepts up to 1,000 fitment combinations per listing (3,000 for some categories) and participates in the **eBay Assured Fit** program, which refunds buyers if a part does not fit the selected garage vehicle. The data model is similar (year/make/model/submodel/engine + qualifiers) but the upload format differs. A separate guide covers eBay Motors fitment in depth (coming soon).
 
 ## FAQ
 
@@ -199,7 +201,7 @@ Apply through the Auto Care Association. The brand registration process is separ
 
 ### Is the supplier's fitment data good enough to submit directly?
 
-Almost never. Suppliers typically provide fitment in human-readable form ("fits G80/G82 2021+"), not in ACES format against VCdb IDs. You or your catalog service must translate the supplier's confirmed fitment into VCdb-coded applications with qualifiers. The [supplier question guide](/automotive-carbon-fiber-guide/posts/questions-to-ask-carbon-fiber-supplier/) gives you the questions whose answers feed this translation.
+Almost never. Suppliers typically provide fitment in human-readable form ("fits G80/G82 2021+"), not in ACES format against VCdb IDs. You or your catalog service must translate the supplier's confirmed fitment into VCdb-coded applications with qualifiers. The [supplier question guide](/automotive-carbon-fiber-guide/posts/questions-to-ask-carbon-fiber-supplier/) gives you the questions whose answers feed this translation. For parts that mount to factory points, ask specifically how mounting inserts and hardware are specified — ccfrp.com's [mounting inserts guide](https://ccfrp.com/threaded-inserts-custom-carbon-fiber-parts/) ensures the interface is documented so your ACES "installation" qualifier is accurate.
 
 ### What is the difference between ACES and PIES?
 

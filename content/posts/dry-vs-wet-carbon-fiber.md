@@ -29,7 +29,7 @@ The manufacturing process for a dry carbon part:
 4. The entire assembly goes into an **autoclave** — a large pressure vessel — where it is heated to 120–140°C under 6–7 bar of pressure for 1.5–3 hours.
 5. The heat cures the epoxy, and the pressure squeezes out voids, resulting in a part with extremely consistent fiber content (typically 58–62% by weight).
 
-The word "dry" refers to the fact that the resin is already in the fabric before lay-up — the worker is laying "dry-looking" pre-preg sheets, not painting or infusing wet resin.
+The word "dry" refers to the fact that the resin is already in the fabric before lay-up — the worker is laying "dry-looking" pre-preg sheets, not painting or infusing wet resin. This also affects what "carbon fiber" means in the finished part: a dry-carbon part can be full-carbon construction, while a wet-lay part may use a carbon top sheet over a different backing. Before comparing quotes, confirm the actual construction — ccfrp.com's guide on [full-carbon vs fiberglass-backed parts](https://ccfrp.com/full-carbon-vs-fiberglass-backed-carbon-parts/) explains how to keep material claims consistent.
 
 ## What Exactly Is Wet Carbon?
 
@@ -119,6 +119,8 @@ The right choice depends on what the part is, who is buying it, and what they wi
 
 A common mistake: specifying dry carbon for every part because you heard it is "better." That overbuilds most street-driven applications and kills your margin. A mirror cap in wet carbon at $85 and dry carbon at $135 — both look identical — means the wet one sells 3× faster on Amazon.
 
+The same logic applies to weave appearance. Forged (chopped-fiber) and woven (3K/12K) carbon look very different and suit different brand positions. Before you lock a finish for a private-label range, compare them on construction, visual variation, and the product claims each supports — ccfrp.com's [forged vs woven carbon guide](https://ccfrp.com/forged-vs-woven-carbon-fiber-car-parts/) walks through the choice.
+
 <figure class="post-inline-figure">
   <img src="/automotive-carbon-fiber-guide/images/posts/carbon-fiber-gear-shift.jpg" alt="Carbon fiber interior trim — a carbon-wrapped gear shift lever" loading="lazy" />
   <figcaption>Interior carbon fiber trim like this gear shift is almost always wet carbon — hidden from UV, hand-fitted, and weight savings does not matter. Wet carbon at a lower price point is the correct choice here.</figcaption>
@@ -135,6 +137,8 @@ If a supplier tells you a part is dry carbon, verify it physically. Do not rely 
 2. **Edge cross-section.** Find a raw or unfinished edge (many parts have a factory flange that is not painted). Dry carbon shows tight, uniform ply layers with no visible gaps or bubbles. Wet carbon may show small voids (pinholes) between layers or resin-rich areas that look like thicker, darker lines.
 
 3. **Weight comparison.** If you have a known dry carbon sample of similar geometry, weigh both. A wet carbon part will be visibly heavier — 15–25% more mass for the same external size.
+
+These checks confirm construction, but the surface finish decision is separate. Gloss and matte finishes are chosen for the customer build, not the manufacturing process, and each has different stock-control and handover implications. See ccfrp.com's [gloss vs matte carbon fiber guide](https://ccfrp.com/gloss-vs-matte-carbon-fiber-car-parts/) for the practical selection criteria.
 
 ## Common Myths Debunked
 
@@ -158,7 +162,7 @@ No. The fiber content ceiling for vacuum infusion is about 58%, just below the d
 
 ### Is the clear coat on dry carbon different?
 
-Typically no. Both dry and wet carbon parts receive the same 2K clear coat system for UV protection and surface gloss. The difference is that dry carbon's epoxy is already fully crosslinked in the autoclave, so the clear coat bonds more reliably and UV degradation of the underlying resin is much slower.
+Typically no. Both dry and wet carbon parts receive the same 2K clear coat system for UV protection and surface gloss. The difference is that dry carbon's epoxy is already fully crosslinked in the autoclave, so the clear coat bonds more reliably and UV degradation of the underlying resin is much slower. If a supplier provides a UV or weathering test report, review what it actually covers rather than treating lab hours as an outdoor-life guarantee — ccfrp.com explains [how to read UV and clear-coat test reports](https://ccfrp.com/carbon-fiber-uv-resistance-test-report/).
 
 ### What about prepreg that is hand laid and vacuum bagged without autoclave?
 
@@ -171,6 +175,8 @@ Typically 50–100% higher MOQ. The autoclave has a minimum batch size for econo
 ### Should I specify dry carbon for e-commerce private label?
 
 For premium-priced listings ($150+ on Amazon), yes — the "dry carbon autoclave" badge is a genuine selling point that commands higher margins at enthusiast price points. For entry-level listings ($60–$100), stick with wet carbon and focus on fitment consistency instead of material marketing.
+
+Beyond material, the styling tier matters for customer choice. An OEM-style part and an aggressively styled one can both be dry carbon, but they target different buyers and different installation expectations. ccfrp.com's guide on [OEM-style vs aggressive carbon fiber styling](https://ccfrp.com/oem-style-vs-aggressive-carbon-fiber-styling/) shows how tuning shops guide customers before pricing the build.
 
 ## Need a Supplier That Can Source Both Dry and Wet Carbon?
 
