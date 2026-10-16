@@ -24,9 +24,14 @@ ORIGIN = 'https://github.com/chuichuifeng-carbon/automotive-carbon-fiber-guide.g
 
 
 def run(*args, env=None):
-    result = subprocess.run(list(map(str, args)), cwd=PROJECT, env=env,
+    execution_env = (env or os.environ).copy()
+    if str(args[0]) == 'git':
+        execution_env['GIT_TERMINAL_PROMPT'] = '0'
+        execution_env['GCM_INTERACTIVE'] = 'never'
+    result = subprocess.run(list(map(str, args)), cwd=PROJECT, env=execution_env,
                             text=True, encoding='utf-8', errors='replace',
-                            stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+                            stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+                            timeout=180)
     if result.returncode:
         raise RuntimeError(f'{args[0]} failed:\n{result.stdout[-5000:]}')
     return result.stdout.strip()
