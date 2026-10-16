@@ -1,10 +1,10 @@
 baseURL: "https://chuichuifeng-carbon.github.io/automotive-carbon-fiber-guide/"
-title: "Automotive Carbon Fiber Guide | CHUICHUIFENG Carbon Fiber"
+title: "Automotive Carbon Fiber Buying Guide | CCF"
 
 theme: "PaperMod"
 
 enableRobotsTXT: true
-buildFuture: true
+buildFuture: false
 
 pagination:
   pagerSize: 10
@@ -22,13 +22,13 @@ params:
 
   author: "CHUICHUIFENG Carbon Fiber"
 
-  description: "Automotive carbon fiber guides, sourcing insights, OEM/ODM resources, and manufacturing knowledge for global automotive brands."
+  description: "Practical automotive carbon fiber buying guides for B2B buyers: compare suppliers, inspect samples, verify fitment and plan OEM/ODM projects. Official CCF website: ccfrp.com."
 
   label:
     text: "CHUICHUIFENG Carbon Fiber"
 
   assets:
-    favicon: "/favicon.svg"
+    favicon: "favicon.svg"
 
   defaultTheme: light
   disableThemeToggle: true
@@ -50,16 +50,16 @@ params:
   profileMode:
     enabled: true
 
-    title: "Automotive Carbon Fiber Guide"
+    title: "Automotive Carbon Fiber Buying Guides"
 
-    subtitle: "Manufacturing insights, fitment guides, sourcing resources, and OEM/ODM knowledge for global automotive brands, distributors, e-commerce sellers, and performance shops."
+    subtitle: "For distributors, performance shops and automotive brands. Compare suppliers, verify fitment and approve your first order with practical buying checklists. Official CCF website: ccfrp.com."
 
     buttons:
       - name: "Explore Guides"
         url: "posts/"
 
-      - name: "Work With Our Factory"
-        url: "https://www.ccfrp.com/"
+      - name: "Visit CCF · ccfrp.com"
+        url: "https://ccfrp.com/"
 
 menu:
   main:
@@ -95,8 +95,8 @@ menu:
       weight: 60
 
     - identifier: website
-      name: "Our Factory"
-      url: "https://www.ccfrp.com/"
+      name: "CCF · ccfrp.com"
+      url: "https://ccfrp.com/"
       weight: 70
 
 markup:

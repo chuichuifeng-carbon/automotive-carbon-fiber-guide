@@ -1,0 +1,42 @@
+<section class="profile" aria-labelledby="buyer-guide-title">
+  <div class="profile_inner">
+    <p class="eyebrow">Automotive carbon fiber · B2B buying guides</p>
+    <h1 id="buyer-guide-title">{{ site.Params.profileMode.title }}</h1>
+    <span>{{ site.Params.profileMode.subtitle }}</span>
+    <div class="buttons">
+      <a class="button" href="{{ "posts/" | relURL }}"><span class="button-inner">Explore buying guides</span></a>
+      <a class="button" href="https://ccfrp.com/"><span class="button-inner">Visit CCF · ccfrp.com</span></a>
+    </div>
+  </div>
+</section>
+{{ partial "buyer-journey.html" . }}
+<section class="buyer-hub" aria-labelledby="buyer-decisions">
+  <h2 id="buyer-decisions">Start with your next purchasing decision</h2>
+  <p>Use the checklists to compare evidence, clarify unknowns and avoid committing to the wrong specification.</p>
+  <div class="buyer-grid">
+    {{ range (slice
+      (dict "path" "posts/how-to-find-a-reliable-automotive-carbon-fiber-manufacturer" "label" "Verify a manufacturer" "text" "Check company identity, production roles and order-specific evidence.")
+      (dict "path" "posts/automotive-carbon-fiber-wholesale-guide" "label" "Plan a first wholesale order" "text" "Build a focused shortlist and qualify products before scaling inventory.")
+      (dict "path" "posts/carbon-fiber-sample-evaluation" "label" "Inspect a sample" "text" "Record fitment, finish, kit contents and approval conditions.")
+      (dict "path" "posts/carbon-fiber-moq-guide" "label" "Understand MOQ and tooling" "text" "Separate samples, catalog minimums and custom-development charges.")
+      (dict "path" "posts/automotive-carbon-fiber-oem-odm-complete-guide" "label" "Prepare an OEM/ODM project" "text" "Define responsibilities, tooling terms and release gates.")
+      (dict "path" "posts/how-to-import-carbon-fiber-car-parts-from-china" "label" "Plan delivery and landed cost" "text" "Clarify logistics, broker review and receiving records.")
+    ) }}
+      {{ $card := . }}
+      {{ with site.GetPage .path }}
+      <article class="buyer-card"><h3><a href="{{ .RelPermalink }}">{{ $card.label }}</a></h3><p>{{ $card.text }}</p></article>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+<section class="buyer-hub topic-overview" aria-labelledby="explore-topics">
+  <div class="section-heading"><div><p class="eyebrow">Explore the knowledge center</p><h2 id="explore-topics">Guidance for each stage of sourcing</h2></div><a href="{{ "posts/" | relURL }}">All guides →</a></div>
+  <div class="topic-links">{{ range hugo.Data.buyer_topics }}<a href="{{ "posts/" | relURL }}#{{ .id }}"><strong>{{ .title }}</strong><span>{{ .description }}</span></a>{{ end }}</div>
+</section>
+<section class="buyer-hub official-panel" aria-labelledby="official-ccf">
+  <p class="eyebrow">Meet the publisher</p>
+  <h2 id="official-ccf">Research here. Confirm your order with CCF.</h2>
+  <p>This guide is published by CHUICHUIFENG Carbon Fiber. <a href="https://ccfrp.com/">ccfrp.com</a> is our official B2B website for current products, company information and quotations.</p>
+  <p><a href="https://ccfrp.com/vehicles/">Browse vehicle applications</a> · <a href="https://ccfrp.com/about/">Verify company and factory information</a> · <a href="https://ccfrp.com/contact/">Send a product inquiry</a></p>
+  <p>Ready to ask? Include the vehicle, product reference, quantity and destination. Still researching? <a href="{{ "posts/" | relURL }}">View all guides</a>.</p>
+</section>

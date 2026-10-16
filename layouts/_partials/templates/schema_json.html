@@ -1,0 +1,26 @@
+{{- $orgID := "https://ccfrp.com/#organization" -}}
+{{- $org := dict "@type" "Organization" "@id" $orgID "name" "CHUICHUIFENG Carbon Fiber" "alternateName" "CCF" "legalName" "Guangzhou Chui Chui Feng Automotive Products Co., Ltd." "url" "https://ccfrp.com/" -}}
+{{- $webID := printf "%s#website" site.Home.Permalink -}}
+{{- $website := dict "@type" "WebSite" "@id" $webID "url" site.Home.Permalink "name" site.Title "description" site.Params.description "inLanguage" "en" "publisher" (dict "@id" $orgID) -}}
+{{- $graph := slice $org $website -}}
+{{- $type := "WebPage" -}}
+{{- if and .IsPage (eq .Section "posts") }}{{ $type = "BlogPosting" }}{{ end -}}
+{{- $page := dict "@type" $type "@id" (printf "%s#page" .Permalink) "url" .Permalink "name" .Title "description" (.Description | default site.Params.description) "inLanguage" "en" "isPartOf" (dict "@id" $webID) "publisher" (dict "@id" $orgID) -}}
+{{- if eq $type "BlogPosting" -}}
+  {{- $page = merge $page (dict "headline" .Title "author" (dict "@id" $orgID) "datePublished" (.PublishDate.Format "2006-01-02T15:04:05Z07:00") "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00") "mainEntityOfPage" .Permalink) -}}
+  {{- with .Params.cover.image }}{{ $page = merge $page (dict "image" (. | absURL)) }}{{ end -}}
+{{- end -}}
+{{- $graph = $graph | append $page -}}
+{{- if not .IsHome -}}
+  {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" site.Home.Permalink) -}}
+  {{- $position := 2 -}}
+  {{- if and .IsPage (eq .Section "posts") -}}
+    {{- with site.GetPage "posts" -}}
+      {{- $items = $items | append (dict "@type" "ListItem" "position" 2 "name" .Title "item" .Permalink) -}}
+      {{- $position = 3 -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $items = $items | append (dict "@type" "ListItem" "position" $position "name" .Title "item" .Permalink) -}}
+  {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "itemListElement" $items) -}}
+{{- end -}}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

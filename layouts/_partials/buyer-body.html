@@ -1,0 +1,2 @@
+{{- $body := .Content | replaceRE `<table>` `<div class="table-scroll" role="region" aria-label="Comparison table, scroll horizontally if needed" tabindex="0"><table>` | replaceRE `</table>` `</table></div>` -}}
+{{- partial "anchored_headings.html" $body -}}

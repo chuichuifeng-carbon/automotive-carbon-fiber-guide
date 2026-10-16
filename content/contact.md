@@ -1,68 +1,49 @@
 ---
-title: "Contact CHUICHUIFENG Carbon Fiber"
-description: "Contact CHUICHUIFENG Carbon Fiber for automotive carbon fiber wholesale, OEM, ODM, private label, and sourcing inquiries."
-keywords: ["carbon fiber wholesale inquiry", "automotive carbon fiber supplier", "carbon fiber OEM inquiry", "carbon fiber ODM inquiry", "automotive parts supplier"]
+title: "Contact CCF: Prepare a Carbon Fiber Parts Inquiry"
+description: "Contact the official ccfrp.com team for catalog, wholesale or OEM/ODM inquiries. Include the vehicle, product reference, quantity and destination."
 date: 2026-09-25
+lastmod: 2026-10-16
 draft: false
 ---
 
-# Contact CHUICHUIFENG Carbon Fiber
+**For catalog, wholesale, private-label and OEM/ODM inquiries, contact CCF through [ccfrp.com](https://ccfrp.com/contact/).** Include vehicle, product reference, quantity and destination so the team can identify what needs review.
 
-Looking for an automotive carbon fiber manufacturer or supplier?
+## Choose a contact method
 
-Contact CHUICHUIFENG Carbon Fiber for **wholesale, OEM, ODM, private label, and automotive e-commerce sourcing**.
+- **Inquiry form:** [official CCF contact page](https://ccfrp.com/contact/).
+- **Email:** [info@ccfrp.com](mailto:info@ccfrp.com?subject=Automotive%20carbon%20fiber%20B2B%20inquiry).
+- **WhatsApp:** [+86 134 2769 0360](https://wa.me/8613427690360?text=Hello%20CCF%2C%20I%20am%20sourcing%20automotive%20carbon%20fiber%20parts.%20Vehicle%3A%20%20Product%3A%20%20Quantity%3A%20%20Destination%3A).
 
-## Wholesale Inquiry
+Business hours: Monday–Friday, 09:00–18:00 China time (UTC+8). Response timing depends on the inquiry and required technical review.
 
-For wholesale or distribution inquiries, please provide:
+## Copy this inquiry template
 
-* Vehicle make and model
-* Required products
-* Estimated quantity
-* Target market
-* Required finish
-* Shipping destination
+> Company and sales channel:
+>
+> Destination country / postcode:
+>
+> Vehicle make, model, generation, body style, production date and relevant options:
+>
+> Product code, link, photo or description:
+>
+> Construction and finish:
+>
+> Sample quantity / first order / expected repeat demand:
+>
+> Fitment, packaging or timing requirements:
+>
+> Questions or unknowns:
 
-## OEM / ODM Inquiry
+You can start without every answer. Mark unknowns and attach useful photos rather than guessing compatibility.
 
-For product development projects, please provide:
+## Add details for custom development
 
-* Product concept
-* Vehicle application
-* Product drawings or CAD data, if available
-* Photos or existing samples
-* Technical requirements
-* Estimated quantity
-* Target market
+For OEM/ODM, explain intended use, interfaces, available references, design responsibilities and test-fit support. Discuss confidentiality before sharing sensitive files. Use the [project brief]({{< relref "oem.md" >}}) to organize your requirements.
 
-## Private Label Inquiry
+For private label, specify products, branding, packaging and whether new geometry is required. Product and packaging minimums may differ.
 
-If you are building an automotive aftermarket brand, include:
+## Confirm before ordering
 
-* Products you are interested in
-* Estimated order quantity
-* Branding requirements
-* Packaging requirements
-* Target market
+Request written confirmation of SKU, application, construction, kit contents, quantity, price and delivery scope. Agree sample approval, lead time, payment milestones and claims terms before releasing production.
 
-## Contact Information
-
-**Email**
-
-[info@ccfrp.com](mailto:info@ccfrp.com)
-
-**WhatsApp**
-
-+86 134 2769 0360
-
-**Website**
-
-https://www.ccfrp.com/
-
-## What Happens After You Contact Us?
-
-We will review the product and business requirements you provide and discuss the appropriate sourcing or manufacturing solution.
-
-For faster evaluation, please include as much product information as possible in your first inquiry.
-
-**Wholesale · OEM · ODM · Private Label · Automotive E-commerce Sourcing**
+For a factory visit or supplier verification, consult the [official company page](https://ccfrp.com/about/) and arrange the discussion in advance. For suspected defects, provide the order reference, product identification, photographs and a clear description.

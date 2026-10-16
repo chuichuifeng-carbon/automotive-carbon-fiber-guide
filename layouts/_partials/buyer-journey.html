@@ -1,0 +1,13 @@
+<section class="buyer-hub journey" aria-labelledby="first-order-title">
+  <div class="section-heading"><div><p class="eyebrow">Your first order</p><h2 id="first-order-title">A clearer route from shortlist to shipment</h2></div><a href="{{ "sourcing/" | relURL }}">See the buying workflow →</a></div>
+  <ol class="journey-steps">
+    {{ range (slice
+      (dict "label" "Define the product" "text" "Record the vehicle, part, construction and quantity." "path" "products")
+      (dict "label" "Verify the supplier" "text" "Check identity, production roles and fitment evidence." "path" "posts/how-to-find-a-reliable-automotive-carbon-fiber-manufacturer")
+      (dict "label" "Approve the sample" "text" "Agree the revision, acceptance criteria and open issues." "path" "posts/carbon-fiber-sample-evaluation")
+      (dict "label" "Plan a trial order" "text" "Confirm cost, inspection, packing and delivery scope." "path" "posts/automotive-carbon-fiber-wholesale-guide")
+    ) }}
+    {{ $step := . }}{{ with site.GetPage .path }}<li><a href="{{ .RelPermalink }}">{{ $step.label }}</a><p>{{ $step.text }}</p></li>{{ end }}
+    {{ end }}
+  </ol>
+</section>

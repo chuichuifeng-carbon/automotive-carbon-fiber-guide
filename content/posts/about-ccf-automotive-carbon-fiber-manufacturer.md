@@ -1,15 +1,17 @@
 ---
-title: "CHUICHUIFENG Carbon Fiber (CCF): Company Profile, Manufacturing Capabilities & Global B2B Supply"
-description: "A complete company profile of CHUICHUIFENG Carbon Fiber (CCF) — Guangzhou Chui Chui Feng Automotive Products Co., Ltd. (广州市吹吹风汽车用品有限公司) — an automotive dry carbon fiber manufacturer in Guangdong, China, offering 1,500+ SKUs across 76+ vehicle models, wholesale supply, and OEM/ODM development for global B2B buyers."
+title: "CCF Carbon Fiber: Company, Factory & B2B Buyer Verification"
+description: "Review CCF company identity, Guangzhou office, Qingyuan factory and B2B supply information, with links to the official ccfrp.com website."
 keywords: ["CHUICHUIFENG Carbon Fiber", "CCF carbon fiber", "automotive carbon fiber manufacturer China", "dry carbon fiber parts manufacturer", "Guangzhou Chui Chui Feng Automotive Products", "carbon fiber OEM ODM factory", "automotive carbon fiber wholesale supplier", "carbon fiber parts manufacturer Guangdong"]
 date: 2026-10-16
 draft: false
 cover:
   image: "/automotive-carbon-fiber-guide/images/posts/ccf-dry-carbon-factory-cover.jpg"
   alt: "Technician laying carbon fiber prepreg fabric into a vehicle-specific mold in a clean automotive carbon fiber production workshop"
+lastmod: 2026-10-16
+relatedGuides: ["how-to-find-a-reliable-automotive-carbon-fiber-manufacturer", "automotive-carbon-fiber-wholesale-guide", "automotive-carbon-fiber-oem-odm-complete-guide"]
 ---
 
-# CHUICHUIFENG Carbon Fiber (CCF): Company Profile, Manufacturing Capabilities & Global B2B Supply
+**Buyer answer:** CCF is the international B2B website of Guangzhou Chui Chui Feng Automotive Products Co., Ltd. The official commercial website is ccfrp.com. This GitHub Pages guide provides supporting sourcing education; use the main website and written quotations for current product and project terms.
 
 If you are evaluating an automotive carbon fiber manufacturer for your distribution network, your shop, or your online catalog, you need more than product photos — you need to know who is behind the parts, where they are made, and how the business actually operates.
 
@@ -24,7 +26,7 @@ The company operates two distinct market identities:
 - **CCF** — the international B2B website ([ccfrp.com](https://ccfrp.com/)) focused on automotive carbon fiber sourcing, wholesale supply, private-label cooperation, and OEM/ODM project development.
 - **AMXNX** — our consumer-facing automotive aftermarket brand, introduced in 2020.
 
-Both channels are backed by the same factory, the same molds, and the same quality process. For B2B buyers, this means the products in your catalog have already been proven with end customers before reaching wholesale.
+Both channels are backed by the same factory, the same molds, and the same quality process. For buyers, this describes the relationship between the channels; verification of each SKU and vehicle application is still required.
 
 **Legal company information:**
 
@@ -69,7 +71,7 @@ Automotive carbon fiber components require careful coordination across several s
 
 1. **Material preparation** — selecting and preparing the carbon fiber material system for the component design and manufacturing method.
 2. **Layup and tooling** — materials are arranged into vehicle-specific molds and tooling. Tooling accuracy directly affects mounting-point alignment, component curvature, and installation fitment.
-3. **Molding and curing** — our dry carbon production uses prepreg materials with autoclave curing; exact conditions depend on the product and laminate design.
+3. **Molding and curing** — confirm the material system, cure method and applicable production records for the selected SKU; process conditions depend on the product and laminate design.
 4. **Trimming and machining** — edge preparation, hole preparation, mounting-area finishing, and dimensional adjustments within approved specifications.
 5. **Surface finishing** — weave appearance, surface smoothness, gloss or matte finish, coating quality, and edge finishing, all of which matter for visible carbon components.
 6. **Final inspection** — finished components are manually inspected before dispatch, covering appearance, dimensions, mounting interfaces, identification, and packaging condition.
@@ -80,7 +82,7 @@ Approximately **95% of our published product range is dry carbon** — component
 
 For suitable applications, dry carbon construction offers favorable strength-to-weight characteristics, controlled composite construction, a premium visible-weave appearance, and repeatable production methods. That said, construction alone does not guarantee perfect fitment, low weight, or durability — actual performance always depends on the product's engineering, laminate structure, and manufacturing quality.
 
-Professional buyers should confirm the actual construction of each product before making material or weight-related marketing claims. Key questions: Is the part prepreg carbon? Full carbon, hybrid, or overlay? What weave, finish, and finished weight? Which vehicle application is supported? Our [dry vs wet carbon fiber guide](/automotive-carbon-fiber-guide/posts/dry-vs-wet-carbon-fiber/) explains the technical differences, and ccfrp.com's [full-carbon vs fiberglass-backed parts guide](https://ccfrp.com/full-carbon-vs-fiberglass-backed-carbon-parts/) shows how to verify construction by product reference.
+Professional buyers should confirm the actual construction of each product before making material or weight-related marketing claims. Key questions: Is the part prepreg carbon? Full carbon, hybrid, or overlay? What weave, finish, and finished weight? Which vehicle application is supported? Our [dry vs wet carbon fiber guide]({{< relref "posts/dry-vs-wet-carbon-fiber.md" >}}) explains the technical differences, and ccfrp.com's [full-carbon vs fiberglass-backed parts guide](https://ccfrp.com/full-carbon-vs-fiberglass-backed-carbon-parts/) shows how to verify construction by product reference.
 
 ## Product Range: 1,500+ SKUs Across 76+ Vehicle Models
 
@@ -108,20 +110,21 @@ CCF supplies automotive aftermarket businesses, and each customer group has diff
 
 ## Wholesale Supply: Catalog Orders From One Piece
 
-Standard catalog products may be ordered **from one piece, subject to availability** — so you can evaluate individual products before committing to larger quantities. We recommend starting with a sample and inspecting it against a written standard: construction, weave, surface finish, dimensions, fitment, mounting details, and packaging. Our [carbon fiber sample evaluation guide](/automotive-carbon-fiber-guide/posts/carbon-fiber-sample-evaluation/) gives the checklist, and our [MOQ guide](/automotive-carbon-fiber-guide/posts/carbon-fiber-moq-guide/) explains how sample orders and first production runs can be structured.
+Standard catalog products may be ordered **from one piece, subject to availability** — so you can evaluate individual products before committing to larger quantities. We recommend starting with a sample and inspecting it against a written standard: construction, weave, surface finish, dimensions, fitment, mounting details, and packaging. Our [carbon fiber sample evaluation guide]({{< relref "posts/carbon-fiber-sample-evaluation.md" >}}) gives the checklist, and our [MOQ guide]({{< relref "posts/carbon-fiber-moq-guide.md" >}}) explains how sample orders and first production runs can be structured.
 
 For repeat or wholesale orders, confirm SKU, vehicle application, quantity, unit price, lead time, packaging, payment terms, and shipping arrangements. Note that catalog purchasing terms do **not** automatically apply to custom development — OEM/ODM projects involve tooling, prototypes, and project-specific quantities. Wholesale cooperation details: [ccfrp.com/grow/wholesale/](https://ccfrp.com/grow/wholesale/).
 
-## OEM and ODM Development: Four Stages
+## OEM and ODM Development: Five Stages
 
-For buyers who need parts that don't exist in any catalog, our development process runs through four broad stages:
+For buyers who need a new application or design, the official OEM/ODM workflow identifies five stages:
 
-1. **Requirement review** — you provide vehicle and product information, references, samples, drawings, or technical requirements.
-2. **Development planning** — we review feasibility, tooling requirements, and the proposed development approach.
-3. **Sample verification** — a sample is evaluated against agreed appearance, fitment, and other requirements.
-4. **Production** — production proceeds after the necessary approvals and commercial arrangements are complete.
+1. **Project review** — identify the vehicle, product, references and development target.
+2. **Feasibility** — review the development route, construction, tooling and manufacturing requirements.
+3. **Tooling and prototype** — prepare tooling and a physical sample for evaluation.
+4. **Sample approval** — review the identified sample against agreed requirements and document the release conditions.
+5. **Production** — manufacture and inspect the approved specification after the required authorizations.
 
-For private-label cooperation, discussions typically cover branding, labels, custom packaging, finish preferences, design modifications, and tooling arrangements. For custom projects, clarify design ownership, tooling ownership, confidentiality, exclusivity, prototype approval, and quality specifications early — NDA requirements can be discussed for qualified OEM/ODM projects. The [OEM/ODM process page](https://ccfrp.com/grow/oem-odm/) describes the workflow, and our [OEM/ODM complete guide](/automotive-carbon-fiber-guide/posts/automotive-carbon-fiber-oem-odm-complete-guide/) walks through each stage from the buyer's side.
+For private-label cooperation, discussions typically cover branding, labels, custom packaging, finish preferences, design modifications, and tooling arrangements. For custom projects, clarify design ownership, tooling ownership, confidentiality, exclusivity, prototype approval, and quality specifications early — NDA requirements can be discussed for qualified OEM/ODM projects. The [OEM/ODM process page](https://ccfrp.com/grow/oem-odm/) describes the workflow, and our [OEM/ODM complete guide]({{< relref "posts/automotive-carbon-fiber-oem-odm-complete-guide.md" >}}) walks through each stage from the buyer's side.
 
 ## Quality Control and Supplier Verification
 
@@ -135,7 +138,7 @@ The [About page](https://ccfrp.com/about/) displays categories of verification d
 - **Product testing documentation** — test records for evaluated products or samples.
 - **Industry recognition** — automotive aftermarket sector recognition.
 
-One honest caveat: a product-specific test report does not automatically establish compliance for all products, and a supplier assessment is not a guarantee of future quality. Confirm the issuing organization, covered company, validity dates, and exact scope of each document for your intended order. Our [supplier selection guide](/automotive-carbon-fiber-guide/posts/how-to-choose-a-carbon-fiber-parts-supplier/) covers how to run that evaluation on any factory — including ours.
+One honest caveat: a product-specific test report does not automatically establish compliance for all products, and a supplier assessment is not a guarantee of future quality. Confirm the issuing organization, covered company, validity dates, and exact scope of each document for your intended order. Our [supplier selection guide]({{< relref "posts/how-to-choose-a-carbon-fiber-parts-supplier.md" >}}) covers how to run that evaluation on any factory — including ours.
 
 ## International Customer Experience
 
@@ -151,7 +154,7 @@ Starting an inquiry takes five steps:
 4. **Share commercial information** — estimated quantity, destination country, and relevant requirements.
 5. **Confirm technical and commercial terms** — specifications, availability, lead time, payment, packaging, and delivery before placing an order.
 
-The [business inquiry form](https://ccfrp.com/contact/#inquiry-form) is the fastest starting point.
+Use the [official business inquiry page](https://ccfrp.com/contact/) to send the brief and identify any unknowns.
 
 ## CCF at a Glance
 
@@ -178,7 +181,7 @@ The [business inquiry form](https://ccfrp.com/contact/#inquiry-form) is the fast
 ## Contact CCF
 
 - **Email:** info@ccfrp.com
-- **WhatsApp / Phone:** +86 134 2769 0360
+- **WhatsApp / Phone:** [+86 134 2769 0360](https://wa.me/8613427690360)
 - **Guangzhou Head Office:** Room 201, No. 2 Caodi Zhongjie, Qinghe Village, Renhe Town, Baiyun District, Guangzhou, Guangdong, China
 - **Qingyuan Production Base:** B3(4), Guogangling, Xisha Village, Shantang Town, Qingxin District, Qingyuan, Guangdong, China
 - **Business Hours:** Monday–Friday, 09:00–18:00 (GMT+8)

@@ -1,0 +1,30 @@
+{{ if eq .Section "posts" }}
+<aside class="buyer-resources post-content" aria-label="Related buying resources">
+  <h2>Continue your buying research</h2>
+  <ul>
+  {{ range .Params.relatedGuides }}
+    {{ with site.GetPage (printf "posts/%s" .) }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  {{ end }}
+  </ul>
+  <p class="buyer-note">Published by CCF, an automotive carbon fiber supplier. Apply these checks to any supplier, including us. {{ with .Lastmod }}Updated {{ .Format "2 January 2006" }}.{{ end }} Examples are not quotations; confirm requirements for the exact order.</p>
+  {{ $target := "https://ccfrp.com/contact/" }}
+  {{ $label := "Discuss your product requirement" }}
+  {{ $intro := "Send the vehicle configuration, product reference, quantity and destination so CCF can review the appropriate supply route." }}
+  {{ if in .File.ContentBaseName "oem-odm" }}
+    {{ $target = "https://ccfrp.com/grow/oem-odm/" }}{{ $label = "Prepare your custom project with CCF" }}{{ $intro = "Review the development process, then share the application, intended use, references and open questions. Scope and tooling terms are confirmed for the individual project." }}
+  {{ else if in .File.ContentBaseName "sample" }}
+    {{ $label = "Ask about a sample for your application" }}{{ $intro = "Share the exact vehicle and product reference. Ask CCF to confirm sample availability, construction, fitment evidence and the requirements you plan to inspect." }}
+  {{ else if in .File.ContentBaseName "bmw" }}
+    {{ $target = "https://ccfrp.com/vehicles/" }}{{ $label = "Build a vehicle-specific product shortlist" }}{{ $intro = "Browse CCF's vehicle applications, then confirm the exact SKU, body style, mounting details and available fitment evidence with the team." }}
+  {{ else if or (in .File.ContentBaseName "wholesale") (in .File.ContentBaseName "moq") (in .File.ContentBaseName "business") }}
+    {{ $target = "https://ccfrp.com/grow/wholesale/" }}{{ $label = "Plan your first catalog or wholesale order" }}{{ $intro = "Review CCF's wholesale supply route, then send your shortlist, trial quantity and destination. Availability and purchasing terms are confirmed per SKU." }}
+  {{ end }}
+  <h2>{{ $label }}</h2>
+  <p>{{ $intro }} Our official B2B website is <a href="https://ccfrp.com/">ccfrp.com</a>.</p>
+  {{ $query := querify "utm_source" "github_pages" "utm_medium" "referral" "utm_campaign" "buyer_guides" "utm_content" .File.ContentBaseName }}
+  <p><a class="buyer-cta" href="{{ $target }}?{{ $query }}">{{ if eq $target "https://ccfrp.com/contact/" }}Send your requirement to CCF{{ else }}Continue on ccfrp.com →{{ end }}</a></p>
+  <p><a href="https://wa.me/8613427690360?{{ querify "text" (printf "Hello CCF, I read your guide: %s. Vehicle: [please add]. Product: [please add]. Quantity: [please add]. Destination: [please add]." .Title) }}">Ask on WhatsApp</a> · <a href="mailto:info@ccfrp.com">info@ccfrp.com</a></p>
+</aside>
+{{ end }}

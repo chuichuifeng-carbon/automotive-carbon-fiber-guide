@@ -1,0 +1,27 @@
+{{ define "main" }}
+<header class="page-header guide-directory-header">
+  {{ partial "breadcrumbs.html" . }}
+  <p class="eyebrow">CCF buyer resources</p>
+  <h1>{{ .Title }}</h1>
+  <p class="post-description">Find the checklist for the decision in front of you. Product availability and quotations are handled on <a href="https://ccfrp.com/">ccfrp.com</a>, our official B2B website.</p>
+</header>
+<nav class="topic-navigation" aria-label="Guide topics">
+  {{ range hugo.Data.buyer_topics }}<a href="#{{ .id }}">{{ .title }} <span>{{ len .guides }}</span></a>{{ end }}
+</nav>
+{{ partial "buyer-journey.html" . }}
+{{ range hugo.Data.buyer_topics }}
+<section id="{{ .id }}" class="topic-section" aria-labelledby="{{ .id }}-title">
+  <div class="section-heading"><div><h2 id="{{ .id }}-title">{{ .title }}</h2><p>{{ .description }}</p></div></div>
+  <div class="guide-grid">
+  {{ range .guides }}{{ with site.GetPage (printf "posts/%s" .) }}
+    <article class="guide-card">
+      <p class="guide-meta">{{ .ReadingTime }} min read</p>
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p>{{ .Description }}</p>
+    </article>
+  {{ end }}{{ end }}
+  </div>
+</section>
+{{ end }}
+<section class="official-panel"><p class="eyebrow">Ready for a product discussion?</p><h2>Bring your shortlist to CCF.</h2><p>Include the vehicle, product reference, quantity and destination so the team can review your requirements.</p><a class="solid-link" href="https://ccfrp.com/contact/">Discuss your requirements →</a></section>
+{{ end }}

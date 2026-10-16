@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{ $guide := eq .Section "posts" }}
+<article class="post-single {{ if $guide }}buyer-article{{ else }}business-page{{ end }}">
+  <header class="post-header">
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="{{ "" | relURL }}">Home</a><span aria-hidden="true"> / </span>{{ if $guide }}<a href="{{ "posts/" | relURL }}">Buying guides</a>{{ else }}<span>{{ .Title }}</span>{{ end }}</nav>
+    <p class="eyebrow">{{ if $guide }}CCF buying guide{{ else }}CCF buyer resources{{ end }}</p>
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{ with .Description }}<p class="post-description">{{ . }}</p>{{ end }}
+    <div class="post-meta">By <a href="{{ "about/" | relURL }}">CCF</a>{{ if $guide }} · {{ .ReadingTime }} min read{{ end }}{{ with .Lastmod }} · Updated <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2 January 2006" }}</time>{{ end }}</div>
+  </header>
+  {{ if $guide }}
+  <div class="article-layout">
+    <div class="article-main">
+      {{ with .Params.cover }}{{ with .image }}<figure class="article-cover"><img src="{{ . | absURL }}" alt="{{ $.Params.cover.alt }}" width="1200" height="675" decoding="async"></figure>{{ end }}{{ end }}
+      {{ if .Fragments.Headings }}<details class="mobile-toc"><summary>On this page</summary>{{ .TableOfContents | replaceRE `id="TableOfContents"` `id="mobile-contents"` | safeHTML }}</details>{{ end }}
+      <div class="post-content md-content">{{ partial "buyer-body.html" . }}</div>
+      {{ partial "extend_post_content.html" . }}
+      <p class="back-to-guides"><a href="{{ "posts/" | relURL }}">← All buying guides</a></p>
+    </div>
+    <aside class="article-sidebar" aria-label="Article navigation">
+      <div class="sidebar-inner"><p class="eyebrow">On this page</p>{{ .TableOfContents }}<div class="sidebar-official"><strong>Looking for products?</strong><p>Find current applications on our official website.</p><a href="https://ccfrp.com/vehicles/">Explore ccfrp.com →</a></div></div>
+    </aside>
+  </div>
+  {{ else }}
+  <div class="post-content md-content">{{ partial "buyer-body.html" . }}</div>
+  {{ end }}
+</article>
+{{ end }}

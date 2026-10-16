@@ -1,92 +1,42 @@
 ---
-title: "Automotive Carbon Fiber OEM & ODM"
-description: "Automotive carbon fiber OEM and ODM manufacturing for aftermarket brands, distributors, e-commerce businesses, and companies developing custom carbon fiber parts."
-keywords: ["automotive carbon fiber OEM", "carbon fiber OEM manufacturer", "automotive carbon fiber ODM", "carbon fiber product development", "private label carbon fiber", "custom carbon fiber parts"]
+title: "Carbon Fiber OEM & ODM: Prepare Your Project Brief"
+description: "Prepare vehicle, design, tooling and sample-approval requirements for a custom automotive carbon fiber project with CCF at ccfrp.com."
 date: 2026-09-25
+lastmod: 2026-10-16
 draft: false
 ---
 
-# Automotive Carbon Fiber OEM & ODM
+**A useful custom-project inquiry defines what the part must do and what is still unknown.** Photos, a reference component, CAD or a vehicle-specific idea can support an initial review. Feasibility and development scope must be confirmed before work is authorized.
 
-CHUICHUIFENG Carbon Fiber supports businesses developing and sourcing automotive carbon fiber products for international markets.
+CCF handles project discussions through **[ccfrp.com](https://ccfrp.com/)**. Visit the [official OEM/ODM process page](https://ccfrp.com/grow/oem-odm/) for the current service overview.
 
-Our OEM and ODM sourcing process is designed for automotive aftermarket brands, distributors, e-commerce companies, and businesses looking to develop or customize carbon fiber products.
+## What to send
 
-## Who Needs Automotive Carbon Fiber OEM & ODM?
+| Information | Why it matters |
+|---|---|
+| Vehicle and configuration | Defines the installation environment |
+| Component and intended use | Separates cosmetic, replacement and load-bearing requirements |
+| References, drawings or samples | Establishes starting geometry and design ownership |
+| Critical interfaces | Identifies mounts, clearances and adjacent systems |
+| Construction and finish targets | Supports material, process and appearance review |
+| Trial quantity and forecast | Separates development cost from production economics |
+| Target market and timing | Identifies application requirements and planning constraints |
+| Open questions | Makes missing evidence visible before final quotation |
 
-OEM and ODM manufacturing can be suitable for:
+## Agree release gates
 
-* Automotive aftermarket brands
-* Performance parts companies
-* Automotive distributors
-* E-commerce businesses
-* Private label brands
-* Automotive parts companies
-* Companies developing new carbon fiber products
+**Project review → feasibility → tooling and prototype → sample approval → production.** Each stage needs a defined outcome, responsible party and written authorization. OEM and ODM labels matter less than a clear agreement on who designs, verifies and approves each deliverable.
 
-## Automotive Carbon Fiber OEM
+Before funding tooling, confirm ownership, permitted use, exclusivity if any, maintenance, storage, changes and release terms. Agree who supplies a vehicle or fixture for test fitting and who pays for iterations.
 
-For OEM projects, buyers may provide product specifications, drawings, CAD data, samples, photos, or other technical information.
+Sample approval should identify the revision, acceptance criteria, unresolved issues and quantity authorized. It does not automatically establish regulatory approval or compatibility with other applications.
 
-Useful project information includes:
+## Copyable project inquiry
 
-* Vehicle make and model
-* Model year and generation
-* Required component
-* Product dimensions
-* Material requirements
-* Surface finish
-* Estimated order quantity
-* Target market
-* Packaging requirements
+> We are developing [component] for [vehicle/configuration] for [market/intended use]. We have [photos/sample/CAD] and need [design/tooling/production]. Quantity: [trial/forecast]. Critical requirements: [interfaces, construction, finish]. Please review feasibility, required inputs, stages, separate costs and approval conditions. Unknowns: [list].
 
-The more complete the product information, the easier it is to evaluate the manufacturing requirements.
+Discuss NDA and file-sharing arrangements before sending confidential designs. Share only material you have permission to use.
 
-## Automotive Carbon Fiber ODM
+## Continue your project planning
 
-ODM projects can start from an existing product or manufacturing concept.
-
-Businesses may need to:
-
-* Modify an existing product
-* Develop a product for a specific vehicle
-* Adjust product specifications
-* Develop a new product line
-* Adapt products for a specific market
-* Create a private label product range
-
-The exact development scope should be confirmed before sampling or production.
-
-## Private Label Carbon Fiber Parts
-
-For automotive brands and e-commerce sellers, private label sourcing can include product selection, branding, packaging, and product-line development according to project requirements.
-
-Private label buyers should confirm:
-
-* Product selection
-* Branding requirements
-* Packaging
-* MOQ
-* Product specifications
-* Production requirements
-* Target market
-
-## From Product Idea to Production
-
-A typical development process can include:
-
-**Product idea → Requirement review → Sample / development → Fitment evaluation → Final specification → Production → Quality inspection → Packaging → Shipping**
-
-The exact process depends on the product and project requirements.
-
-## Request an OEM / ODM Consultation
-
-Send your product requirements to:
-
-**Email:** [info@ccfrp.com](mailto:info@ccfrp.com)
-
-**WhatsApp:** +86 134 2769 0360
-
-**Website:** https://www.ccfrp.com/
-
-Please include your vehicle application, product information, estimated quantity, target market, and any drawings, photos, samples, or CAD data available.
+Read the [full OEM/ODM buyer guide]({{< relref "posts/automotive-carbon-fiber-oem-odm-complete-guide.md" >}}) and [sample acceptance checklist]({{< relref "posts/carbon-fiber-sample-evaluation.md" >}}), then [submit your project to CCF](https://ccfrp.com/contact/). Scope, timing, minimum quantities and commercial terms are project-specific.

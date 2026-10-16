@@ -1,86 +1,42 @@
 ---
-title: "Automotive Carbon Fiber Products"
-description: "Explore automotive carbon fiber products for distributors, wholesalers, performance shops, e-commerce sellers, and aftermarket brands."
-keywords: ["automotive carbon fiber parts", "carbon fiber car parts", "carbon fiber exterior parts", "automotive carbon fiber products", "carbon fiber aftermarket parts", "carbon fiber parts supplier"]
+title: "Automotive Carbon Fiber Products: Build a B2B Shortlist"
+description: "Prepare a vehicle-specific carbon fiber product shortlist and compare construction, fitment and kit contents before asking CCF for a quote."
 date: 2026-09-25
+lastmod: 2026-10-16
 draft: false
 ---
 
-# Automotive Carbon Fiber Products
+**Start with the vehicle and component, then confirm the exact SKU.** This page helps distributors, performance shops and aftermarket brands prepare a purchasing shortlist. Current products and quotations are handled on **[ccfrp.com, CCF's official B2B website](https://ccfrp.com/)**.
 
-CHUICHUIFENG Carbon Fiber supplies automotive carbon fiber products for international aftermarket businesses.
+## What are you sourcing?
 
-Our product sourcing is designed for distributors, wholesalers, performance shops, body shops, e-commerce sellers, and automotive aftermarket brands.
+| Product group | Details to confirm |
+|---|---|
+| Front lips and splitters | Bumper configuration, mounting method and ground clearance |
+| Rear diffusers | Bumper variant, exhaust layout and adjacent equipment |
+| Side skirts | Body style, left/right set, fixing points and jacking clearance |
+| Spoilers and wings | Deck-lid interface, fixing method and intended use |
+| Hoods and trunks | Replacement scope, latch/hinge interfaces and installation requirements |
+| Mirror covers and trim | Housing or trim version, replacement versus overlay, clips or adhesive |
 
-## Automotive Carbon Fiber Applications
+Use the [official vehicle directory](https://ccfrp.com/vehicles/) to identify candidate applications. A vehicle appearing in a directory does not mean every component is available for it. Confirm the SKU and fitment scope before ordering.
 
-Our automotive carbon fiber product categories can include:
+## Compare the same specification
 
-* Exterior carbon fiber components
-* Performance styling parts
-* Model-specific carbon fiber parts
-* Carbon fiber body components
-* Wholesale automotive carbon fiber products
-* Private label products
-* OEM products
-* ODM products
+- **Construction:** prepreg or wet process, full carbon or hybrid backing, replacement or overlay.
+- **Appearance:** weave, gloss/matte finish, visible surfaces and cosmetic acceptance criteria.
+- **Fitment:** exact application, verification evidence, hardware and required modifications.
+- **Supply:** unit of measure, sample availability, MOQ, production status and reorder lead time.
+- **Logistics:** packed dimensions, weight, protection and destination.
 
-## Model-Specific Carbon Fiber Parts
+For a kit, list every included component and exclusion. An added overlay should not be marketed as a weight-saving replacement.
 
-Vehicle fitment is an important consideration when sourcing automotive carbon fiber parts.
+## Build a manageable first shortlist
 
-When requesting a product, provide:
+Select products your customers already ask for. Qualify a focused group before expanding inventory. Compare contribution after freight, selling fees, installation support and returns rather than applying a markup to factory price alone.
 
-* Vehicle make
-* Model
-* Model year
-* Generation
-* Trim
-* Required part
+Read our [BMW fitment checklist]({{< relref "posts/carbon-fiber-parts-bmw-m3-m4-g80-g82.md" >}}), [construction comparison]({{< relref "posts/dry-vs-wet-carbon-fiber.md" >}}) and [sample checklist]({{< relref "posts/carbon-fiber-sample-evaluation.md" >}}).
 
-This information helps reduce fitment uncertainty during product sourcing.
+## Request a current catalog or quotation
 
-## Wholesale Carbon Fiber Products
-
-For distributors and wholesalers, product selection should consider:
-
-* Market demand
-* Product price
-* Wholesale cost
-* MOQ
-* Shipping dimensions
-* Packaging
-* Lead time
-* Replenishment requirements
-
-A product that sells well is not necessarily the product with the lowest manufacturing cost.
-
-## Carbon Fiber Products for E-commerce
-
-E-commerce businesses should evaluate products based on both customer demand and supply-chain requirements.
-
-Important factors include:
-
-* Product appeal
-* Vehicle compatibility
-* Selling price
-* Product cost
-* Shipping cost
-* Packaging
-* Return risk
-* Inventory requirements
-* Reorder lead time
-
-## Private Label Product Lines
-
-If you are developing an automotive aftermarket brand, we can discuss product selection and private label requirements based on your target market.
-
-## Need a Product Catalog or Wholesale Quote?
-
-Contact us with the vehicle models, products, estimated quantities, and target market you are interested in.
-
-**Email:** [info@ccfrp.com](mailto:info@ccfrp.com)
-
-**WhatsApp:** +86 134 2769 0360
-
-**Website:** https://www.ccfrp.com/
+Send **vehicle + product reference + quantity + destination** through the [official CCF inquiry page](https://ccfrp.com/contact/). Include interface photos where compatibility is uncertain. Ask CCF to separate catalog availability from development work.

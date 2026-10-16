@@ -1,0 +1,152 @@
+/* Knowledge center layout. Kept outside the vendor theme for easier updates. */
+:root { --buyer-accent: #176b47; --buyer-muted: #52615b; }
+.main { max-width: 1200px; padding-top: 30px; }
+.eyebrow { margin: 0 0 14px; font-size: 12px; font-weight: 750; letter-spacing: .12em; text-transform: uppercase; color: var(--buyer-accent); }
+.main .profile { min-height: 0; padding: 42px 38px; border-radius: 16px; text-align: left; justify-content: flex-start; }
+.profile .profile_inner { max-width: 880px; width: 100%; margin: 0; align-items: flex-start; gap: 0; }
+.profile .eyebrow { color: #9ed6b9; }
+.profile h1 { max-width: 800px; font-size: clamp(36px, 4.7vw, 58px); line-height: 1.07; letter-spacing: -.045em; margin-bottom: 20px; }
+.profile .profile_inner > span { display: block; max-width: 740px; margin: 0 0 26px; font-size: 17px; line-height: 1.7; color: #d0d2d1; }
+.profile .buttons { display: flex; flex-direction: row; justify-content: flex-start; flex-wrap: wrap; max-width: none; gap: 12px; padding: 0; margin: 0; }
+.profile .button { min-width: 0; margin: 0; padding: 12px 20px; }
+.profile .button:hover { transform: none; }
+.buyer-hub { margin: 56px 0; }
+.buyer-hub h2, .topic-section h2 { font-size: clamp(25px, 3vw, 33px); line-height: 1.2; letter-spacing: -.035em; }
+.section-heading { display: flex; justify-content: space-between; align-items: end; gap: 24px; margin-bottom: 24px; }
+.section-heading .eyebrow { margin-bottom: 10px; }
+.section-heading h2 { margin: 0 0 10px; }
+.section-heading > a { flex-shrink: 0; font-size: 14px; font-weight: 650; }
+.section-heading p { max-width: 720px; color: var(--secondary); line-height: 1.65; }
+.journey-steps { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); list-style: none; padding: 0; counter-reset: step; gap: 20px; }
+.journey-steps li { border-top: 2px solid #c9d6ce; padding-top: 20px; counter-increment: step; }
+.journey-steps li::before { content: "0" counter(step); display: block; margin-bottom: 12px; font-size: 13px; font-weight: 700; color: var(--buyer-accent); }
+.journey-steps a { font-size: 18px; line-height: 1.35; font-weight: 700; text-decoration: none; }
+.journey-steps p { font-size: 15px; line-height: 1.65; color: var(--secondary); margin: 10px 0 0; }
+.buyer-grid { gap: 18px; }
+.buyer-card { box-shadow: none; padding: 24px; }
+.buyer-card h3 { font-size: 20px; }
+.buyer-card a { text-decoration: none; }
+.buyer-card a:hover, .journey-steps a:hover { text-decoration: underline; }
+.buyer-card p { margin-bottom: 0; font-size: 15px; }
+.topic-links { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 0 30px; }
+.topic-links a { padding: 22px 0; border-bottom: 1px solid var(--border); text-decoration: none; }
+.topic-links strong { display: block; font-size: 19px; margin-bottom: 7px; }
+.topic-links span { display: block; font-size: 15px; line-height: 1.65; color: var(--secondary); }
+.topic-links a:hover strong { color: var(--buyer-accent); }
+.official-panel { padding: 32px; background: #eaf1ec; border: 1px solid #cedcd2; border-radius: 12px; }
+.official-panel p { line-height: 1.75; max-width: 820px; margin: 14px 0; }
+.official-panel .eyebrow { margin: 0 0 12px; }
+.solid-link { display: inline-block; border-radius: 7px; padding: 12px 20px; color: white; background: var(--buyer-accent); font-size: 15px; font-weight: 700; }
+.solid-link:hover { background: #115137; }
+.guide-directory-header { max-width: 900px; margin-bottom: 26px; }
+.guide-directory-header h1 { font-size: clamp(32px, 4.3vw, 48px); }
+.guide-directory-header .post-description { font-size: 17px; line-height: 1.75; color: var(--secondary); }
+.guide-directory-header a { text-decoration: underline; text-underline-offset: 3px; }
+.topic-navigation { display: flex; gap: 10px; flex-wrap: wrap; padding: 0 0 26px; border-bottom: 1px solid var(--border); }
+.topic-navigation a { border: 1px solid var(--border); border-radius: 30px; padding: 10px 15px; font-size: 14px; background: var(--entry); }
+.topic-navigation a:hover { border-color: var(--buyer-accent); color: var(--buyer-accent); }
+.topic-navigation span { font-size: 12px; color: var(--secondary); margin-left: 6px; }
+.topic-section { margin: 56px 0; scroll-margin-top: 24px; }
+.guide-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 18px; }
+.guide-card { background: var(--entry); border: 1px solid var(--border); border-radius: 12px; padding: 26px; }
+.guide-card h3 { font-size: 21px; line-height: 1.4; letter-spacing: -.025em; margin-bottom: 12px; }
+.guide-card h3 a:hover { text-decoration: underline; text-underline-offset: 4px; }
+.guide-card > p:last-child { font-size: 15px; color: var(--secondary); line-height: 1.7; }
+.guide-meta { margin-bottom: 10px; font-size: 12px; color: var(--buyer-muted); }
+.post-single.buyer-article { max-width: none; }
+.post-header { margin: 12px 0 30px; max-width: 880px; }
+.post-title { font-size: clamp(32px, 4vw, 47px); line-height: 1.12; letter-spacing: -.04em; }
+.post-description { font-size: 17px; line-height: 1.7; color: var(--secondary); }
+.post-meta { font-size: 13px; margin-top: 14px; line-height: 1.65; }
+.post-meta a { color: var(--buyer-accent); }
+.article-layout { display: grid; grid-template-columns: minmax(0,760px) minmax(210px,1fr); gap: 64px; align-items: start; }
+.article-main { min-width: 0; }
+.article-cover { height: 180px; margin: 0 0 26px; overflow: hidden; border-radius: 10px; }
+.article-cover img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.article-sidebar { min-width: 0; position: sticky; top: 24px; }
+.sidebar-inner { max-height: calc(100vh - 48px); overflow-y: auto; padding-left: 22px; border-left: 1px solid var(--border); }
+.sidebar-inner ul { list-style: none; margin: 0; padding: 0; }
+.sidebar-inner li { margin: 0 0 10px; }
+.sidebar-inner li ul { padding-left: 12px; margin-top: 8px; }
+.sidebar-inner a { font-size: 13px; line-height: 1.55; color: var(--secondary); display: inline-block; }
+.sidebar-inner a:hover { color: var(--buyer-accent); text-decoration: underline; }
+.sidebar-official { border-top: 1px solid var(--border); padding-top: 20px; margin-top: 22px; font-size: 14px; }
+.sidebar-official p { font-size: 13px; line-height: 1.65; margin: 8px 0; color: var(--secondary); }
+.sidebar-official a { color: var(--buyer-accent); font-weight: 650; }
+.mobile-toc { display: none; }
+.post-content { font-size: 17px; line-height: 1.85; overflow-wrap: break-word; }
+.post-content > p:first-child { font-size: 18px; line-height: 1.8; }
+.post-content h2 { font-size: 28px; margin-top: 44px; scroll-margin-top: 24px; }
+.post-content h3 { font-size: 21px; margin-top: 30px; scroll-margin-top: 24px; }
+.table-scroll { width: 100%; max-width: 100%; overflow-x: auto; margin: 26px 0; border: 1px solid var(--border); border-radius: 8px; }
+.table-scroll:focus-visible { outline: 3px solid var(--buyer-accent); outline-offset: 3px; }
+.post-content .table-scroll table { display: table; table-layout: auto; overflow: visible; margin: 0; min-width: 100%; width: 100%; font-size: 14px; line-height: 1.6; }
+.post-content .table-scroll th, .post-content .table-scroll td { min-width: 150px; padding: 13px 16px; }
+.post-content .table-scroll th { background: #253b30; }
+.buyer-resources { margin-top: 40px; padding: 26px; }
+.buyer-resources h2 { font-size: 24px; margin-top: 30px; }
+.buyer-resources h2:first-child { margin-top: 0; }
+.buyer-resources p, .buyer-resources li { font-size: 15px; }
+.buyer-resources .buyer-note { font-size: 13px; padding-top: 18px; border-top: 1px solid var(--border); }
+.back-to-guides { margin: 30px 0; font-size: 15px; font-weight: 650; }
+.business-page { max-width: 780px; margin: 0 auto; }
+.business-page .post-content > h2:first-child { margin-top: 30px; }
+.resource-footer { text-align: left; margin-top: 64px; border-top: 1px solid var(--border); padding: 42px 24px 24px; font-size: 14px; }
+.footer-grid { display: grid; grid-template-columns: 1.25fr 1fr 1fr; gap: 40px; }
+.footer-brand { font-size: 20px; font-weight: 800; color: var(--primary); }
+.footer-grid p { margin: 14px 0; line-height: 1.75; max-width: 350px; }
+.footer-grid h2 { font-size: 14px; font-weight: 750; color: var(--primary); margin: 0 0 16px; }
+.footer-grid nav a { display: block; margin-bottom: 12px; line-height: 1.55; }
+.footer-grid a { border: 0; }
+.footer-grid a:hover { color: var(--buyer-accent); text-decoration: underline; }
+.footer-bottom { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 14px; padding-top: 22px; margin-top: 28px; border-top: 1px solid var(--border); font-size: 12px; }
+@media (max-width: 1050px) {
+  .article-layout { display: block; }
+  .article-main { max-width: 760px; margin: 0 auto; }
+  .post-header { max-width: 760px; margin-left: auto; margin-right: auto; }
+  .article-sidebar { display: none; }
+  .mobile-toc { display: block; border: 1px solid var(--border); border-radius: 8px; background: var(--entry); margin-bottom: 26px; }
+  .mobile-toc summary { padding: 14px 18px; font-size: 15px; font-weight: 650; }
+  .mobile-toc nav { padding: 0 20px 18px; }
+  .mobile-toc ul { padding-left: 18px; }
+  .mobile-toc li { margin: 10px 0; font-size: 14px; line-height: 1.6; }
+}
+@media (max-width: 760px) {
+  .header-nav { line-height: 1.4; padding-top: 16px; padding-bottom: 10px; }
+  .header-nav .logo { width: 100%; }
+  .header-nav .logo a { font-size: 20px; letter-spacing: -.035em; }
+  #menu.menu { width: 100%; overflow: visible; white-space: normal; flex-wrap: wrap; gap: 0 18px; margin-top: 10px; }
+  #menu a { display: flex; align-items: center; min-height: 40px; font-size: 13px; }
+  .main { padding-top: 16px; }
+  .main .profile { padding: 32px 24px; }
+  .profile h1 { font-size: 36px; }
+  .profile .profile_inner > span { font-size: 16px; }
+  .profile .button { width: auto; }
+  .section-heading { display: block; }
+  .section-heading > a { display: inline-block; margin-top: 10px; }
+  .buyer-hub, .topic-section { margin: 38px 0; }
+  .journey-steps { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 24px; }
+  .buyer-grid, .guide-grid, .topic-links { grid-template-columns: 1fr; }
+  .official-panel { padding: 24px; }
+  .guide-card { padding: 22px; }
+  .topic-navigation a { font-size: 13px; padding: 10px 12px; }
+  .post-title { font-size: 33px; }
+  .post-description { font-size: 16px; }
+  .article-cover { display: none; }
+  .post-content { font-size: 16px; line-height: 1.8; }
+  .post-content > p:first-child { font-size: 17px; }
+  .post-content h2 { font-size: 25px; margin-top: 34px; }
+  .post-content h3 { font-size: 20px; }
+  .buyer-resources { padding: 20px; }
+  .buyer-resources h2 { font-size: 22px; }
+  .footer-grid { grid-template-columns: 1fr 1fr; gap: 28px; }
+  .footer-grid > div { grid-column: 1 / -1; }
+  .footer-grid p { max-width: none; }
+}
+@media (max-width: 420px) {
+  .profile h1 { font-size: 32px; }
+  .main .profile { padding: 28px 20px; }
+  .profile .buttons { flex-direction: column; align-items: stretch; }
+  .profile .button { text-align: center; }
+  .footer-grid { grid-template-columns: 1fr; }
+}
