@@ -1,2 +1,5 @@
 /public/
 /resources/
+
+# Local planning and business documents: never publish to the public repository.
+/docs/

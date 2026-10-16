@@ -8,10 +8,16 @@ from urllib.parse import urlsplit, unquote
 import json
 import sys
 import xml.etree.ElementTree as ET
+import argparse
 
 BASE = 'https://chuichuifeng-carbon.github.io/automotive-carbon-fiber-guide/'
 PREFIX = urlsplit(BASE).path
-ROOT = Path(sys.argv[1]).resolve()
+arguments = argparse.ArgumentParser()
+arguments.add_argument('public')
+arguments.add_argument('--topics', type=Path, default=Path(__file__).resolve().parents[1] / 'data/buyer_topics.json')
+arguments.add_argument('--content-dir', type=Path, default=Path(__file__).resolve().parents[1] / 'content')
+options = arguments.parse_args()
+ROOT = Path(options.public).resolve()
 errors = []
 
 class Page(HTMLParser):
@@ -117,11 +123,12 @@ for path, page in pages.items():
             errors.append(f'{rel}: missing anchor {href}')
 
 ET.parse(ROOT / 'sitemap.xml')
-if len(list((ROOT / 'posts').glob('*/index.html'))) != 14:
-    errors.append('Expected all 14 existing guide pages')
+source_guides = {path.stem for path in (options.content_dir / 'posts').glob('*.md') if path.name != '_index.md'}
+if {path.parent.name for path in (ROOT / 'posts').glob('*/index.html')} != source_guides:
+    errors.append('Published guide pages do not match the source articles')
 
 # Keep the grouped directory complete as editors maintain the topic data.
-topics = json.loads((Path(__file__).resolve().parents[1] / 'data/buyer_topics.json').read_text(encoding='utf-8'))
+topics = json.loads(options.topics.read_text(encoding='utf-8'))
 grouped = [slug for topic in topics for slug in topic['guides']]
 existing = {p.parent.name for p in (ROOT / 'posts').glob('*/index.html')}
 if len(grouped) != len(set(grouped)) or set(grouped) != existing:
