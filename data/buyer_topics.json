@@ -1,7 +1,53 @@
 [
-  {"id":"sourcing","title":"Sourcing & wholesale","description":"Compare partners, plan a first order and build a viable product range.","guides":["automotive-carbon-fiber-wholesale-guide","how-to-find-a-reliable-automotive-carbon-fiber-manufacturer","how-to-choose-a-carbon-fiber-parts-supplier","questions-to-ask-carbon-fiber-supplier","carbon-fiber-moq-guide","how-to-start-carbon-fiber-automotive-parts-business"]},
-  {"id":"quality","title":"Samples & fitment","description":"Define acceptance criteria and reduce installation and return risks.","guides":["carbon-fiber-sample-evaluation","carbon-fiber-fitment-hidden-cost","carbon-fiber-parts-bmw-m3-m4-g80-g82"]},
-  {"id":"materials","title":"Materials & manufacturing","description":"Understand construction and verify who makes the parts.","guides":["dry-vs-wet-carbon-fiber","about-ccf-automotive-carbon-fiber-manufacturer"]},
-  {"id":"development","title":"OEM & ODM development","description":"Prepare a project brief, tooling agreement and approval plan.","guides":["automotive-carbon-fiber-oem-odm-complete-guide"]},
-  {"id":"logistics","title":"Importing & selling","description":"Plan landed cost and maintain accurate product and fitment data.","guides":["how-to-import-carbon-fiber-car-parts-from-china","selling-carbon-fiber-amazon-aces-fitment"]}
+  {
+    "id": "sourcing",
+    "title": "Sourcing & wholesale",
+    "description": "Compare partners, plan a first order and build a viable product range.",
+    "guides": [
+      "automotive-carbon-fiber-wholesale-guide",
+      "how-to-find-a-reliable-automotive-carbon-fiber-manufacturer",
+      "how-to-choose-a-carbon-fiber-parts-supplier",
+      "questions-to-ask-carbon-fiber-supplier",
+      "carbon-fiber-moq-guide",
+      "how-to-start-carbon-fiber-automotive-parts-business",
+      "carbon-fiber-quote-hardware-scope"
+    ]
+  },
+  {
+    "id": "quality",
+    "title": "Samples & fitment",
+    "description": "Define acceptance criteria and reduce installation and return risks.",
+    "guides": [
+      "carbon-fiber-sample-evaluation",
+      "carbon-fiber-fitment-hidden-cost",
+      "carbon-fiber-parts-bmw-m3-m4-g80-g82"
+    ]
+  },
+  {
+    "id": "materials",
+    "title": "Materials & manufacturing",
+    "description": "Understand construction and verify who makes the parts.",
+    "guides": [
+      "dry-vs-wet-carbon-fiber",
+      "about-ccf-automotive-carbon-fiber-manufacturer"
+    ]
+  },
+  {
+    "id": "development",
+    "title": "OEM & ODM development",
+    "description": "Prepare a project brief, tooling agreement and approval plan.",
+    "guides": [
+      "automotive-carbon-fiber-oem-odm-complete-guide",
+      "carbon-fiber-photo-development-brief"
+    ]
+  },
+  {
+    "id": "logistics",
+    "title": "Importing & selling",
+    "description": "Plan landed cost and maintain accurate product and fitment data.",
+    "guides": [
+      "how-to-import-carbon-fiber-car-parts-from-china",
+      "selling-carbon-fiber-amazon-aces-fitment"
+    ]
+  }
 ]
