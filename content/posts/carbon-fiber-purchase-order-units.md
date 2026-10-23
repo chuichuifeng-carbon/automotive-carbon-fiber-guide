@@ -1,112 +1,80 @@
 ---
-title: "Piece, Pair or Kit: Write a Clear Carbon Fiber Purchase Order"
-description: "Avoid quantity mistakes in carbon fiber purchase orders. Reconcile pieces, pairs, kits, left/right components and packing-list quantities before approval."
+title: "BMW G80 M3 vs G82 M4 Carbon Fiber Side Skirts: Fitment, Pairs and Wholesale SKUs"
+description: "Buying G80 M3 and G82 M4 carbon fiber side skirts? Compare body-specific length, underside mounting, left/right pairs, weave matching and split-shipment labeling."
 date: 2026-10-21T00:00:00+08:00
 draft: false
 relatedGuides: ["carbon-fiber-moq-guide", "automotive-carbon-fiber-wholesale-guide", "how-to-choose-a-carbon-fiber-parts-supplier"]
+lastmod: 2026-10-23T00:00:00+08:00
 ---
 
-**A clear carbon fiber purchase order states the sales unit, the components inside that unit and the number of units required.** Do not assume that “two side skirts,” “two pairs” and “two kits” mean the same thing. Reconcile the quotation, order and packing list before dispatch, and ask the supplier to confirm whether left and right components can be supplied separately.
+Can a wholesaler order one carbon fiber side-skirt SKU for both the BMW G80 M3 and G82 M4? **Only when the supplier has verified that exact product for both applications.** A catalog heading containing G80, G82 and G83 is not enough to establish one shared part number. The buyer still needs the body-specific reference, mounting arrangement and supplied left/right contents.
 
-For an overseas distributor, quantity ambiguity affects cash, stock availability and customer commitments. The problem can exist even when the product, vehicle and price are otherwise correct. This guide shows how to build an unambiguous order line and check the arithmetic without treating every component as an individually orderable SKU.
+This is where an apparently simple “five pairs of M3/M4 side skirts” order becomes expensive. The warehouse may receive the correct number of long carbon pieces but the wrong body variant, two pieces for the same side, or a matched pair split between unconnected cartons. Those are product-identification problems before they are counting problems.
 
-## There are four different counts to keep apart
+## Why the chassis matters more than the style name
 
-First is the number of customer jobs: perhaps three vehicles need a matching product. Second is the supplier's sales unit, such as a pair or a defined kit. Third is the physical component count. Fourth is the number of cartons used for shipping.
+G80 identifies the M3 sedan, while G82 identifies the M4 coupe; G83 is the M4 convertible. Their shared M3/M4 marketing context does not establish that an aftermarket side skirt uses the same lower-body interface. Check the exact component against its claimed vehicle application.
 
-Those counts are related, but they are not interchangeable. One kit may contain several parts, and one sales unit may be split across cartons. Conversely, a carton might contain more than one separately packed sales unit.
+CCF's [G80/G82/G83 MP-style side-skirt reference](https://ccfrp.com/bmw-g80-g82-g83-carbon-fiber-side-skirts-mp-style/) explicitly asks buyers to obtain a distinct code for the actual body style and confirm overall length and attachment layout. That is a useful ordering boundary: the grouped page helps you find a design, while the confirmed variant identifies what you buy.
 
-CCF's explanation of [pieces, pairs and kits](https://ccfrp.com/carbon-fiber-parts-piece-pair-kit-quantities/) is a starting point. Your order must still define the unit for the exact supplier reference. Avoid importing a unit convention from a different brand, catalog or earlier quotation.
+There is also a separate [G82/G83 flat-profile M4 side-skirt reference](https://ccfrp.com/bmw-g82-g83-m4-carbon-fiber-side-skirts-flat-profile/). Do not merge it with the MP-style product because both appear as long, narrow carbon pieces in thumbnails. Compare the full outline, end treatment, underside and application before assigning an internal SKU.
 
-| Count | Question to answer | Example of clear wording |
+## Is it an extension, an overlay or a replacement sill component?
+
+The phrase “carbon fiber side skirts” can describe different installation arrangements. Some products extend below the existing sill. Others cover an existing surface or replace a component. Ask which arrangement the selected product uses and what remains on the car.
+
+That distinction affects installation time, fitment evidence and your retail description. An extension may need a clear underside fixing layout. A cover needs its contact surfaces and attachment method explained. A replacement requires review of the removed component and its interfaces. Do not turn those possibilities into claims about an individual CCF reference without its documentation.
+
+Request photographs of the loose part's underside and both ends. A side-on vehicle photograph shows the visible edge, but can hide the entire mounting surface. Ask for the installation instructions and supplied-versus-reused hardware before telling a customer the job is a quick bolt-on.
+
+## Compare more than overall length
+
+A length measurement is useful for rejecting an obviously incorrect item, but it cannot confirm fitment by itself. Two products with similar overall dimensions can differ at the front wheel opening, rear termination or mounting flange.
+
+| Area to compare | Evidence useful to the shop | Purchasing consequence |
 |---|---|---|
-| Customer requirement | How many completed vehicle jobs need this product? | Three specified customer vehicles |
-| Order quantity | How many supplier sales units are required? | Three sets under the confirmed product reference |
-| Contents | What is inside each sales unit? | One left component and one right component per set |
-| Shipping quantity | How is the order physically packed? | Carton mapping confirmed on the final packing list |
+| Front termination | Close view aligned to the actual sill and wheel-opening area | Shows whether the selected outline matches the intended body |
+| Center run | Side and underside views on the stated vehicle | Helps review seating and visible projection |
+| Rear termination | Close view of the end profile and adjacent trim | Separates similar-looking variants |
+| Attachment surface | Hole layout, bracket positions and instructions | Defines installation scope and hardware questions |
+| Whole assembly | Vehicle application plus complete left/right photographs | Supports a repeatable product listing |
 
-The examples describe wording, not a claim about how a particular CCF product is sold.
+CCF's [G80 M3 versus G82 M4 side-skirt guide](https://ccfrp.com/g80-m3-g82-m4-carbon-fiber-side-skirts-fitment/) is the related main-site resource. Use the supplier's actual reference to resolve each comparison; avoid drawing a universal conclusion about every aftermarket skirt from one sample.
 
-## Write the sales unit into every line
+If the customer has aftermarket sill trim or previous drilled holes, photograph those as well. A product developed around an unmodified interface may encounter a different installation on that car. An installer should inspect the existing condition before deciding how it can be fitted.
 
-Give each order line a unique number. Record the supplier product reference and revision, the supported vehicle configuration, the sales-unit name, included components and ordered quantity. If you also use an internal SKU, retain both references rather than replacing the supplier's identifier with your own shorthand.
+## A pair is a commercial unit, not a body-fitment promise
 
-An order line might read:
+Write “one pair: one vehicle-left and one vehicle-right component” where that is the confirmed supply arrangement. Define left and right from the seated position facing forward. Avoid “driver side,” which changes meaning between left-hand-drive and right-hand-drive vehicles.
 
-> Line 03 — [confirmed reference], for [vehicle configuration], three sets; each set contains one left and one right component. Finish and supplied fixing items as defined in quotation revision [reference]. No separate spoiler included.
+Steering configuration and vehicle side are separate concepts. Do not automatically create LHD and RHD skirt variants merely because mirror-cap catalogs use that distinction. Ask whether the exact side-skirt product has an equipment or steering-related restriction. Variant fields should reflect verified product differences, not copied assumptions.
 
-That is more reliable than “six skirts, same as photos.” The fuller line gives the supplier a chance to identify a mismatch before production or picking.
+Suppose your order is three confirmed G80 pairs and two confirmed G82 pairs. The commercial total is five pairs and the physical total is ten skirt components. It does not follow that all ten pieces are interchangeable. Keep the two body-specific codes on separate purchase-order lines, even if their prices match.
 
-Do not use the word “kit” without its contents. CCF's [body kits versus individual parts guide](https://ccfrp.com/carbon-fiber-kits-vs-individual-parts/) helps distinguish a coordinated product package from separate components. A set of catalog alternatives is not automatically a package containing every alternative.
+When a customer needs only a damaged left side, obtain a separate replacement quotation. The factory may sell pairs only, or a new production revision may differ from the original. A nominal half-pair price is not a valid assumption.
 
-## A conversion example with a genuine decision point
+## Treat visible carbon appearance as a pair-level inspection
 
-The following is an invented training scenario, not an order recommendation or quotation.
+Side skirts are usually seen along opposite sides of the same car, often alongside a carbon front lip or diffuser. Review the requested weave appearance, gloss or matte finish and visible edge treatment before ordering quantities.
 
-A dealer has three customer jobs needing both sides of a trim product and one customer requesting only a replacement left side. The supplier's current offer defines the product as a matched pair. The dealer does not yet know whether a left-only item is available.
+For the sample pair, inspect both pieces under comparable lighting. Photograph the visible face, ends and underside with the labels in frame. Look for observable differences such as inconsistent surface finish or a damaged edge. Do not promise perfect visual matching to another supplier's carbon hood from a pattern name alone.
 
-| Requirement | Confirmed sales basis | Provisional result |
-|---|---|---|
-| Three complete customer jobs | One left/right pair per sales unit | Three pairs required |
-| One left-only replacement | Separate supply not confirmed | Hold this line for clarification |
-| Physical pieces in the complete-job lines | Two per pair | Six pieces |
-| Total order value | Replacement unresolved | Do not finalize yet |
+Ask what the “carbon fiber” description covers. A carbon outer face, supporting backing and bonded mounting feature are separate construction details. If the item is sold as dry carbon or prepreg carbon, request the product-specific manufacturing description. Neither a twill pattern nor a glossy clear coat establishes the internal laminate.
 
-The dealer should not simply order seven “pieces.” Nor should it assume the supplier will break a matched pair at half the price. Ask about left-only availability, version matching, price and any limitations. If the answer is “pairs only,” the dealer has a commercial choice: purchase an additional pair, propose another approved solution or decline the replacement request.
+Record the accepted sample reference. On reorders, ask whether the body application, tooling revision, mounting or finish specification changed. A saved invoice title saying only “M4 carbon skirts” will not preserve that information.
 
-If the dealer chooses an additional pair, four pairs contain eight components. One right-side component may remain in inventory, but it should not be labeled a freely interchangeable replacement without recording the reference and version. Its potential future value is not guaranteed revenue.
+## Long cartons need component-level identification
 
-## Keep alternative versions out of the total
+A pair may be packed together or split across cartons; a carton count cannot tell your receiving team whether the set is complete. Request labels that connect each component to the supplier SKU, vehicle side and order line.
 
-A quotation may show two finishes or several styles for the same installation location. Label these as alternatives until the buyer selects one. Otherwise, a spreadsheet can accidentally sum every option into the order.
+For example, “G80 skirt reference X, left, order line 02, carton 1 of 2” is actionable. “Carbon accessories, box 1” is not. If several variants share an outer carton, the inner packages also need identification so the first unpacking does not destroy traceability.
 
-Use separate fields for “selected,” “alternative” and “not included.” When a kit has optional components, give each optional component its own decision status. If the supplier changes the package composition, obtain the revised contents and recalculate the affected lines.
+Packing affects the buying decision as well. Ask for the packed length, cross section and gross weight of the intended order, plus how the long ends and visible edges are supported. The [CCF dealer packing-list guide](https://ccfrp.com/carbon-fiber-packing-list-dealer-checklist/) provides the document side; the sample shipment lets your team inspect the physical protection.
 
-This is particularly relevant for mixed-SKU orders. Read CCF's [samples, MOQ and mixed-model order guidance](https://ccfrp.com/wholesale-carbon-fiber-parts-samples-moq-and-mixed-model-orders/) when planning the order structure. A single-unit catalog purchase, a matched pair and a custom development minimum are different commercial questions.
+## What the wholesaler should publish on the product page
 
-## Reconcile the packing list without rewriting the order
+Use the verified chassis and body application in the product title. Show whether the price buys a pair or a single side, identify the product type and state the finish. Include actual loose-part photographs rather than relying entirely on a complete-car image with several unrelated upgrades.
 
-The packing list should help the receiving team locate the ordered goods. It should not silently redefine the unit you bought.
+Keep installation claims tied to evidence. “Mounting instructions available for this reference” is useful if true. “Perfect OEM fitment, no drilling, fits all M3/M4” is a much larger promise and needs specific support.
 
-Ask for the mapping from order line and supplier SKU to carton labels. Identify whether a multi-piece set is packed together or split. For a set divided between cartons, make the relationship visible so an incomplete delivery is not mistaken for a complete kit.
-
-CCF's [dealer packing-list checklist](https://ccfrp.com/carbon-fiber-packing-list-dealer-checklist/) explains how cartons can be matched to customer jobs. At minimum, retain the order-line reference, sales-unit quantity, component description and packing location.
-
-Before dispatch, compare three documents side by side: the accepted quotation, the purchase order and the final packing list. Investigate differences in unit names and quantities rather than assuming they are harmless formatting changes.
-
-## Copyable purchase-line worksheet
-
-Recheck the unit used for price as well as quantity. A quotation priced per pair must not be multiplied by the physical-piece count. For example, three pairs at an illustrative $100 per pair cost $300, not $600 because six components will arrive. If a revised offer changes from pairs to individual components, retain the original and explain the conversion on the comparison sheet. Taxes, packing and freight may have separate charging bases, so do not assume a single unit conversion resolves every line in the commercial total.
-
-| Field | Buyer entry |
-|---|---|
-| Order line / internal SKU | [reference] |
-| Supplier reference / revision | [confirmed identifier] |
-| Vehicle and relevant options | [application] |
-| Selected version and finish | [specification] |
-| Sales unit | [piece / pair / defined set] |
-| Components per sales unit | [itemized contents] |
-| Number of sales units | [quantity] |
-| Calculated component quantity | [where meaningful] |
-| Separate replacements requested | [confirmed / unresolved / none] |
-| Included fixing items | [reference to approved list] |
-| Explicit exclusions | [items not purchased] |
-| Carton mapping | [final packing-list reference] |
-
-Complete unresolved fields with their actual status. A blank should not look like an accepted specification. For a first order, use our [sample inspection checklist]({{< relref "posts/carbon-fiber-sample-evaluation.md" >}}) to verify the sample's contents against the same unit definition.
-
-## Receiving checks for the overseas warehouse
-
-Count both sales units and physical contents where practical. Record unopened labels before separating components, and preserve left/right identification during inspection. A component that looks similar to another version should retain its original reference until its identity is confirmed.
-
-If cartons arrive separately, keep the relevant order line open until its defined contents are reconciled. Do not release a customer package simply because the expected number of boxes has arrived. The carton count can be correct while a kit is incomplete.
-
-For discrepancies, report the order line, supplier reference, expected unit and observed contents. “One piece missing from set 03” accompanied by the set definition is easier to investigate than “quantity wrong.” Preserve packing evidence and follow the agreed notification process.
-
-## Questions buyers should settle before payment
-
-Can left or right components be purchased separately? Is a set supplied with all pictured fixing items? Does the quotation use the same unit as the catalog? Can different finishes or revisions be mixed in a shipment? How will a split-packed set be identified?
-
-There is no need to invent a universal answer to these questions. The objective is a purchase record in which both parties mean the same thing by each quantity. See our [MOQ guide]({{< relref "posts/carbon-fiber-moq-guide.md" >}}) for separating order minimums from unit definitions.
-
-When your shortlist is ready, send CCF the vehicle, exact product references, sales units, quantities and destination through the [official wholesale page](https://ccfrp.com/grow/wholesale/). Ask for confirmation of the unit and included contents before using the quotation in your customer offer.
+For a mixed order, send [CCF wholesale](https://ccfrp.com/grow/wholesale/) a separate line for each verified chassis/version, the required number of pairs and the destination. Ask for body-specific codes, underside photographs, included hardware, replacement-side availability and carton labeling. That makes the next reorder easier and gives the warehouse a clear way to distinguish the products when they arrive.
