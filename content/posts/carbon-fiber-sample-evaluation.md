@@ -79,3 +79,29 @@ Compare the batch with the approved revision and reference record, document the 
 ### Should production start before sample approval?
 
 Only under an explicit, documented release defining what may proceed and who accepts the associated risk. Otherwise keep sample approval and production authorization as separate gates.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [Carbon Fiber Parts for Lowered Cars: Clearance Checks Before a Shop Quotes](https://ccfrp.com/carbon-fiber-front-lip-clearance-lowered-cars/)
+- [Installing a BMW G80/G82 Carbon Fiber Front Lip: A Product-Specific Guide](https://ccfrp.com/bmw-g80-g82-carbon-fiber-front-lip-installation/)
+- [Replacing a Spoiler with Carbon Fiber: How to Quote Removal, Paintwork and Installation](https://ccfrp.com/carbon-fiber-spoiler-replacement-quote/)
+- [BMW F80/F82 Front Lip Packages: Define Parts, Hardware and Labor Before Ordering](https://ccfrp.com/f80-f82-front-lip-package-installation-scope/)
+
+### Related technical and buying guides
+
+- [Inspecting Carbon Fiber Samples Before a Wholesale Order](https://ccfrp.com/carbon-fiber-sample-inspection-wholesale-order/)
+- [How to Verify Vehicle Fitment Before Fulfilling a Carbon Fiber Parts Order](https://ccfrp.com/carbon-fiber-parts-fitment-verification/)
+- [How to Review a Carbon Fiber Sample Remotely Before Ordering](https://ccfrp.com/remote-carbon-fiber-sample-review/)
+- [How to Verify Carbon Fiber Fitment Reviews Before Placing a Wholesale Order](https://ccfrp.com/verify-carbon-fiber-fitment-reviews/)
+- [Before You List Carbon Fiber Parts Online: A Dealer Listing Checklist](https://ccfrp.com/carbon-fiber-dealer-product-listing-checklist/)
+- [BMW G87 M2 Carbon Fiber Hoods: What to Check Before Quoting an Installation](https://ccfrp.com/g87-m2-carbon-fiber-hood-fitment-checklist/)
+- [BMW F80/F82/F83 Carbon Fiber Spoilers: A Fitment Checklist](https://ccfrp.com/bmw-f80-f82-f83-carbon-fiber-spoiler-fitment/)
+- [How to Process Returned Carbon Fiber Parts Before Restocking](https://ccfrp.com/carbon-fiber-parts-returns-inspection/)
+
+### Continue reading on this blog
+
+- [BMW Carbon Fiber Parts Wholesale: Build a First G80/G82 and G87 Stock Order]({{< relref "posts/carbon-fiber-trial-order-cash-budget.md" >}})
+- [Choose a Carbon Fiber Parts Supplier: B2B Comparison Checklist]({{< relref "posts/how-to-choose-a-carbon-fiber-parts-supplier.md" >}})
+- [Verify a Carbon Fiber Manufacturer: Factory & Process Checklist]({{< relref "posts/how-to-find-a-reliable-automotive-carbon-fiber-manufacturer.md" >}})

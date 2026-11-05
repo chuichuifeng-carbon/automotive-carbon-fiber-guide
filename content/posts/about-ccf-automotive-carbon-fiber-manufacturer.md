@@ -191,3 +191,29 @@ Send us the vehicle, the product reference, the quantity, and your target market
 ---
 
 *Company information is based on our published materials and should be reconfirmed where relevant; product counts, availability, documents, and commercial terms may change. References to vehicle manufacturers and model names are for product application identification only and do not imply affiliation or endorsement.*
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [Supra Front Lip Orders: Workshop Handover | CCF](https://ccfrp.com/supra-front-lip-workshop-order-handover/)
+- [Where Do Carbon Fiber Car Parts Stores Source Their Products? A 2026 B2B Buying Guide](https://ccfrp.com/where-carbon-fiber-car-parts-stores-source-products/)
+- [Audi C8 A6/S6 Carbon Spoilers: What Dealers Should Send to the Installer](https://ccfrp.com/audi-c8-spoiler-dealer-installation-handover/)
+
+### Related technical and buying guides
+
+- [T300, T700 and T800 Carbon Fiber: What to Ask Your Parts Manufacturer](https://ccfrp.com/carbon-fiber-fiber-grade-verification/)
+- [How to Choose an Automotive Carbon Fiber Parts Supplier: A B2B Buyer’s Guide](https://ccfrp.com/how-to-choose-a-carbon-fiber-parts-supplier/)
+- [How to Find a Reliable Automotive Carbon Fiber Manufacturer: A B2B Sourcing Guide](https://ccfrp.com/how-to-find-reliable-automotive-carbon-fiber-manufacturer/)
+- [OEM Carbon Fiber Parts: What to Send Your Manufacturer for Feasibility Review](https://ccfrp.com/custom-carbon-fiber-feasibility-brief/)
+- [How to Choose an OEM Carbon Fiber Manufacturer for Custom Projects](https://ccfrp.com/how-to-choose-oem-carbon-fiber-parts-manufacturer/)
+- [How to Start an Automotive Carbon Fiber Parts Business: A Practical B2B Guide](https://ccfrp.com/how-to-start-carbon-fiber-automotive-parts-business/)
+- [Visiting the 140th Canton Fair? Arrange a Carbon Fiber Parts Meeting with CCF](https://ccfrp.com/canton-fair-2026-visit-ccf-carbon-fiber-parts/)
+- [How to Prepare for an Automotive Carbon Fiber Factory Visit](https://ccfrp.com/carbon-fiber-factory-visit-checklist/)
+- [How to Verify Vehicle Fitment Before Fulfilling a Carbon Fiber Parts Order](https://ccfrp.com/carbon-fiber-parts-fitment-verification/)
+
+### Continue reading on this blog
+
+- [Verify a Carbon Fiber Manufacturer: Factory & Process Checklist]({{< relref "posts/how-to-find-a-reliable-automotive-carbon-fiber-manufacturer.md" >}})
+- [Import Carbon Fiber Car Parts from China: B2B Buyer Checklist]({{< relref "posts/how-to-import-carbon-fiber-car-parts-from-china.md" >}})
+- [Automotive Carbon Fiber Wholesale: First-Order Buyer Guide]({{< relref "posts/automotive-carbon-fiber-wholesale-guide.md" >}})

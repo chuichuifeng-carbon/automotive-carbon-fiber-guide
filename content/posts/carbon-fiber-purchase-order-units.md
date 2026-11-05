@@ -78,3 +78,29 @@ Use the verified chassis and body application in the product title. Show whether
 Keep installation claims tied to evidence. “Mounting instructions available for this reference” is useful if true. “Perfect OEM fitment, no drilling, fits all M3/M4” is a much larger promise and needs specific support.
 
 For a mixed order, send [CCF wholesale](https://ccfrp.com/grow/wholesale/) a separate line for each verified chassis/version, the required number of pairs and the destination. Ask for body-specific codes, underside photographs, included hardware, replacement-side availability and carton labeling. That makes the next reorder easier and gives the warehouse a clear way to distinguish the products when they arrive.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [BMW G80 M3 vs G82 M4 Carbon Fiber Side Skirts: What Shops Must Confirm](https://ccfrp.com/g80-m3-g82-m4-carbon-fiber-side-skirts-fitment/)
+- [BMW G80 M3 and G82 M4 Carbon Fiber Spoilers: Matching the Trunk and Mounting Style](https://ccfrp.com/g80-g82-carbon-spoiler-trunk-mounting-fitment/)
+- [BMW G80/G82/G83 Carbon Fiber Side Skirts — MP-Style](https://ccfrp.com/bmw-g80-g82-g83-carbon-fiber-side-skirts-mp-style/)
+- [BMW G82/G83 M4 Carbon Fiber Side Skirts — Flat-Profile](https://ccfrp.com/bmw-g82-g83-m4-carbon-fiber-side-skirts-flat-profile/)
+
+### Related technical and buying guides
+
+- [BMW M3 and M4 LCI Carbon Fiber Parts: How Shops Should Verify Carryover Fitment](https://ccfrp.com/g80-g82-lci-carbon-fiber-fitment-checks/)
+- [BMW M2, M3 & M4 Carbon Fiber OE Part Number Guide: G87, G80 & G82](https://ccfrp.com/bmw-m2-m3-m4-carbon-fiber-oe-part-numbers/)
+- [BMW M2, M3 and M4 Carbon Fiber: Build a Better Black Friday Dealer Order](https://ccfrp.com/bmw-m2-m3-m4-black-friday-carbon-fiber/)
+- [BMW M2, M3 and M4 Carbon Fiber Parts: Wholesale Trial Orders](https://ccfrp.com/bmw-m3-m4-m2-carbon-parts-mixed-trial-orders/)
+- [BMW F80 M3 and F82 M4 Carbon Fiber Upgrades: Planning a Customer Build](https://ccfrp.com/bmw-f80-m3-f82-m4-carbon-fiber-build-planning/)
+- [BMW G80/G82 Carbon Fiber Front Bumper Canards — VS-Style](https://ccfrp.com/bmw-g80-g82-carbon-fiber-front-bumper-canards-vs-style/)
+- [10 Carbon Fiber Front Lips for BMW M3 and M4](https://ccfrp.com/carbon-fiber-front-lips-bmw-m3-m4-comparison/)
+- [BMW G80/G82 Carbon Fiber Mirror Caps: LHD vs RHD Replacement Checklist](https://ccfrp.com/g80-g82-carbon-mirror-caps-lhd-rhd/)
+
+### Continue reading on this blog
+
+- [BMW G80 M3 / G82 M4 Carbon Fiber Front Lip: Wholesale Price and Fitment Comparison]({{< relref "posts/carbon-fiber-quote-hardware-scope.md" >}})
+- [BMW M3 G80 & M4 G82/G83 Carbon Fiber Parts: B2B Fitment Checklist]({{< relref "posts/carbon-fiber-parts-bmw-m3-m4-g80-g82.md" >}})
+- [BMW G80 M3 Carbon Fiber Parts Guide: Products, Fitment and Wholesale Buying]({{< relref "posts/bmw-g80-m3-carbon-fiber-parts-guide.md" >}})

@@ -82,3 +82,29 @@ Review the complete lip on the intended vehicle configuration. Inspect the corne
 Appearance can be accepted while an interface remains open. In that case, name the accepted surface reference and keep batch production on hold until the required fitment work is resolved. Do not let “looks good” become an instruction to manufacture inventory.
 
 Send the reference photo, vehicle details, available geometry, proposed order volume and development questions through [CCF's OEM/ODM service](https://ccfrp.com/grow/oem-odm/). Ask first for the proposed development route and missing inputs. That discussion is more useful than comparing mold prices for five different interpretations of the same photograph.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [Aston Martin DBX Carbon Fiber Front Lip — Curved Design](https://ccfrp.com/aston-martin-dbx-carbon-fiber-front-lip-curved-design/)
+- [Aston Martin DBX Carbon Fiber Front Lip — Open-Center Design](https://ccfrp.com/aston-martin-dbx-carbon-fiber-front-lip-open-center-design/)
+- [BMW F80 Carbon Fiber Front Lip — GT4-Style](https://ccfrp.com/bmw-f80-carbon-fiber-front-lip-gt4-style/)
+- [BMW F80/F82 Carbon Fiber Front Lip — 3D-Style](https://ccfrp.com/bmw-f80-f82-carbon-fiber-front-lip-3d-style/)
+
+### Related technical and buying guides
+
+- [How to Reduce Tooling Risks in Custom Carbon Fiber Manufacturing](https://ccfrp.com/carbon-fiber-tooling-risk-reduction/)
+- [OEM Carbon Fiber Parts: What to Send Your Manufacturer for Feasibility Review](https://ccfrp.com/custom-carbon-fiber-feasibility-brief/)
+- [Automotive Carbon Fiber OEM & ODM Manufacturing Guide: From Concept to Production](https://ccfrp.com/automotive-carbon-fiber-oem-odm-complete-guide/)
+- [How to Prepare 3D Scan Data for a Carbon Fiber Parts RFQ](https://ccfrp.com/3d-scan-data-carbon-fiber-parts-manufacturing/)
+- [How to Plan a Test-Fit Vehicle Session for a Custom Carbon Fiber Project](https://ccfrp.com/carbon-fiber-prototype-test-fit-vehicle/)
+- [How to Choose an OEM Carbon Fiber Manufacturer for Custom Projects](https://ccfrp.com/how-to-choose-oem-carbon-fiber-parts-manufacturer/)
+- [How to Specify Mounting Inserts for Custom Carbon Fiber Parts](https://ccfrp.com/threaded-inserts-custom-carbon-fiber-parts/)
+- [Audi A4/S4 B9 Carbon Front Lips: B9 and PA Catalog Comparison](https://ccfrp.com/audi-a4-s4-b9-carbon-fiber-front-lips-what-to-check-on-facelift-cars/)
+
+### Continue reading on this blog
+
+- [Carbon Fiber Parts MOQ: Samples, Catalog Orders & Custom Tooling]({{< relref "posts/carbon-fiber-moq-guide.md" >}})
+- [BMW G80 M3 / G82 M4 Carbon Fiber Front Lip: Wholesale Price and Fitment Comparison]({{< relref "posts/carbon-fiber-quote-hardware-scope.md" >}})
+- [Carbon Fiber OEM & ODM: RFQ, Tooling and Approval Guide]({{< relref "posts/automotive-carbon-fiber-oem-odm-complete-guide.md" >}})

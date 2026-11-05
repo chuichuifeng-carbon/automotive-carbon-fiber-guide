@@ -112,3 +112,29 @@ For catalog supply, send [CCF wholesale](https://ccfrp.com/grow/wholesale/) the 
 For development, ask which stages and revisions are included. A tooling payment, a cosmetic sample and a production release are different decisions. Keep the accepted design and sample identifiable so future orders are not based on a sales thumbnail.
 
 The most useful supplier answer follows your component through the relevant operations. It explains how the mounting surface, construction, visible finish and complete assembly are controlled. That gives your business a basis for buying and supporting the part beyond its glossy face.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [How to Plan an OEM Equipment Transfer to a Carbon Fiber Trunk Lid](https://ccfrp.com/carbon-fiber-trunk-lid-oem-hardware-transfer/)
+- [How to Review Adhesive Compatibility Before Installing Carbon Fiber Trim](https://ccfrp.com/adhesive-for-carbon-fiber-trim/)
+- [Audi C8 A6/S6 Carbon Spoilers: What Dealers Should Send to the Installer](https://ccfrp.com/audi-c8-spoiler-dealer-installation-handover/)
+- [How to Specify Heat-Exposure Requirements for Custom Carbon Fiber Trim](https://ccfrp.com/carbon-fiber-engine-bay-heat-resistance-requirements/)
+
+### Related technical and buying guides
+
+- [How to Prepare 3D Scan Data for a Carbon Fiber Parts RFQ](https://ccfrp.com/3d-scan-data-carbon-fiber-parts-manufacturing/)
+- [How to Plan a Test-Fit Vehicle Session for a Custom Carbon Fiber Project](https://ccfrp.com/carbon-fiber-prototype-test-fit-vehicle/)
+- [Stock vs Made-to-Order Carbon Fiber Parts: Planning Dealer Deliveries](https://ccfrp.com/carbon-fiber-wholesale-lead-time/)
+- [Automotive Carbon Fiber OEM & ODM Manufacturing Guide: From Concept to Production](https://ccfrp.com/automotive-carbon-fiber-oem-odm-complete-guide/)
+- [How to Verify Vehicle Fitment Before Fulfilling a Carbon Fiber Parts Order](https://ccfrp.com/carbon-fiber-parts-fitment-verification/)
+- [How to Check Whether Carbon Fiber Parts Are Ready for PPF](https://ccfrp.com/ppf-on-carbon-fiber-parts/)
+- [How to Structure a Vehicle Fitment Selector for an Automotive Parts Store](https://ccfrp.com/vehicle-fitment-selector-automotive-parts-store/)
+- [How to Reduce Tooling Risks in Custom Carbon Fiber Manufacturing](https://ccfrp.com/carbon-fiber-tooling-risk-reduction/)
+
+### Continue reading on this blog
+
+- [Custom Carbon Fiber Front Lip Manufacturing: From Reference Photo to Tooling]({{< relref "posts/carbon-fiber-photo-development-brief.md" >}})
+- [Choose a Carbon Fiber Parts Supplier: B2B Comparison Checklist]({{< relref "posts/how-to-choose-a-carbon-fiber-parts-supplier.md" >}})
+- [Verify a Carbon Fiber Manufacturer: Factory & Process Checklist]({{< relref "posts/how-to-find-a-reliable-automotive-carbon-fiber-manufacturer.md" >}})

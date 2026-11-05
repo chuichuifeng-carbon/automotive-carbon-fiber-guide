@@ -86,3 +86,29 @@ A useful inquiry to [CCF wholesale](https://ccfrp.com/grow/wholesale/) is specif
 > Porsche 992 [model/year], actual [LHD/RHD], current housing photos attached. We need [overlay/replacement] in [finish], [quantity] complete left/right pairs for [destination]. Please identify the matching reference, supplied components, installation document and sample terms. Can a matching single side be supplied later?
 
 With those answers and an evaluated sample, your team can explain what the customer is buying, price the work and recognize the same product on a reorder. That is the point at which a mirror-cap reference earns a place in stock.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [Audi RS Q8 Carbon Fiber Mirror Caps: Overlay or Replacement for Your Shop?](https://ccfrp.com/audi-rs-q8-carbon-fiber-mirror-caps-overlay-or-replacement-for-your-shop/)
+- [BMW G87 M2 Carbon Fiber Mirror Caps: Overlay or Replacement?](https://ccfrp.com/g87-m2-carbon-mirror-caps-overlay-replacement/)
+- [Mercedes W117/W118 Carbon Fiber Mirror Caps: Overlay or Replacement?](https://ccfrp.com/mercedes-w117-w118-carbon-mirror-caps/)
+- [BMW F8x Carbon Fiber Replacement Mirror Caps](https://ccfrp.com/bmw-f8x-carbon-fiber-replacement-mirror-caps/)
+
+### Related technical and buying guides
+
+- [Carbon Fiber Overlays vs Replacement Parts: What Changes in a Customer Quote?](https://ccfrp.com/carbon-fiber-overlay-vs-replacement-quotes/)
+- [BMW G80/G82 Carbon Fiber Mirror Caps: LHD vs RHD Replacement Checklist](https://ccfrp.com/g80-g82-carbon-mirror-caps-lhd-rhd/)
+- [Porsche 718 Carbon Fiber Mirror Caps: How to Compare Overlay and Replacement Versions](https://ccfrp.com/porsche-718-carbon-fiber-mirror-caps-how-to-compare-overlay-and-replacement-versions/)
+- [How to Choose a Carbon Fiber Parts Supplier for Your Shop or Dealership](https://ccfrp.com/choose-carbon-fiber-parts-supplier-dealers/)
+- [How to Decide Whether a Damaged Carbon Fiber Part Needs Repair Assessment or Replacement](https://ccfrp.com/carbon-fiber-car-part-repair-or-replacement/)
+- [Stock vs Made-to-Order Carbon Fiber Parts: Planning Dealer Deliveries](https://ccfrp.com/carbon-fiber-wholesale-lead-time/)
+- [Forged or Woven Carbon: How to Choose a Finish for a Private-Label Range](https://ccfrp.com/forged-vs-woven-carbon-fiber-car-parts/)
+- [Gloss or Matte Carbon Fiber: How to Choose for Customer Builds](https://ccfrp.com/gloss-vs-matte-carbon-fiber-car-parts/)
+
+### Continue reading on this blog
+
+- [Audi RS6 Carbon Fiber Parts Guide: Selecting a Wholesale Range Your Shop Can Fit]({{< relref "posts/audi-rs6-carbon-fiber-parts-guide.md" >}})
+- [BMW G80 M3 vs G82 M4 Carbon Fiber Side Skirts: Fitment, Pairs and Wholesale SKUs]({{< relref "posts/carbon-fiber-purchase-order-units.md" >}})
+- [BMW Carbon Fiber Parts Wholesale: Build a First G80/G82 and G87 Stock Order]({{< relref "posts/carbon-fiber-trial-order-cash-budget.md" >}})

@@ -63,3 +63,29 @@ Keep fitment separate. A flawless finish does not approve the mounting geometry,
 A useful finish line reads: “Exterior visible faces to match approved sample [reference]; [gloss/matte] as shown; [weave appearance]; painted zones and returns per annotated drawing [revision]. Inspect paired pieces together. Obtain approval before any coating or appearance change.”
 
 Send the selected part references, vehicle application and expected quantities through [CCF wholesale](https://ccfrp.com/grow/wholesale/) when requesting a sample. Include photos of the customer's existing carbon if the job involves matching it. The point of the sample is to settle what the buyer will receive and what the shop can confidently promise on the next order.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [BMW Carbon Fiber Trim: Customer Feedback on Finish and Packaging](https://ccfrp.com/bmw-carbon-fiber-trim-customer-quality-packaging/)
+- [BMW G80/G82 Gloss Black Front Grille — E-CSL-Style](https://ccfrp.com/bmw-g80-g82-gloss-black-front-grille-e-csl-style/)
+- [BMW G8x Gloss Black Grille Inserts](https://ccfrp.com/bmw-g8x-gloss-black-grille-inserts/)
+- [Aston Martin DB11 Carbon Fiber Body Kits: Comparing Lips, Skirts and Rear Pieces](https://ccfrp.com/aston-martin-db11-carbon-fiber-body-kits-comparing-lips-skirts-and-rear-pieces/)
+
+### Related technical and buying guides
+
+- [How to Read UV and Clear-Coat Test Reports for Carbon Fiber Parts](https://ccfrp.com/carbon-fiber-uv-resistance-test-report/)
+- [Gloss or Matte Carbon Fiber: How to Choose for Customer Builds](https://ccfrp.com/gloss-vs-matte-carbon-fiber-car-parts/)
+- [How to Assess Yellowing or Cloudiness on Carbon Fiber Parts](https://ccfrp.com/carbon-fiber-yellowing-cloudy-clear-coat/)
+- [Matching Carbon Fiber Weave and Finish Across a BMW Exterior Package](https://ccfrp.com/matching-carbon-fiber-weave-finish-bmw/)
+- [Reordering Carbon Fiber Parts: Keeping Finish, Fitment and Hardware Consistent](https://ccfrp.com/carbon-fiber-parts-wholesale-reorders/)
+- [Carbon Fiber Weave Patterns: Plain, Twill and 3K Explained](https://ccfrp.com/carbon-fiber-weave-patterns-automotive-parts/)
+- [How to Choose a 3PL for Carbon Fiber Hoods and Body Kits](https://ccfrp.com/3pl-for-automotive-body-kits/)
+- [Audi A4/S4 B9 Carbon Front Lips: B9 and PA Catalog Comparison](https://ccfrp.com/audi-a4-s4-b9-carbon-fiber-front-lips-what-to-check-on-facelift-cars/)
+
+### Continue reading on this blog
+
+- [Carbon Fiber OEM & ODM: RFQ, Tooling and Approval Guide]({{< relref "posts/automotive-carbon-fiber-oem-odm-complete-guide.md" >}})
+- [BMW G80 M3 Carbon Fiber Parts Guide: Products, Fitment and Wholesale Buying]({{< relref "posts/bmw-g80-m3-carbon-fiber-parts-guide.md" >}})
+- [BMW G80/G82 Carbon Fiber Rear Diffuser Fitment: Exhaust Openings, Clips and Test Fitting]({{< relref "posts/carbon-fiber-prototype-release-scope.md" >}})

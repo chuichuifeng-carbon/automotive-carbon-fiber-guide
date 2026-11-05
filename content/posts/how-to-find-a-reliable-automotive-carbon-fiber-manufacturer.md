@@ -58,3 +58,29 @@ Use a verification level proportionate to the order and risk. High-value tooling
 ### What should be rechecked on repeat orders?
 
 Review changes to tooling, site, construction, packaging and specifications. Prior success with one SKU does not verify another application.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [How to Verify Carbon Fiber Weight-Saving Claims Before Advertising Them](https://ccfrp.com/carbon-fiber-hood-weight-comparison/)
+- [Replacing a Spoiler with Carbon Fiber: How to Quote Removal, Paintwork and Installation](https://ccfrp.com/carbon-fiber-spoiler-replacement-quote/)
+- [How to Plan an OEM Equipment Transfer to a Carbon Fiber Trunk Lid](https://ccfrp.com/carbon-fiber-trunk-lid-oem-hardware-transfer/)
+- [Audi C8 A6/S6 Carbon Spoilers: What Dealers Should Send to the Installer](https://ccfrp.com/audi-c8-spoiler-dealer-installation-handover/)
+
+### Related technical and buying guides
+
+- [How to Find a Reliable Automotive Carbon Fiber Manufacturer: A B2B Sourcing Guide](https://ccfrp.com/how-to-find-reliable-automotive-carbon-fiber-manufacturer/)
+- [How to Prepare for an Automotive Carbon Fiber Factory Visit](https://ccfrp.com/carbon-fiber-factory-visit-checklist/)
+- [How to Verify Vehicle Fitment Before Fulfilling a Carbon Fiber Parts Order](https://ccfrp.com/carbon-fiber-parts-fitment-verification/)
+- [Carbon Parts Installation Documents: A Buyer-to-Workshop Checklist](https://ccfrp.com/carbon-parts-installation-document-checklist/)
+- [How to Verify Carbon Fiber Fitment Reviews Before Placing a Wholesale Order](https://ccfrp.com/verify-carbon-fiber-fitment-reviews/)
+- [Carbon Fiber Shipping Damage Claims: A Dealer’s Evidence Checklist](https://ccfrp.com/carbon-fiber-damage-claim-photo-checklist/)
+- [Before You List Carbon Fiber Parts Online: A Dealer Listing Checklist](https://ccfrp.com/carbon-fiber-dealer-product-listing-checklist/)
+- [T300, T700 and T800 Carbon Fiber: What to Ask Your Parts Manufacturer](https://ccfrp.com/carbon-fiber-fiber-grade-verification/)
+
+### Continue reading on this blog
+
+- [Choose a Carbon Fiber Parts Supplier: B2B Comparison Checklist]({{< relref "posts/how-to-choose-a-carbon-fiber-parts-supplier.md" >}})
+- [Start a Carbon Fiber Parts Business: B2B Launch Checklist]({{< relref "posts/how-to-start-carbon-fiber-automotive-parts-business.md" >}})
+- [CCF Carbon Fiber: Company, Factory & B2B Buyer Verification]({{< relref "posts/about-ccf-automotive-carbon-fiber-manufacturer.md" >}})

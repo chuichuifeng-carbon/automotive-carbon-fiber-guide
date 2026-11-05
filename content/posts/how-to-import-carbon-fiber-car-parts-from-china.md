@@ -75,3 +75,29 @@ Qualify the [sample]({{< relref "posts/carbon-fiber-sample-evaluation.md" >}}) f
 ### Is the supplier's inspection a product approval for my market?
 
 No. Confirm applicable product, installation and market requirements separately. Inspection checks the agreed scope; it does not create regulatory approval.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [Where Do Carbon Fiber Car Parts Stores Source Their Products? A 2026 B2B Buying Guide](https://ccfrp.com/where-carbon-fiber-car-parts-stores-source-products/)
+- [How to Review Adhesive Compatibility Before Installing Carbon Fiber Trim](https://ccfrp.com/adhesive-for-carbon-fiber-trim/)
+- [Audi C8 A6/S6 Carbon Spoilers: What Dealers Should Send to the Installer](https://ccfrp.com/audi-c8-spoiler-dealer-installation-handover/)
+- [How to Specify Heat-Exposure Requirements for Custom Carbon Fiber Trim](https://ccfrp.com/carbon-fiber-engine-bay-heat-resistance-requirements/)
+
+### Related technical and buying guides
+
+- [Shipping Carbon Fiber Car Parts from China to Europe: Costs, Customs and Delivery](https://ccfrp.com/shipping-carbon-fiber-car-parts-china-europe/)
+- [Carbon Parts Installation Documents: A Buyer-to-Workshop Checklist](https://ccfrp.com/carbon-parts-installation-document-checklist/)
+- [How to Choose an Automotive Carbon Fiber Parts Supplier: A B2B Buyer’s Guide](https://ccfrp.com/how-to-choose-a-carbon-fiber-parts-supplier/)
+- [Carbon Fiber Packing Lists: How Dealers Match Cartons to Customer Jobs](https://ccfrp.com/carbon-fiber-packing-list-dealer-checklist/)
+- [How to Decide Whether a Damaged Carbon Fiber Part Needs Repair Assessment or Replacement](https://ccfrp.com/carbon-fiber-car-part-repair-or-replacement/)
+- [How to Prepare for an Automotive Carbon Fiber Factory Visit](https://ccfrp.com/carbon-fiber-factory-visit-checklist/)
+- [Carbon Fiber Dropshipping for Dealers: What to Confirm Before Taking Customer Orders](https://ccfrp.com/carbon-fiber-parts-dropshipping-dealer-checklist/)
+- [Forged or Woven Carbon: How to Choose a Finish for a Private-Label Range](https://ccfrp.com/forged-vs-woven-carbon-fiber-car-parts/)
+
+### Continue reading on this blog
+
+- [Choose a Carbon Fiber Parts Supplier: B2B Comparison Checklist]({{< relref "posts/how-to-choose-a-carbon-fiber-parts-supplier.md" >}})
+- [Start a Carbon Fiber Parts Business: B2B Launch Checklist]({{< relref "posts/how-to-start-carbon-fiber-automotive-parts-business.md" >}})
+- [CCF Carbon Fiber: Company, Factory & B2B Buyer Verification]({{< relref "posts/about-ccf-automotive-carbon-fiber-manufacturer.md" >}})

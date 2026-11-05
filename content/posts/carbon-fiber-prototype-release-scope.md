@@ -82,3 +82,29 @@ Once the shop has suitable evidence, describe the supported configuration precis
 If a customer asks for a different exhaust combination, reopen the compatibility question. A successful installation with one tip arrangement is useful evidence for that setup, not a universal approval of the diffuser family.
 
 For an existing catalog purchase, send the rear photographs, exhaust reference and selected diffuser to [CCF wholesale](https://ccfrp.com/grow/wholesale/). For a new geometry, use [CCF OEM/ODM development](https://ccfrp.com/grow/oem-odm/) and include the bumper and exhaust interfaces in the development scope. Resolve the product combination before committing a customer to parts and installation labor.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [BMW G80/G82 Carbon Fiber Rear Diffusers: Standard vs Center-Exit Exhaust Fitment](https://ccfrp.com/g80-g82-carbon-diffuser-exhaust-fitment/)
+- [BMW G80 M3 and G82 M4 Carbon Fiber Spoilers: Matching the Trunk and Mounting Style](https://ccfrp.com/g80-g82-carbon-spoiler-trunk-mounting-fitment/)
+- [BMW G80 M3 vs G82 M4 Carbon Fiber Side Skirts: What Shops Must Confirm](https://ccfrp.com/g80-m3-g82-m4-carbon-fiber-side-skirts-fitment/)
+- [BMW G80/G82 Carbon Fiber Rear Diffuser — 3D-Style](https://ccfrp.com/bmw-g80-g82-carbon-fiber-rear-diffuser-3d-style/)
+
+### Related technical and buying guides
+
+- [BMW M3 and M4 LCI Carbon Fiber Parts: How Shops Should Verify Carryover Fitment](https://ccfrp.com/g80-g82-lci-carbon-fiber-fitment-checks/)
+- [BMW M2, M3 & M4 Carbon Fiber OE Part Number Guide: G87, G80 & G82](https://ccfrp.com/bmw-m2-m3-m4-carbon-fiber-oe-part-numbers/)
+- [BMW G80/G82 Carbon Fiber Rear Bumper Corner Extensions — MP-Style](https://ccfrp.com/bmw-g80-g82-carbon-fiber-rear-bumper-corner-extensions-mp-style/)
+- [BMW G80/G82 Carbon Fiber Front Bumper Vent Inserts](https://ccfrp.com/bmw-g80-g82-carbon-fiber-front-bumper-vent-inserts/)
+- [Quoting a BMW G87 M2 Carbon Fiber Package: Parts, Hardware and Installation Scope](https://ccfrp.com/g87-m2-carbon-fiber-package-wholesale-quote/)
+- [BMW G80/G82 Carbon Fiber Exterior Package](https://ccfrp.com/bmw-g80-g82-carbon-fiber-exterior-package/)
+- [BMW G80/G82 Carbon Fiber Front Bumper Canards — AC-Style](https://ccfrp.com/bmw-g80-g82-carbon-fiber-front-bumper-canards-ac-style/)
+- [BMW G80/G82 Carbon Fiber Front Bumper Canards — MP-Style](https://ccfrp.com/bmw-g80-g82-carbon-fiber-front-bumper-canards-mp-style/)
+
+### Continue reading on this blog
+
+- [BMW G80 M3 / G82 M4 Carbon Fiber Front Lip: Wholesale Price and Fitment Comparison]({{< relref "posts/carbon-fiber-quote-hardware-scope.md" >}})
+- [BMW G80 M3 vs G82 M4 Carbon Fiber Side Skirts: Fitment, Pairs and Wholesale SKUs]({{< relref "posts/carbon-fiber-purchase-order-units.md" >}})
+- [BMW G80 M3 Carbon Fiber Parts Guide: Products, Fitment and Wholesale Buying]({{< relref "posts/bmw-g80-m3-carbon-fiber-parts-guide.md" >}})

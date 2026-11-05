@@ -110,3 +110,29 @@ The label alone cannot establish that. Compare equivalent finished products with
 ### Which should a tuning shop stock?
 
 Stock products with verified applications, evaluated samples and a construction your team can describe honestly. Where both routes meet the customer requirement, compare the complete delivered cost and support terms rather than the name alone.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [BMW G87 M2 Carbon Fiber Spoiler vs Rear Wing: Choosing for the Customer’s Build](https://ccfrp.com/g87-m2-carbon-spoiler-vs-rear-wing/)
+- [How to Review Adhesive Compatibility Before Installing Carbon Fiber Trim](https://ccfrp.com/adhesive-for-carbon-fiber-trim/)
+- [Audi RS Q8 Carbon Fiber Mirror Caps: Overlay or Replacement for Your Shop?](https://ccfrp.com/audi-rs-q8-carbon-fiber-mirror-caps-overlay-or-replacement-for-your-shop/)
+- [BMW F90 M5 Carbon Fiber Fenders vs Fender Trims: What Shops Should Quote](https://ccfrp.com/bmw-f90-m5-carbon-fiber-fenders-vs-fender-trim/)
+
+### Related technical and buying guides
+
+- [Dry vs Wet Carbon Fiber: What Tuning Shops Should Explain to Customers](https://ccfrp.com/dry-vs-wet-carbon-fiber-tuning-shops/)
+- [Gloss or Matte Carbon Fiber: How to Choose for Customer Builds](https://ccfrp.com/gloss-vs-matte-carbon-fiber-car-parts/)
+- [Best Dry Carbon Fiber Manufacturers for Automotive Parts](https://ccfrp.com/best-dry-carbon-fiber-manufacturers-automotive-parts/)
+- [Forged or Woven Carbon: How to Choose a Finish for a Private-Label Range](https://ccfrp.com/forged-vs-woven-carbon-fiber-car-parts/)
+- [Who Is Responsible for Engineering and Testing Custom Carbon Fiber Parts?](https://ccfrp.com/custom-carbon-fiber-engineering-testing-responsibilities/)
+- [Porsche 992.1 vs 992.2 Carbon Front Lips: Catalog Selection Guide](https://ccfrp.com/porsche-992-1-vs-992-2-carbon-fiber-front-lips-how-to-choose-the-right-version/)
+- [How to Read UV and Clear-Coat Test Reports for Carbon Fiber Parts](https://ccfrp.com/carbon-fiber-uv-resistance-test-report/)
+- [Partially Painted vs Exposed Carbon Fiber: Define the Finish Scope](https://ccfrp.com/partially-painted-vs-exposed-carbon-fiber-finish/)
+
+### Continue reading on this blog
+
+- [BMW G82 M4 Carbon Fiber Parts Guide: Choosing Parts for a Coupe Build]({{< relref "posts/bmw-g82-m4-carbon-fiber-parts-guide.md" >}})
+- [Carbon Fiber Mirror Caps: Should Your Shop Stock Overlays or Replacements?]({{< relref "posts/carbon-fiber-mirror-caps-overlay-vs-replacement-wholesale.md" >}})
+- [BMW G80 M3 vs G82 M4 Carbon Fiber Side Skirts: Fitment, Pairs and Wholesale SKUs]({{< relref "posts/carbon-fiber-purchase-order-units.md" >}})

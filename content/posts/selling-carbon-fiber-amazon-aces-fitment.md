@@ -77,3 +77,29 @@ Ask what is available: raw fitment records, a spreadsheet or a validated feed. C
 ### What should happen after a fitment complaint?
 
 Record the customer's configuration and the supplied revision, review the evidence and suspend questionable applications while investigating. Update both the source record and each affected sales channel.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [BMW G80 M3 and G82 M4 Carbon Fiber Spoilers: Matching the Trunk and Mounting Style](https://ccfrp.com/g80-g82-carbon-spoiler-trunk-mounting-fitment/)
+- [Audi RS7 Carbon Fiber Rear Diffusers: Bumper and Exhaust Fitment](https://ccfrp.com/audi-rs7-carbon-fiber-diffuser-fitment/)
+- [BMW G87 Carbon Fiber Front Lips: Choosing the Right Version](https://ccfrp.com/bmw-g87-carbon-fiber-front-lip-fitment/)
+- [Front Lip vs Splitter: Differences, Fitment and Daily Use](https://ccfrp.com/front-lip-vs-splitter-buying-guide/)
+
+### Related technical and buying guides
+
+- [BMW G87 M2 Carbon Fiber Hoods: What to Check Before Quoting an Installation](https://ccfrp.com/g87-m2-carbon-fiber-hood-fitment-checklist/)
+- [BMW Carbon Fiber Parts Fitment Data: Building a Dealer Catalog That Reduces Wrong Orders](https://ccfrp.com/bmw-carbon-fiber-parts-fitment-data-dealers/)
+- [BMW F80/F82/F83 Carbon Fiber Spoilers: A Fitment Checklist](https://ccfrp.com/bmw-f80-f82-f83-carbon-fiber-spoiler-fitment/)
+- [Mercedes W463 Carbon Fiber Parts: Model-Year and Body-Version Checklist](https://ccfrp.com/mercedes-w463-carbon-fiber-parts-fitment/)
+- [Toyota Supra MK5 A90 Carbon Fiber Hoods: Fitment and Buying Checklist](https://ccfrp.com/supra-a90-carbon-fiber-hood-fitment/)
+- [How to Structure a Vehicle Fitment Selector for an Automotive Parts Store](https://ccfrp.com/vehicle-fitment-selector-automotive-parts-store/)
+- [How to Prepare 3D Scan Data for a Carbon Fiber Parts RFQ](https://ccfrp.com/3d-scan-data-carbon-fiber-parts-manufacturing/)
+- [What a Carbon Fiber Product Data Sheet Should Include for Dealers](https://ccfrp.com/carbon-fiber-dealer-product-data/)
+
+### Continue reading on this blog
+
+- [BMW M3 G80 & M4 G82/G83 Carbon Fiber Parts: B2B Fitment Checklist]({{< relref "posts/carbon-fiber-parts-bmw-m3-m4-g80-g82.md" >}})
+- [BMW G80 M3 Carbon Fiber Parts Guide: Products, Fitment and Wholesale Buying]({{< relref "posts/bmw-g80-m3-carbon-fiber-parts-guide.md" >}})
+- [BMW G82 M4 Carbon Fiber Parts Guide: Choosing Parts for a Coupe Build]({{< relref "posts/bmw-g82-m4-carbon-fiber-parts-guide.md" >}})

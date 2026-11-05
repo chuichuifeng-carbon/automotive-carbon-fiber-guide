@@ -124,3 +124,29 @@ Only when the quotation itemizes them. Identify the diffuser and exhaust scope s
 ### Can I order a complete carbon package?
 
 Request an itemized proposal for the actual car. A package name or demonstration image does not define its contents, availability or installation requirements.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [Audi RS Q8 Carbon Fiber Mirror Caps: Overlay or Replacement for Your Shop?](https://ccfrp.com/audi-rs-q8-carbon-fiber-mirror-caps-overlay-or-replacement-for-your-shop/)
+- [Carbon Fiber Parts for Lowered Cars: Clearance Checks Before a Shop Quotes](https://ccfrp.com/carbon-fiber-front-lip-clearance-lowered-cars/)
+- [Audi RS7 Carbon Fiber Rear Diffusers: Bumper and Exhaust Fitment](https://ccfrp.com/audi-rs7-carbon-fiber-diffuser-fitment/)
+- [Audi C8 A6/S6 Carbon Spoilers: What Dealers Should Send to the Installer](https://ccfrp.com/audi-c8-spoiler-dealer-installation-handover/)
+
+### Related technical and buying guides
+
+- [Audi RS6 Carbon Fiber Parts: A Workshop Fitment and Selection Guide](https://ccfrp.com/audi-rs6-carbon-fiber-parts-fitment/)
+- [Audi RS6 Carbon Fiber Roof Spoilers: Choosing the Correct Rear Piece](https://ccfrp.com/audi-rs6-carbon-fiber-roof-spoilers-choosing-the-correct-rear-piece/)
+- [Building a BMW Carbon Fiber Product Range: A Distributor’s Planning Guide](https://ccfrp.com/bmw-carbon-fiber-parts-wholesale-guide/)
+- [How to Plan a Test-Fit Vehicle Session for a Custom Carbon Fiber Project](https://ccfrp.com/carbon-fiber-prototype-test-fit-vehicle/)
+- [How to Choose a Carbon Fiber Parts Supplier for Your Shop or Dealership](https://ccfrp.com/choose-carbon-fiber-parts-supplier-dealers/)
+- [Forged or Woven Carbon: How to Choose a Finish for a Private-Label Range](https://ccfrp.com/forged-vs-woven-carbon-fiber-car-parts/)
+- [McLaren Artura Carbon Fiber Rear Wing or Ducktail: What Should a Shop Compare?](https://ccfrp.com/mclaren-artura-carbon-fiber-rear-wing-or-ducktail-what-should-a-shop-compare/)
+- [McLaren GT Carbon Fiber Front Lips and Diffusers: A Shop’s Version Checklist](https://ccfrp.com/mclaren-gt-carbon-fiber-front-lips-and-diffusers-a-shop-s-version-checklist/)
+
+### Continue reading on this blog
+
+- [BMW G82 M4 Carbon Fiber Parts Guide: Choosing Parts for a Coupe Build]({{< relref "posts/bmw-g82-m4-carbon-fiber-parts-guide.md" >}})
+- [Carbon Fiber Mirror Caps: Should Your Shop Stock Overlays or Replacements?]({{< relref "posts/carbon-fiber-mirror-caps-overlay-vs-replacement-wholesale.md" >}})
+- [Carbon Fiber Sample Inspection Checklist Before a Bulk Order]({{< relref "posts/carbon-fiber-sample-evaluation.md" >}})

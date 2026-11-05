@@ -77,3 +77,29 @@ No. Tooling, geometry, trimming and verification determine fitment. The [manufac
 ### How do I compare suppliers without knowing their return rates?
 
 Use a controlled sample evaluation and a limited trial order. Record your own installation time, defects and claims outcomes rather than accepting unsupported “zero returns” promises.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [BMW G80 M3 and G82 M4 Carbon Fiber Spoilers: Matching the Trunk and Mounting Style](https://ccfrp.com/g80-g82-carbon-spoiler-trunk-mounting-fitment/)
+- [Audi RS7 Carbon Fiber Rear Diffusers: Bumper and Exhaust Fitment](https://ccfrp.com/audi-rs7-carbon-fiber-diffuser-fitment/)
+- [BMW G87 Carbon Fiber Front Lips: Choosing the Right Version](https://ccfrp.com/bmw-g87-carbon-fiber-front-lip-fitment/)
+- [Wholesale Carbon Fiber Hoods: What Manufacturers Should Include in a Quote](https://ccfrp.com/carbon-fiber-hood-cost-breakdown/)
+
+### Related technical and buying guides
+
+- [Carbon Fiber Body Kit Landed Cost: Parts, Packing and Freight](https://ccfrp.com/carbon-fiber-body-kit-landed-cost/)
+- [How to Calculate Margin on Carbon Fiber Parts After Returns and Rework](https://ccfrp.com/carbon-fiber-parts-profit-margin-calculation/)
+- [BMW G87 M2 Carbon Fiber Hoods: What to Check Before Quoting an Installation](https://ccfrp.com/g87-m2-carbon-fiber-hood-fitment-checklist/)
+- [Audi R8 Carbon Fiber Exterior Parts: What to Confirm Before Ordering](https://ccfrp.com/audi-r8-carbon-fiber-parts-fitment/)
+- [Audi RS3 Carbon Diffusers: 8V/8Y Fitment and LED Options](https://ccfrp.com/audi-rs3-carbon-fiber-diffusers-led-and-non-led-options-explained/)
+- [Audi RS6 Carbon Fiber Parts: A Workshop Fitment and Selection Guide](https://ccfrp.com/audi-rs6-carbon-fiber-parts-fitment/)
+- [BMW Carbon Fiber Parts Fitment Data: Building a Dealer Catalog That Reduces Wrong Orders](https://ccfrp.com/bmw-carbon-fiber-parts-fitment-data-dealers/)
+- [BMW F80/F82/F83 Carbon Fiber Spoilers: A Fitment Checklist](https://ccfrp.com/bmw-f80-f82-f83-carbon-fiber-spoiler-fitment/)
+
+### Continue reading on this blog
+
+- [BMW G80 M3 Carbon Fiber Parts Guide: Products, Fitment and Wholesale Buying]({{< relref "posts/bmw-g80-m3-carbon-fiber-parts-guide.md" >}})
+- [BMW M3 G80 & M4 G82/G83 Carbon Fiber Parts: B2B Fitment Checklist]({{< relref "posts/carbon-fiber-parts-bmw-m3-m4-g80-g82.md" >}})
+- [BMW G80/G82 Carbon Fiber Rear Diffuser Fitment: Exhaust Openings, Clips and Test Fitting]({{< relref "posts/carbon-fiber-prototype-release-scope.md" >}})

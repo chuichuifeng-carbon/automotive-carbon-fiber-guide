@@ -137,3 +137,29 @@ It depends on the selected entry and quotation. Compare the named components ind
 ### Which Porsche 992 carbon fiber parts should a dealer stock first?
 
 Start with verified references supported by customer demand and installation capability. Larger rear assemblies and unresolved conversions can remain quotation-led until the component scope, packing and after-sales work are understood.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [Porsche 992 Carbon Fiber Mirror Caps: Replacement, RHD and Housing Checks](https://ccfrp.com/porsche-992-carbon-fiber-mirror-caps-replacement-rhd-and-housing-checks/)
+- [BMW G87 Carbon Fiber Front Lips: Choosing the Right Version](https://ccfrp.com/bmw-g87-carbon-fiber-front-lip-fitment/)
+- [BMW G80 M3 and G82 M4 Carbon Fiber Spoilers: Matching the Trunk and Mounting Style](https://ccfrp.com/g80-g82-carbon-spoiler-trunk-mounting-fitment/)
+- [BMW G87 M2 Carbon Fiber Spoiler vs Rear Wing: Choosing for the Customer’s Build](https://ccfrp.com/g87-m2-carbon-spoiler-vs-rear-wing/)
+
+### Related technical and buying guides
+
+- [Porsche 992.1 vs 992.2 Carbon Front Lips: Catalog Selection Guide](https://ccfrp.com/porsche-992-1-vs-992-2-carbon-fiber-front-lips-how-to-choose-the-right-version/)
+- [Porsche 992 Carbon Fiber Rear Wings: What Should Be Included in the Assembly?](https://ccfrp.com/porsche-992-carbon-fiber-rear-wings-what-should-be-included-in-the-assembly/)
+- [Porsche 992 and 992 Turbo S Carbon Fiber Parts: Fitment Is Part-Specific](https://ccfrp.com/porsche-992-turbo-s-carbon-fiber-fitment/)
+- [Porsche 718 Carbon Fiber Mirror Caps: How to Compare Overlay and Replacement Versions](https://ccfrp.com/porsche-718-carbon-fiber-mirror-caps-how-to-compare-overlay-and-replacement-versions/)
+- [Porsche 718 Cayman GT4 RS Carbon Front Pieces: Splitter, Corners and Light Covers](https://ccfrp.com/porsche-718-cayman-gt4-rs-carbon-front-pieces-splitter-corners-and-light-covers/)
+- [Porsche 992 Aero Packages: Check Component Dependencies Before Ordering](https://ccfrp.com/porsche-992-aero-package-dependency-checklist/)
+- [Blind Shipping for Automotive Parts: Packaging, Labels and Supplier Privacy](https://ccfrp.com/blind-shipping-automotive-parts-guide/)
+- [Porsche Cayenne 9YA Carbon Fiber Spoilers: Upper, Lower and Roof Pieces Explained](https://ccfrp.com/porsche-cayenne-9ya-carbon-fiber-spoilers-upper-lower-and-roof-pieces-explained/)
+
+### Continue reading on this blog
+
+- [Carbon Fiber OEM & ODM: RFQ, Tooling and Approval Guide]({{< relref "posts/automotive-carbon-fiber-oem-odm-complete-guide.md" >}})
+- [Automotive Carbon Fiber Surface Finishing Guide: Gloss, Matte and Clear Coat]({{< relref "posts/automotive-carbon-fiber-surface-finishing-guide.md" >}})
+- [BMW G80 M3 Carbon Fiber Parts Guide: Products, Fitment and Wholesale Buying]({{< relref "posts/bmw-g80-m3-carbon-fiber-parts-guide.md" >}})

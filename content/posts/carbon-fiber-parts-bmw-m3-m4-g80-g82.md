@@ -76,3 +76,29 @@ Not automatically. Cosmetic appearance, weight change and aerodynamic performanc
 Use the [official vehicle directory on ccfrp.com](https://ccfrp.com/vehicles/) to prepare a shortlist, then ask CCF to confirm the exact SKU, availability and fitment scope for your order.
 
 BMW model names are used to identify vehicle applications. This guide does not imply affiliation with or approval by the vehicle manufacturer.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [BMW G80 M3 and G82 M4 Carbon Fiber Spoilers: Matching the Trunk and Mounting Style](https://ccfrp.com/g80-g82-carbon-spoiler-trunk-mounting-fitment/)
+- [BMW G80 M3 vs G82 M4 Carbon Fiber Side Skirts: What Shops Must Confirm](https://ccfrp.com/g80-m3-g82-m4-carbon-fiber-side-skirts-fitment/)
+- [BMW G80/G82/G83 Carbon Fiber Side Skirts — MP-Style](https://ccfrp.com/bmw-g80-g82-g83-carbon-fiber-side-skirts-mp-style/)
+- [BMW G82/G83 M4 Carbon Fiber Side Skirts — Flat-Profile](https://ccfrp.com/bmw-g82-g83-m4-carbon-fiber-side-skirts-flat-profile/)
+
+### Related technical and buying guides
+
+- [BMW M3 and M4 LCI Carbon Fiber Parts: How Shops Should Verify Carryover Fitment](https://ccfrp.com/g80-g82-lci-carbon-fiber-fitment-checks/)
+- [BMW M2, M3 & M4 Carbon Fiber OE Part Number Guide: G87, G80 & G82](https://ccfrp.com/bmw-m2-m3-m4-carbon-fiber-oe-part-numbers/)
+- [BMW G80/G82 Carbon Fiber Grilles: ACC Compatibility Checklist](https://ccfrp.com/bmw-g80-g82-carbon-fiber-grille-acc-compatibility/)
+- [BMW G80/G82 Carbon Fiber Mirror Caps: LHD vs RHD Replacement Checklist](https://ccfrp.com/g80-g82-carbon-mirror-caps-lhd-rhd/)
+- [BMW G87 M2 Carbon Fiber Hoods: What to Check Before Quoting an Installation](https://ccfrp.com/g87-m2-carbon-fiber-hood-fitment-checklist/)
+- [BMW M2, M3 and M4 Carbon Fiber: Build a Better Black Friday Dealer Order](https://ccfrp.com/bmw-m2-m3-m4-black-friday-carbon-fiber/)
+- [BMW M2, M3 and M4 Carbon Fiber Parts: Wholesale Trial Orders](https://ccfrp.com/bmw-m3-m4-m2-carbon-parts-mixed-trial-orders/)
+- [BMW F80 M3 and F82 M4 Carbon Fiber Upgrades: Planning a Customer Build](https://ccfrp.com/bmw-f80-m3-f82-m4-carbon-fiber-build-planning/)
+
+### Continue reading on this blog
+
+- [BMW G80 M3 vs G82 M4 Carbon Fiber Side Skirts: Fitment, Pairs and Wholesale SKUs]({{< relref "posts/carbon-fiber-purchase-order-units.md" >}})
+- [BMW G80 M3 / G82 M4 Carbon Fiber Front Lip: Wholesale Price and Fitment Comparison]({{< relref "posts/carbon-fiber-quote-hardware-scope.md" >}})
+- [BMW G80 M3 Carbon Fiber Parts Guide: Products, Fitment and Wholesale Buying]({{< relref "posts/bmw-g80-m3-carbon-fiber-parts-guide.md" >}})

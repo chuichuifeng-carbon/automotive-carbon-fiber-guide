@@ -66,3 +66,29 @@ Potentially. Confirm the manufacturer's catalog-order terms and sample availabil
 ### What should I do if the minimum exceeds my demand?
 
 Ask about a paid sample, available stock, mixed-SKU orders or a different replenishment schedule. If none works, defer the SKU rather than buying inventory only to reach a price break.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [How to Specify Heat-Exposure Requirements for Custom Carbon Fiber Trim](https://ccfrp.com/carbon-fiber-engine-bay-heat-resistance-requirements/)
+- [G-Class Carbon Roof Accessories: Separate Trim Orders from Lighting Projects](https://ccfrp.com/g-class-carbon-roof-trim-lighting-order-scope/)
+- [Supra Front Lip Orders: Workshop Handover | CCF](https://ccfrp.com/supra-front-lip-workshop-order-handover/)
+- [Audi C8 A6/S6 Carbon Spoilers: What Dealers Should Send to the Installer](https://ccfrp.com/audi-c8-spoiler-dealer-installation-handover/)
+
+### Related technical and buying guides
+
+- [Wholesale Carbon Fiber Parts: Samples, MOQ and Mixed-Model Orders](https://ccfrp.com/wholesale-carbon-fiber-parts-samples-moq-and-mixed-model-orders/)
+- [How to Reduce Tooling Risks in Custom Carbon Fiber Manufacturing](https://ccfrp.com/carbon-fiber-tooling-risk-reduction/)
+- [BMW Carbon Fiber Parts Fitment Data: Building a Dealer Catalog That Reduces Wrong Orders](https://ccfrp.com/bmw-carbon-fiber-parts-fitment-data-dealers/)
+- [Carbon Fiber Tooling Projects: What Buyers Should Clarify About Mold Ownership and Changes](https://ccfrp.com/carbon-fiber-tooling-mold-ownership-questions/)
+- [OEM Carbon Fiber Parts: What to Send Your Manufacturer for Feasibility Review](https://ccfrp.com/custom-carbon-fiber-feasibility-brief/)
+- [How to Choose an OEM Carbon Fiber Manufacturer for Custom Projects](https://ccfrp.com/how-to-choose-oem-carbon-fiber-parts-manufacturer/)
+- [Carbon Fiber Dropshipping for Dealers: What to Confirm Before Taking Customer Orders](https://ccfrp.com/carbon-fiber-parts-dropshipping-dealer-checklist/)
+- [How to Plan a Test-Fit Vehicle Session for a Custom Carbon Fiber Project](https://ccfrp.com/carbon-fiber-prototype-test-fit-vehicle/)
+
+### Continue reading on this blog
+
+- [Custom Carbon Fiber Front Lip Manufacturing: From Reference Photo to Tooling]({{< relref "posts/carbon-fiber-photo-development-brief.md" >}})
+- [Carbon Fiber OEM & ODM: RFQ, Tooling and Approval Guide]({{< relref "posts/automotive-carbon-fiber-oem-odm-complete-guide.md" >}})
+- [Top 10 Custom Carbon Fiber Car Parts Manufacturers Worldwide]({{< relref "posts/custom-carbon-fiber-car-parts-manufacturers-worldwide.md" >}})

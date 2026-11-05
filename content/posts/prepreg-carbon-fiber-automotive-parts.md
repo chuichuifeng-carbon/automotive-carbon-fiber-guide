@@ -131,3 +131,29 @@ No single cure-temperature figure establishes suitability for every operating co
 ### Can I approve a batch from the appearance sample?
 
 Appearance acceptance covers the criteria actually reviewed. Fitment, construction and any required performance verification need their own evidence before a broader release.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [How to Review Adhesive Compatibility Before Installing Carbon Fiber Trim](https://ccfrp.com/adhesive-for-carbon-fiber-trim/)
+- [Audi RS Q8 Carbon Fiber Mirror Caps: Overlay or Replacement for Your Shop?](https://ccfrp.com/audi-rs-q8-carbon-fiber-mirror-caps-overlay-or-replacement-for-your-shop/)
+- [How to Specify Heat-Exposure Requirements for Custom Carbon Fiber Trim](https://ccfrp.com/carbon-fiber-engine-bay-heat-resistance-requirements/)
+- [Carbon Fiber Parts for Lowered Cars: Clearance Checks Before a Shop Quotes](https://ccfrp.com/carbon-fiber-front-lip-clearance-lowered-cars/)
+
+### Related technical and buying guides
+
+- [What Files and Measurements Are Needed for Custom Carbon Fiber Parts?](https://ccfrp.com/custom-carbon-fiber-parts-design-requirements/)
+- [How to Check Whether Carbon Fiber Parts Are Ready for PPF](https://ccfrp.com/ppf-on-carbon-fiber-parts/)
+- [Gloss or Matte Carbon Fiber: How to Choose for Customer Builds](https://ccfrp.com/gloss-vs-matte-carbon-fiber-car-parts/)
+- [Best Dry Carbon Fiber Manufacturers for Automotive Parts](https://ccfrp.com/best-dry-carbon-fiber-manufacturers-automotive-parts/)
+- [How to Read UV and Clear-Coat Test Reports for Carbon Fiber Parts](https://ccfrp.com/carbon-fiber-uv-resistance-test-report/)
+- [Carbon Fiber Weave Patterns: Plain, Twill and 3K Explained](https://ccfrp.com/carbon-fiber-weave-patterns-automotive-parts/)
+- [Forged or Woven Carbon: How to Choose a Finish for a Private-Label Range](https://ccfrp.com/forged-vs-woven-carbon-fiber-car-parts/)
+- [How to Prepare 3D Scan Data for a Carbon Fiber Parts RFQ](https://ccfrp.com/3d-scan-data-carbon-fiber-parts-manufacturing/)
+
+### Continue reading on this blog
+
+- [BMW G82 M4 Carbon Fiber Parts Guide: Choosing Parts for a Coupe Build]({{< relref "posts/bmw-g82-m4-carbon-fiber-parts-guide.md" >}})
+- [Dry Carbon vs Wet Carbon: Which Is Right for Automotive Parts?]({{< relref "posts/dry-vs-wet-carbon-fiber.md" >}})
+- [How Automotive Carbon Fiber Parts Are Made: From Vehicle Data to Finished Parts]({{< relref "posts/how-automotive-carbon-fiber-parts-are-made.md" >}})

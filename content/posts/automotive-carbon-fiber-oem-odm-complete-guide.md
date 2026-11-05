@@ -72,3 +72,29 @@ No. Design rights, tooling ownership and exclusivity are separate matters. Agree
 ### What should be reconfirmed after a design change?
 
 Update the revision, affected interfaces, cost, timing and verification plan. Reapprove the changed scope before the next release.
+
+## Explore this topic on CCF
+
+### Product references and application guides
+
+- [How to Plan an OEM Equipment Transfer to a Carbon Fiber Trunk Lid](https://ccfrp.com/carbon-fiber-trunk-lid-oem-hardware-transfer/)
+- [Aston Martin DB11 Carbon Fiber Body Kits: Comparing Lips, Skirts and Rear Pieces](https://ccfrp.com/aston-martin-db11-carbon-fiber-body-kits-comparing-lips-skirts-and-rear-pieces/)
+- [Audi R8 Carbon Fiber Engine Covers and Bay Panels: What Shops Should Confirm](https://ccfrp.com/audi-r8-carbon-fiber-engine-covers-and-bay-panels-what-shops-should-confirm/)
+- [Audi RS7 Carbon Fiber Rear Diffusers: Bumper and Exhaust Fitment](https://ccfrp.com/audi-rs7-carbon-fiber-diffuser-fitment/)
+
+### Related technical and buying guides
+
+- [Automotive Carbon Fiber OEM & ODM Manufacturing Guide: From Concept to Production](https://ccfrp.com/automotive-carbon-fiber-oem-odm-complete-guide/)
+- [OEM Carbon Fiber Prototype Approval: A Brand’s Checklist](https://ccfrp.com/carbon-fiber-prototype-approval-checklist/)
+- [Carbon Fiber Tooling Projects: What Buyers Should Clarify About Mold Ownership and Changes](https://ccfrp.com/carbon-fiber-tooling-mold-ownership-questions/)
+- [Private-Label Carbon Fiber Parts: A Branding and Packaging Approval Checklist](https://ccfrp.com/private-label-carbon-fiber-packaging-approval/)
+- [How to Prepare 3D Scan Data for a Carbon Fiber Parts RFQ](https://ccfrp.com/3d-scan-data-carbon-fiber-parts-manufacturing/)
+- [How to Reduce Tooling Risks in Custom Carbon Fiber Manufacturing](https://ccfrp.com/carbon-fiber-tooling-risk-reduction/)
+- [OEM Carbon Fiber Parts: What to Send Your Manufacturer for Feasibility Review](https://ccfrp.com/custom-carbon-fiber-feasibility-brief/)
+- [How to Choose an OEM Carbon Fiber Manufacturer for Custom Projects](https://ccfrp.com/how-to-choose-oem-carbon-fiber-parts-manufacturer/)
+
+### Continue reading on this blog
+
+- [Automotive Carbon Fiber Surface Finishing Guide: Gloss, Matte and Clear Coat]({{< relref "posts/automotive-carbon-fiber-surface-finishing-guide.md" >}})
+- [BMW G80 M3 Carbon Fiber Parts Guide: Products, Fitment and Wholesale Buying]({{< relref "posts/bmw-g80-m3-carbon-fiber-parts-guide.md" >}})
+- [Carbon Fiber Parts MOQ: Samples, Catalog Orders & Custom Tooling]({{< relref "posts/carbon-fiber-moq-guide.md" >}})
