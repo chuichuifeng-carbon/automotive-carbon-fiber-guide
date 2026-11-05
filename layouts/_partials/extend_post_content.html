@@ -8,6 +8,21 @@
     {{ end }}
   {{ end }}
   </ul>
+  <section class="ccf-recommendations" aria-label="Recommended CCF resources">
+    <h2>You may also like</h2>
+    <ul>
+    {{ $items := index site.Data.ccf_recommendations .File.ContentBaseName }}
+    {{ if $items }}
+      {{ range $items }}<li><a href="{{ .url }}">{{ .title }}</a></li>{{ end }}
+    {{ else }}
+      <li><a href="https://ccfrp.com/products/">Browse carbon fiber products</a></li>
+      <li><a href="https://ccfrp.com/vehicles/">Find parts by vehicle</a></li>
+      <li><a href="https://ccfrp.com/carbon-fiber-sample-inspection-wholesale-order/">Inspect a wholesale sample</a></li>
+      <li><a href="https://ccfrp.com/grow/wholesale/">Wholesale purchasing options</a></li>
+      <li><a href="https://ccfrp.com/grow/oem-odm/">Custom carbon fiber development: CCF OEM/ODM</a></li>
+    {{ end }}
+    </ul>
+  </section>
   <p class="buyer-note">Published by CCF, an automotive carbon fiber supplier. Apply these checks to any supplier, including us. {{ with .Lastmod }}Updated {{ .Format "2 January 2006" }}.{{ end }} Examples are not quotations; confirm requirements for the exact order.</p>
   {{ $target := "https://ccfrp.com/contact/" }}
   {{ $label := "Discuss your product requirement" }}
@@ -24,7 +39,7 @@
   <h2>{{ $label }}</h2>
   <p>{{ $intro }} Our official B2B website is <a href="https://ccfrp.com/">ccfrp.com</a>.</p>
   {{ $query := querify "utm_source" "github_pages" "utm_medium" "referral" "utm_campaign" "buyer_guides" "utm_content" .File.ContentBaseName }}
-  <p><a class="buyer-cta" href="{{ $target }}?{{ $query }}">{{ if eq $target "https://ccfrp.com/contact/" }}Send your requirement to CCF{{ else }}Continue on ccfrp.com →{{ end }}</a></p>
-  <p><a href="https://wa.me/8613427690360?{{ querify "text" (printf "Hello CCF, I read your guide: %s. Vehicle: [please add]. Product: [please add]. Quantity: [please add]. Destination: [please add]." .Title) }}">Ask on WhatsApp</a> · <a href="mailto:info@ccfrp.com">info@ccfrp.com</a></p>
+  <p><a class="buyer-cta" href="{{ printf "%s?%s" $target $query | safeURL }}">{{ if eq $target "https://ccfrp.com/contact/" }}Send your requirement to CCF{{ else }}Continue on ccfrp.com →{{ end }}</a></p>
+  <p><a href="{{ printf "https://wa.me/8613427690360?%s" (querify "text" (printf "Hello CCF, I read your guide: %s. Vehicle: [please add]. Product: [please add]. Quantity: [please add]. Destination: [please add]." .Title)) | safeURL }}">Ask on WhatsApp</a> · <a href="mailto:info@ccfrp.com">info@ccfrp.com</a></p>
 </aside>
 {{ end }}
